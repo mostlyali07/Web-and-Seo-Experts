@@ -13,11 +13,11 @@ a {
 }
 .main-banner {
   height: 101vh;
+  margin-top: -13vh;
   background-image: url(./images/background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  margin-top: -13vh;
 }
 .nav-item a {
   color: #fff !important;
@@ -28,7 +28,7 @@ a {
 .banner-left h1 {
   color: #fff;
   font-weight: 600;
-  margin-top: 200px;
+  margin-top: 150px;
   font-size: 46px;
 }
 .banner-left h6 {
@@ -72,4 +72,108 @@ a {
   transition: 0.6s;
   background-color: #fb8c00;
   border: 1px solid #fb8c00;
+}
+.btns-three {
+  color: #fff;
+  font-size: 15px;
+  background-color: #fb8c00;
+  border: 1px solid #fb8c00;
+  border-radius: 6px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 26px;
+  padding-right: 26px;
+}
+.btns-three:hover {
+  transition: 0.6s;
+  background-color: #000;
+  border: 1px solid #fff;
+  border-radius: 6px;
+}
+.btns-four {
+  color: #fff;
+  font-size: 15px;
+  background-color: #000;
+  border: 1px solid #000;
+  border-radius: 6px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 46px;
+  padding-right: 46px;
+}
+.btns-four:hover {
+  transition: 0.6s;
+  background-color: #000;
+  border: 1px solid #fff;
+  border-radius: 6px;
+}
+.four-divs {
+  background-color: #efefef;
+  border-radius: 36px;
+}
+.four-divs i {
+  font-size: 26px;
+  color: #fb8c00;
+  background-color: #fff;
+  padding: 18px;
+  border-radius: 55px;
+  box-shadow: 3px 4px 26px -4px rgba(255, 184, 38, 0.34);
+  -webkit-box-shadow: 3px 4px 26px -4px rgba(255, 184, 38, 0.34);
+  -moz-box-shadow: 3px 4px 26px -4px rgba(255, 184, 38, 0.34);
+}
+.four-divs h5 {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+}
+.four-divs h6 {
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 10px;
+  line-height: 26px;
+}
+.four-divs:hover {
+  cursor: pointer;
+  transition: 0.4s;
+  background-color: #fb8c00;
+}
+.four-divs:hover i {
+  color: #fff;
+  background-color: #ffb151;
+}
+.four-divs:hover h5 {
+  transition: 0.2s;
+  color: #fff;
+}
+.four-divs:hover h6 {
+  transition: 0.2s;
+  color: #fff;
+}
+.form-sec {
+  background-color: #fb8c00;
+}
+.form-sec {
+  color: #fff;
+}
+.Images-main-two {
+  width: 500px;
+  height: 500px;
+}
+@media only screen and (max-width: 600px) {
+  .Images-main-two {
+    width: 300px;
+    height: 300px;
+  }
+  .Images-main {
+    width: 350px;
+    height: 285px;
+  }
+  .banner-left h1 {
+    font-size: 33px;
+  }
+  .main-banner {
+    padding-top: 46px;
+    margin-top: -20vh;
+  }
 }
