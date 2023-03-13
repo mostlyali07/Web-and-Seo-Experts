@@ -12,8 +12,8 @@ a {
   color: #fff;
 }
 .main-banner {
-  height: 101vh;
-  margin-top: -13vh;
+  height: 102vh;
+  margin-top: -15vh;
   background-image: url(./images/background.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -159,6 +159,15 @@ a {
 .Images-main-two {
   width: 500px;
   height: 500px;
+}
+.right-side-panel ul li{
+    color: #fb8c00;
+    font-weight: 600;
+    font-size: 14px;
+}
+.right-side-panel h2{
+    font-weight: 600;
+    font-size: 34px;
 }
 @media only screen and (max-width: 600px) {
   .Images-main-two {
