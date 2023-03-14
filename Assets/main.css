@@ -210,12 +210,41 @@ a {
   color: #fb8c00;
   font-weight: 600;
 }
+/************************* Style the tab End *************************/
 .random {
   width: 300px !important;
   border-radius: 26px;
 }
+.randomOne{
+  width: 600px !important;
+}
 .tablinks {
   font-weight: 600;
+}
+.sixth-div {
+  height: 80vh;
+  background-image: url(./images/Shape_150.png);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.count {
+  color: #fb8c00;
+  font-size: 46px;
+  font-weight: 600;
+}
+.text-5,
+.fa-percent {
+  font-weight: 600;
+  font-size: 16px;
+  color: #fb8c00;
+}
+.sixth-div h2 {
+  font-weight: 600;
+}
+.sixth-div ul li,
+.sixth-div p {
+  color: #606060;
 }
 @media only screen and (max-width: 600px) {
   .Images-main-two {
