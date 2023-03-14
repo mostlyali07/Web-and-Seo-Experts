@@ -262,4 +262,7 @@ a {
     padding-top: 46px;
     margin-top: -20vh;
   }
+  .randomOne {
+    width: 340px !important;
+}
 }
