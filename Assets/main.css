@@ -196,14 +196,26 @@ a {
   background-color: #fb8c00;
 }
 .tab button.active {
+  color: #fff;
   background-color: #fb8c00;
 }
 .tabcontent {
   float: left;
   padding: 0px 12px;
-  width: 70%;
-  border-left: none;
-  height: 300px;
+}
+.tabcontent img {
+  width: 340px;
+}
+.tabcontent h3 {
+  color: #fb8c00;
+  font-weight: 600;
+}
+.random {
+  width: 300px !important;
+  border-radius: 26px;
+}
+.tablinks {
+  font-weight: 600;
 }
 @media only screen and (max-width: 600px) {
   .Images-main-two {
