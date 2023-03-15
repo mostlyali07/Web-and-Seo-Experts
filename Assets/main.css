@@ -96,8 +96,8 @@ a {
   background-color: #000;
   border: 1px solid #000;
   border-radius: 6px;
-  padding-top: 13px;
-  padding-bottom: 13px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   padding-left: 46px;
   padding-right: 46px;
 }
@@ -215,7 +215,7 @@ a {
   width: 300px !important;
   border-radius: 26px;
 }
-.randomOne{
+.randomOne {
   width: 600px !important;
 }
 .tablinks {
@@ -224,7 +224,7 @@ a {
 .sixth-div {
   height: 80vh;
   background-image: url(./images/Shape_150.png);
-  background-position: bottom center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -246,6 +246,47 @@ a {
 .sixth-div p {
   color: #606060;
 }
+.fa-circle {
+  color: #fb8c00;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+.campaign {
+  background-color: #fff;
+  border-radius: 26px;
+  margin: 26px 0px;
+  box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
+}
+.campaign:hover {
+  background-color: #fb8c00;
+}
+.campaign:hover .text-6 {
+  background-color: #fb8c00;
+  color: #fff;
+}
+.campaign:hover .text-7 {
+  background-color: #fb8c00;
+  color: #fff;
+}
+.text-6 {
+  color: #000;
+  font-weight: 600;
+  font-size: 20px;
+}
+.text-7 {
+  color: #606060;
+  font-size: 14px;
+}
+.numbers {
+  font-weight: 800;
+  color: #f0f6ff;
+  font-size: 56px;
+}
+.numbers-div {
+  margin-top: -50px;
+}
 @media only screen and (max-width: 600px) {
   .Images-main-two {
     width: 300px;
@@ -264,5 +305,8 @@ a {
   }
   .randomOne {
     width: 340px !important;
-}
+  }
+  .sixth-div {
+    height: auto;
+  }
 }
