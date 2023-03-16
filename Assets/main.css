@@ -11,8 +11,10 @@ a {
 .social-icons .fa-brands {
   color: #fff;
 }
+.heightss {
+  height: 106vh;
+}
 .main-banner {
-  height: 102vh;
   margin-top: -15vh;
   background-image: url(./images/background.jpg);
   background-position: center;
@@ -28,7 +30,7 @@ a {
 .banner-left h1 {
   color: #fff;
   font-weight: 600;
-  margin-top: 150px;
+  /* margin-top: 150px; */
   font-size: 46px;
 }
 .banner-left h6 {
@@ -270,6 +272,15 @@ a {
   background-color: #fb8c00;
   color: #fff;
 }
+.campaign:hover .icons-charts {
+  background-color: #fb8c00;
+  color: #fff;
+}
+.icons-charts {
+  color: #fb8c00;
+  font-size: 28px;
+  margin-right: 26px;
+}
 .text-6 {
   color: #000;
   font-weight: 600;
@@ -286,6 +297,28 @@ a {
 }
 .numbers-div {
   margin-top: -50px;
+}
+.Main-Footer {
+  background-image: url(./images/Oval.png);
+  background-position: 15%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #2e2e2e;
+  height: 60vh;
+}
+.Main-Footer h2 {
+  color: #fff;
+}
+.Main-Footer h6 {
+  color: #fff;
+}
+.Main-Footer p {
+  color: #fff;
+}
+.Main-Footer li {
+  color: #fff;
+  text-decoration: none;
+  list-style: none;
 }
 @media only screen and (max-width: 600px) {
   .Images-main-two {
