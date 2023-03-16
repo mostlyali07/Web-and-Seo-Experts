@@ -304,7 +304,7 @@ a {
   background-repeat: no-repeat;
   background-size: contain;
   background-color: #2e2e2e;
-  height: 60vh;
+  /* height: 60vh; */
 }
 .Main-Footer h2 {
   color: #fff;
