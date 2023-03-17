@@ -31,6 +31,8 @@ a {
 }
 .navbar-toggler-icon {
   background-image: url(./images/bars-solid.svg);
+  width: 20px;
+  height: 20px;
 }
 .nav-item a {
   color: #fff !important;
@@ -463,6 +465,9 @@ a {
   width: 180px;
   height: 180px;
 }
+.imagessss {
+  width: auto;
+}
 .imagesss {
   width: 400px;
   /* height: 350px; */
@@ -515,6 +520,9 @@ a {
   .imagesss {
     width: 360px;
   }
+  .imagessss {
+    width: 360px;
+  }
   .Award-1,
   .Award-2,
   .Award-3,
@@ -533,5 +541,13 @@ a {
   .Top-Bar a {
     font-size: 11px;
     text-align: center;
+  }
+  .merge-one {
+    background-size: 81%;
+    background-position: 50% 70%;
+  }
+  .merge-two {
+    background-size: 75%;
+    background-position: 80% 35%;
   }
 }
