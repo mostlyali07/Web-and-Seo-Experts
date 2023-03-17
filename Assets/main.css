@@ -14,12 +14,23 @@ a {
 .heightss {
   height: 106vh;
 }
+.Top-Bar {
+  background-color: #040406;
+}
+
 .main-banner {
   margin-top: -15vh;
   background-image: url(./images/background.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+.navbar-toggler {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #fff;
+}
+.navbar-toggler-icon {
+  background-image: url(./images/bars-solid.svg);
 }
 .nav-item a {
   color: #fff !important;
@@ -511,5 +522,16 @@ a {
   .Award-5 {
     height: 75px;
     width: 75px;
+  }
+  .main-bar {
+    background-color: #040406;
+  }
+  .navbar-collapse {
+    padding: 36px;
+    background-color: #040406;
+  }
+  .Top-Bar a {
+    font-size: 11px;
+    text-align: center;
   }
 }
