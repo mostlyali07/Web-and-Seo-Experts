@@ -298,6 +298,22 @@ a {
 .numbers-div {
   margin-top: -50px;
 }
+.merge-one {
+  background-image: url(./images/back-one.png);
+  background-repeat: no-repeat;
+  background-size: 33%;
+  background-position: 80% 75%;
+}
+.merge-two {
+  background-image: url(./images/back-two.png);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: 80% 34%;
+}
+.imagesss {
+  width: 400px;
+  /* height: 350px; */
+}
 .Main-Footer {
   background-image: url(./images/Oval.png);
   background-position: 15%;
