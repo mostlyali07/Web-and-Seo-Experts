@@ -171,6 +171,30 @@ a {
 .form-sec {
   color: #fff;
 }
+.input-feilds {
+  width: 100% !important;
+  height: 56px;
+  border-radius: 6px;
+  padding: 10px;
+  background-color: #f7a744;
+  border: solid 1px #fc9d27;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+}
+.input-feilds:active {
+  transition: 0.2s;
+  border: solid 1px #fff;
+}
+.input-feilds:hover {
+  transition: 0.2s;
+  border: solid 1px #fff;
+}
+.input-feilds::placeholder {
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 1px;
+}
 .Images-main-two {
   width: 500px;
   height: 500px;
@@ -494,6 +518,7 @@ a {
   text-decoration: none;
   list-style: none;
 }
+
 @media only screen and (max-width: 600px) {
   .Images-main-two {
     width: 300px;
