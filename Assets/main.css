@@ -445,50 +445,7 @@ a {
   background-color: #fb8c00;
   color: #fff;
 }
-.Awards {
-  display: flex;
-  justify-content: space-evenly;
-}
-.Award-1 {
-  background-image: url(./images/Award-1.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 80%;
-  width: 180px;
-  height: 180px;
-}
-.Award-2 {
-  background-image: url(./images/Award-2.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 80%;
-  width: 180px;
-  height: 180px;
-}
-.Award-3 {
-  background-image: url(./images/Award-3.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 80%;
-  width: 180px;
-  height: 180px;
-}
-.Award-4 {
-  background-image: url(./images/Award-4.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 80%;
-  width: 180px;
-  height: 180px;
-}
-.Award-5 {
-  background-image: url(./images/Award-5.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 80%;
-  width: 180px;
-  height: 180px;
-}
+
 .imagessss {
   width: auto;
 }
@@ -548,14 +505,6 @@ a {
   .imagessss {
     width: 360px;
   }
-  .Award-1,
-  .Award-2,
-  .Award-3,
-  .Award-4,
-  .Award-5 {
-    height: 75px;
-    width: 75px;
-  }
   .main-bar {
     background-color: #040406;
   }
@@ -574,5 +523,8 @@ a {
   .merge-two {
     background-size: 75%;
     background-position: 80% 35%;
+  }
+  .Awards img {
+    width: 80px;
   }
 }

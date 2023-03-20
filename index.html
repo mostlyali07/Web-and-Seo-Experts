@@ -203,7 +203,7 @@
                 <div class="col-md-8 text-center my-5">
                     <h2>SIGNUP NOW!</h2>
                     <p>You will never get a second chance to make a first impression!</p>
-                    <form action="./" method="post">
+                    <form onsubmit="sendEmail(); reset(); return false" method="post">
                         <div class="row my-3">
                             <div class="col-md-6">
                                 <input type="text" placeholder="FIRST NAME" class="input-feilds mb-2">
@@ -214,7 +214,7 @@
                         </div>
                         <div class="row my-3">
                             <div class="col-md-6">
-                                <input type="email" placeholder="EMAIL" class="input-feilds mb-2">
+                                <input type="email" placeholder="EMAIL" class="input-feilds mb-2" required id="email">
                             </div>
                             <div class="col-md-6">
                                 <input type="number" placeholder="NUMBER" class="input-feilds mb-2">
@@ -232,41 +232,6 @@
                             </div>
                         </div>
                     </form>
-                    <!-- <div class="row">
-                        <div class="col-md-6">
-                            <input class="form-control form-control-lg" type="text" placeholder="FIRST NAME"
-                                aria-label="FIRST NAME">
-                        </div>
-                        <div class="col-md-6">
-                            <input class="form-control form-control-lg" type="text" placeholder="LAST NAME"
-                                aria-label="LAST NAME">
-                        </div>
-                        <br />
-                        <br />
-                        <br />
-                        <div class="col-md-6">
-                            <input class="form-control form-control-lg" type="email" placeholder="EMAIL"
-                                aria-label="EMAIL">
-                        </div>
-                        <div class="col-md-6">
-                            <input class="form-control form-control-lg" type="number" placeholder="NUMBER"
-                                aria-label="NUMBER">
-                        </div>
-                        <br />
-                        <br />
-                        <br />
-                        <div class="col-md-6">
-                            <input class="form-control form-control-lg" type="text" placeholder="DETAILS"
-                                aria-label="DETAILS">
-                        </div>
-                        <div class="col-md-3">
-                            <input class="form-control form-control-lg" type="date" placeholder="DATE"
-                                aria-label="DATE">
-                        </div>
-                        <div class="col-md-3">
-                            <button class="btns-four" type="submit">SUBMIT NOW</button>
-                        </div>
-                    </div> -->
                 </div>
                 <div class="col-md-2"></div>
             </div>
@@ -731,14 +696,12 @@
         <div class="row text-center">
             <h2 class="fw-bold">Awards</h2>
             <p>Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.</p>
-            <div class="col-md-12 d-flex justify-content-evenly">
-                <div class="Awards">
-                    <div class="Award-1"></div>
-                    <div class="Award-2"></div>
-                    <div class="Award-3"></div>
-                    <div class="Award-4"></div>
-                    <div class="Award-5"></div>
-                </div>
+            <div class="col-md-12 d-flex justify-content-evenly text-center flex-wrap Awards">
+                <img src="./Assets/images/Award-1.png" alt="Award-1">
+                <img src="./Assets/images/Award-2.png" alt="Award-2">
+                <img src="./Assets/images/Award-3.png" alt="Award-3">
+                <img src="./Assets/images/Award-4.png" alt="Award-4">
+                <img src="./Assets/images/Award-5.png" alt="Award-5">
             </div>
         </div>
     </div>
@@ -809,6 +772,7 @@
         </div>
     </Footer>
     <!---------------- Footer End ---------------->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script src="https://kit.fontawesome.com/b1e4efcbad.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
         integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
@@ -846,6 +810,7 @@
         // Get the element with id="defaultOpen" and click on it
         document.getElementById("defaultOpen").click();
     </script>
+    <script src="./Assets/index.js"></script>
 </body>
 
 </html>
