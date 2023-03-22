@@ -42,12 +42,13 @@ a {
 }
 .main-form {
   width: 65%;
-  background-image: linear-gradient(90deg, #ff8c00, #ffc277);
+  /* opacity: 0.5; */
+  background-image: linear-gradient(90deg, #ff8c0072, #ffc27744);
   padding: 56px 26px 36px 26px;
   border-radius: 6px;
 }
 .main-form h3 {
-  color: #000;
+  color: #fff;
   font-weight: 600;
   font-size: 21px;
 }
@@ -161,8 +162,8 @@ a {
   color: #fff;
   font-weight: 600;
   font-size: 15px;
-  background-color: #023866;
-  border: 1px solid #023866;
+  background-color: #fb8c00;
+  border: 1px solid #fb8c00;
   border-radius: 6px;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -170,9 +171,9 @@ a {
 }
 .btns-five:hover {
   transition: 0.4s;
-  color: #000;
-  background-color: #f7a744;
-  border: 1px solid #000;
+  color: #fff;
+  background-color: #023866;
+  border: 1px solid #023866;
   border-radius: 6px;
 }
 .btns-six {
@@ -389,7 +390,7 @@ a {
   color: #fff;
 }
 .campaign:hover {
-  background-image: linear-gradient( #ff8c00, #023866);
+  background-image: linear-gradient(#ff8c00, #023866);
 }
 .icons-charts {
   color: #fb8c00;
@@ -509,7 +510,7 @@ a {
   .main-banner {
     padding-top: 96px;
     margin-top: -20vh;
-    padding-bottom: 226px;
+    padding-bottom: 300px;
   }
   .randomOne {
     width: 340px !important;
