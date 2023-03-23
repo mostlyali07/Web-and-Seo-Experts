@@ -1,90 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEB and SEO Experts</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="./Assets/main.css">
-</head>
+<?php include './Includes/head.php'; ?>
 
 <body>
-    <!---------------- Header Start ---------------->
-    <div class="Top-Bar">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 d-flex">
-                    <a href="#" class="py-2">About Us</a>
-                    <a href="#" class="px-4 py-2">FAQ</a>
-                    <div class="social-icons px-4 py-2">
-                        <a href="#"><i class="fa-brands fa-twitter"></i></a>&nbsp;&nbsp;
-                        <a href="#"><i class="fa-brands fa-facebook-f"></i></a>&nbsp;&nbsp;
-                        <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>&nbsp;&nbsp;
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-6 d-flex flex-row-reverse">
-                    <a href="#" class="py-2"><i class="fa-solid fa-envelope"></i> anum_company@gmail.com</a>
-                    &nbsp;&nbsp;&nbsp;
-                    <a href="#" class="py-2 pl-5"><i class="fa-solid fa-location-dot"></i> 411 University St, Seattle,
-                        USA</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="main-bar">
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container">
-                <a class="navbar-brand" href="#">
-                    <img src="./Assets/images/logo.png" alt="Web and SEO Experts">
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <ul class="navbar-nav me-auto justify-content-end collapse navbar-collapse" id="navbarSupportedContent">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                            aria-expanded="false">
-                            All Services
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">SEO Services</a></li>
-                            <li><a class="dropdown-item" href="#">Website Development</a></li>
-                            <li><a class="dropdown-item" href="#">Author Website</a></li>
-                            <li><a class="dropdown-item" href="#">Logo Designs</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Testimonials</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <button class="btns-one" type="submit">Analyze My Site</button>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-    </div>
-    <!---------------- Header End ---------------->
+    <?php include './Includes/header.php'; ?>
+
     <!---------------- First Section Start ---------------->
     <div class="main-banner">
         <div class="container">
@@ -112,8 +33,7 @@
                         <button class="btns-two" type="submit">CALL NOW</button>
                         <h6 class="mt-3">Trusted By:</h6>
                         <div class="d-flex">
-                            <img src="./Assets/images/trustpilot-stacked-logo.png"
-                                alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
+                            <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
                             <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
                             <img src="./Assets/images/binsider.png" alt="B Insider">
                         </div>
@@ -125,8 +45,7 @@
                         <form action="./">
                             <input type="text" placeholder="YOUR NAME" class="input-feilds-banner mb-2">
 
-                            <input type="email" placeholder="EMAIL" class="input-feilds-banner mb-2" required
-                                id="email">
+                            <input type="email" placeholder="EMAIL" class="input-feilds-banner mb-2" required id="email">
 
                             <input type="number" placeholder="NUMBER" class="input-feilds-banner mb-2">
 
@@ -833,109 +752,9 @@
     <!---------------- Awards Section End ---------------->
 
     <!---------------- Footer Start ---------------->
-    <Footer class="Main-Footer">
-        <div class="container py-4">
-            <div class="row">
-                <div class="col-md-6 d-flex align-items-center my-5">
-                    <div>
-                        <h2 class="fw-bold">Interested in Collaboration?</h2>
-                        <h6 class="lh-lg">Challenge us. We want to work with you to create <br>
-                            the realty cool stuff.</h6>
-                    </div>
-                </div>
-                <div class="col-md-6 d-flex justify-content-end align-items-center">
-                    <button class="btns-six" type="submit">Contant Us <i class="fa-solid fa-arrow-right"></i></button>
-                </div>
-            </div>
-            <hr style="color: #fff;" />
-            <div class="row mt-5">
-                <div class="col-md-5">
-                    <a class="navbar-brand" href="#">
-                        <img src="./Assets/images/logo.png" alt="Web and SEO Experts">
-                    </a>
-                    <p class="mt-4">Lorem Ipsum is simply dummy text of the printing <br />
-                        and typesetting industry. Lorem Ipsum has been the <br />
-                        standard dumnv text ever <br />
-                        since the 1500s.</p>
-                    <h6 class="fw-bold">Trusted By:</h6>
-                    <img src="./Assets/images/Footer-trusted-img.png" alt="">
-                </div>
-                <div class="col-md-2 lh-lg">
-                    <h6 class="fw-bold mb-4">About Us</h6>
-                    <li>Home</li>
-                    <li>About Us</li>
-                    <li>Services</li>
-                    <li>Pricing</li>
-                    <li>Portfolio</li>
-                    <li>Contatc Us</li>
-
-                </div>
-                <div class="col-md-2 lh-lg">
-                    <h6 class="fw-bold mb-4">Services</h6>
-                    <li>Custom Illustration</li>
-                    <li>Logo Illustration</li>
-                    <li>2D Illustration</li>
-                    <li>3D Illustration</li>
-                </div>
-                <div class="col-md-3 lh-lg">
-                    <h6 class="fw-bold mb-4">Contact Us</h6>
-                    <li> <i class="fa-solid fa-location-dot"> &nbsp;</i> 17595 Harvard Ave Ste C-641
-                        Irvine, CA 92614 United States</li>
-                    <li><i class="fa-solid fa-envelope"></i> info@webandseoexperts.com</li>
-                    <li><i class="fa-solid fa-phone"></i> 1-844-716-8111</li>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 text-center mt-5">
-                    <h6 class="lh-lg">Copyright &copy; 2023 webandseoexperts.com | All rights
-                        reserved. Terms And
-                        Conditions | Privacy
-                        Policy
-                    </h6>
-                </div>
-            </div>
-        </div>
-    </Footer>
+    <?php include './Includes/footer.php'; ?>
     <!---------------- Footer End ---------------->
-    <script src="https://smtpjs.com/v3/smtp.js"></script>
-    <script src="https://kit.fontawesome.com/b1e4efcbad.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-        integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous">
-        </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
-        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
-        </script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script>
-        $('.count,.count-2').each(function () {
-            $(this).prop('Counter', 0).animate({
-                Counter: $(this).text()
-            }, {
-                duration: 4000,
-                easing: 'swing',
-                step: function (now) {
-                    $(this).text(Math.ceil(now));
-                }
-            });
-        });
-        function openCity(evt, cityName) {
-            var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            tablinks = document.getElementsByClassName("tablinks");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-            }
-            document.getElementById(cityName).style.display = "block";
-            evt.currentTarget.className += " active";
-        }
 
-        // Get the element with id="defaultOpen" and click on it
-        document.getElementById("defaultOpen").click();
-    </script>
-    <script src="./Assets/index.js"></script>
 </body>
 
 </html>
