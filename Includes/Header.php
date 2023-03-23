@@ -54,7 +54,7 @@
                     <a class="nav-link" href="#">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="/Web-and-Seo-Experts/contact-us.php">Contact Us</a>
                 </li>
                 <li class="nav-item">
                     <button class="btns-one" type="submit">Analyze My Site</button>
