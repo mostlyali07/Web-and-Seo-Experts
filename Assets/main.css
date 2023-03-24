@@ -25,6 +25,19 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.main-banner p {
+  color: #fff;
+}
+.seo-banner {
+  margin-top: -15vh;
+  background: linear-gradient(0deg, rgba(255 255 255 / 10%), rgba(0, 0, 0, 0.69)), url(./images/back-seo.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.seo-banner p {
+  color: #fff;
+}
 .navbar-toggler {
   padding: 0.5rem 0.75rem;
   border: 1px solid #fff;
@@ -42,15 +55,24 @@ a {
 }
 .main-form {
   width: 65%;
-  /* opacity: 0.5; */
-  background-image: linear-gradient(90deg, #ff8c0072, #ffc27744);
   padding: 56px 26px 36px 26px;
-  border-radius: 6px;
+  background-image: linear-gradient(90deg, #ff8c0072, #ffc27744);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3.1px);
+  -webkit-backdrop-filter: blur(3.1px);
 }
 .main-form h3 {
   color: #fff;
   font-weight: 600;
   font-size: 21px;
+}
+.dropdown-item.active,
+.dropdown-item:active,
+.dropdown-item:hover {
+  color: #fff !important;
+  text-decoration: none;
+  background-color: #fb8c00;
 }
 .input-feilds-banner {
   width: 100% !important;
@@ -314,6 +336,12 @@ a {
   font-weight: 600;
   font-size: 34px;
 }
+.right-side-panel h6 {
+  color: #fb8c00;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+}
 .middle-text h2 {
   font-weight: 600;
   font-size: 32px;
@@ -541,7 +569,11 @@ a {
   text-decoration: none;
   list-style: none;
 }
+.overlay{
+  background-color: #000;
 
+  /* opacity: ; */
+}
 @media only screen and (max-width: 600px) {
   .Images-main-two {
     width: 300px;
@@ -556,6 +588,11 @@ a {
     font-size: 33px;
   }
   .main-banner {
+    padding-top: 96px;
+    margin-top: -20vh;
+    padding-bottom: 300px;
+  }
+  .seo-banner {
     padding-top: 96px;
     margin-top: -20vh;
     padding-bottom: 300px;

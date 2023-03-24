@@ -23,8 +23,8 @@
 <div class="main-bar">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="./Assets/images/logo.png" alt="Web and SEO Experts">
+            <a class="navbar-brand" href="/Web-and-Seo-Experts/">
+                <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" width="240">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -38,10 +38,10 @@
                         All Services
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">SEO Services</a></li>
-                        <li><a class="dropdown-item" href="#">Website Development</a></li>
-                        <li><a class="dropdown-item" href="#">Author Website</a></li>
-                        <li><a class="dropdown-item" href="#">Logo Designs</a></li>
+                        <li><a class="dropdown-item" href="#">Google Paid marketing</a></li>
+                        <li><a class="dropdown-item" href="/Web-and-Seo-Experts/seo-service.php">Search Engine Optimization</a></li>
+                        <li><a class="dropdown-item" href="#">Social Media marketing</a></li>
+                        <li><a class="dropdown-item" href="#">Website Design & Development</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

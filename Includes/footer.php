@@ -16,7 +16,7 @@
         <div class="row mt-5">
             <div class="col-md-5">
                 <a class="navbar-brand" href="#">
-                    <img src="./Assets/images/logo.png" alt="Web and SEO Experts">
+                    <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" width="240">
                 </a>
                 <p class="mt-4">Lorem Ipsum is simply dummy text of the printing <br />
                     and typesetting industry. Lorem Ipsum has been the <br />
