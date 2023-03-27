@@ -30,7 +30,12 @@ a {
 }
 .seo-banner {
   margin-top: -15vh;
-  background: linear-gradient(0deg, rgba(255 255 255 / 10%), rgba(0, 0, 0, 0.69)), url(./images/back-seo.jpeg);
+  background: linear-gradient(
+      0deg,
+      rgba(255 255 255 / 10%),
+      rgba(0, 0, 0, 0.69)
+    ),
+    url(./images/back-seo.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -432,12 +437,17 @@ a {
   letter-spacing: 2px;
 }
 .campaign {
-  background-color: #fff;
+  background-image: linear-gradient(#fff, #fff);
   border-radius: 26px;
   margin: 26px 0px;
   box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
+  transition: all 0.2s ease-in;
+}
+.campaign:hover {
+  background-image: linear-gradient(#ff8c00, #023866);
+  transform: scale(1.1);
 }
 .campaign:hover .text-6 {
   background-color: #0000;
@@ -450,9 +460,6 @@ a {
 .campaign:hover .icons-charts {
   background-color: #0000;
   color: #fff;
-}
-.campaign:hover {
-  background-image: linear-gradient(#ff8c00, #023866);
 }
 .icons-charts {
   color: #fb8c00;
@@ -569,7 +576,7 @@ a {
   text-decoration: none;
   list-style: none;
 }
-.overlay{
+.overlay {
   background-color: #000;
 
   /* opacity: ; */
