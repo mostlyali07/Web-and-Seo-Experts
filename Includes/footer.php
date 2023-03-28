@@ -68,8 +68,8 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
 </script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 <script>
     $('.count,.count-2').each(function() {
         $(this).prop('Counter', 0).animate({
@@ -99,17 +99,18 @@
 
     // Get the element with id="defaultOpen" and click on it
     document.getElementById("defaultOpen").click();
+    document.getElementById("defaultOpenText").click();
 
     // script for tab steps
-    $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+    // $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
 
-        var href = $(e.target).attr('href');
-        var $curr = $(".process-model  a[href='" + href + "']").parent();
+    //     var href = $(e.target).attr('href');
+    //     var $curr = $(".process-model  a[href='" + href + "']").parent();
 
-        $('.process-model li').removeClass();
+    //     $('.process-model li').removeClass();
 
-        $curr.addClass("active");
-        $curr.prevAll().addClass("visited");
-    });
-    // end  script for tab steps
+    //     $curr.addClass("active");
+    //     $curr.prevAll().addClass("visited");
+    // });
+    // // end  script for tab steps
 </script>

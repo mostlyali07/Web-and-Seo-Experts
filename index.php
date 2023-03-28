@@ -21,13 +21,21 @@
                         <ul class="mb-3">
                             <li>&nbsp;Recognition, Fame And Credibility</li>
                             <li>&nbsp;Authority In Your Area of Expertise</li>
-                            <li>&nbsp;Increase In Sales For Your Business</li>
-                            <li>&nbsp;More Career Growth Opportunities</li>
-                            <li>&nbsp;A Steady, Reliable Additional Income</li>
-                            <li>&nbsp;Inspire Others With Your Work!</li>
+                            <li>&nbsp;Increase In Sales For Your Business</li>  
                         </ul>
                         <h6 class="mb-4">We Can Write,Design and Publish <br />
                             your book in <span style="color: #fb8c00;"> less than 30 days</span>!</h6>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <input type="text" placeholder="YOUR NAME" class="input-feilds mb-2"> I
+                            </div>
+                            <div class="col-md-4">
+                                <input type="email" placeholder="YOUR EMAIL" class="input-feilds mb-2"> I
+                            </div>
+                            <div class="col-md-4">
+                                <input type="tel" placeholder="YOUR PHONE" class="input-feilds mb-2"> I
+                            </div>
+                        </div>
 
                         <button class="btns-one" type="submit">START PROJECT</button>
                         <button class="btns-two" type="submit">CALL NOW</button>
@@ -40,6 +48,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
+                    <img src="./" alt="">
                     <!-- <div class="main-form text-center">
                         <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
                         <form action="./">
