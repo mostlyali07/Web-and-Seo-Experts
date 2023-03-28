@@ -113,7 +113,7 @@
         <div class="row pb-5">
             <div class="col-md-12 pt-5 right-side-panel text-center">
                 <h6>
-                    Our Search Engine Optimization Page
+                    Our Process
                 </h6>
                 <h2 class="mb-5">
                     Say Goodbye To Social Media Misery Once And For All
@@ -128,6 +128,74 @@
             </div>
         </div>
         <div class="row">
+            <div class="col-md-12">
+                <section class="design-process-section" id="process-tab">
+                    <div class="container">
+                        <!-- design process steps-->
+                        <!-- Nav tabs -->
+                        <ul class="nav nav-tabs process-model more-icon-preocess" role="tablist">
+                            <li role="presentation" class="active"><a href="#discover" aria-controls="discover" role="tab" data-toggle="tab"><i class="fa fa-search" aria-hidden="true"></i>
+                                    <p>Discover</p>
+                                </a>
+                            </li>
+                            <li role="presentation"><a href="#strategy" aria-controls="strategy" role="tab" data-toggle="tab"><i class="fa fa-send-o" aria-hidden="true"></i>
+                                    <p>Strategy</p>
+                                </a>
+                            </li>
+                            <li role="presentation"><a href="#optimization" aria-controls="optimization" role="tab" data-toggle="tab"><i class="fa fa-qrcode" aria-hidden="true"></i>
+                                    <p>Optimization</p>
+                                </a>
+                            </li>
+                            <li role="presentation"><a href="#content" aria-controls="content" role="tab" data-toggle="tab"><i class="fa fa-newspaper-o" aria-hidden="true"></i>
+                                    <p>Content</p>
+                                </a>
+                            </li>
+                            <li role="presentation"><a href="#reporting" aria-controls="reporting" role="tab" data-toggle="tab"><i class="fa fa-clipboard" aria-hidden="true"></i>
+                                    <p>Reporting</p>
+                                </a>
+                            </li>
+                        </ul>
+                        <!-- end design process steps-->
+                        <!-- Tab panes -->
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane active" id="discover">
+                                <div class="design-process-content">
+                                    <h3 class="semi-bold">Discovery</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
+                                </div>
+                            </div>
+                            <div role="tabpanel" class="tab-pane" id="strategy">
+                                <div class="design-process-content">
+                                    <h3 class="semi-bold">Strategy</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
+                                </div>
+                            </div>
+                            <div role="tabpanel" class="tab-pane" id="optimization">
+                                <div class="design-process-content">
+                                    <h3 class="semi-bold">Optimization</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
+                                </div>
+                            </div>
+                            <div role="tabpanel" class="tab-pane" id="content">
+                                <div class="design-process-content">
+                                    <h3 class="semi-bold">Content</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
+                                </div>
+                            </div>
+                            <div role="tabpanel" class="tab-pane" id="reporting">
+                                <div class="design-process-content">
+                                    <h3>Reporting</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat. </p>
+                                </div>
+                            </div>
+                        </div>
+                </section>
+
+
+
+            </div>
+        </div>
+        <!-- <div class="row">
             <div class="col-md-3 p-4">
                 <div class="text-center four-divs py-5 px-4">
                     <i class="fa-solid fa-gear mb-4"></i>
@@ -168,7 +236,7 @@
                     </h6>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <!---------------- Second Section End ---------------->
     <div class="container my-5">
@@ -260,13 +328,20 @@
             </div>
         </div>
         <div class="row">
-                <div class="tab d-flex mb-5">
-                    <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">Logo
-                        Design</button>
-                    <button class="tablinks" onclick="openCity(event, 'Web-Design')">Web Design</button>
-                    <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Development</button>
-                    <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Content-Writing</button>
-                </div>
+            <div class="tab d-flex mb-5 mobile-tab">
+                <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">
+                    <i class="fa-solid fa-pen-nib"></i></button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Design')"><i class="fa-solid fa-code"></i></button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Development')"><i class="fa-brands fa-codepen"></i></button>
+                <button class="tablinks" onclick="openCity(event, 'Content-Writing')"><i class="fa-solid fa-folder-plus"></i></button>
+            </div>
+            <div class="tab d-flex mb-5 desk-tab">
+                <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">Logo
+                    Design</button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Design')">Web Design</button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Development</button>
+                <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Content-Writing</button>
+            </div>
             <div class="col-md-12">
                 <div id="Logo-Design" class="tabcontent">
                     <div class="row">
@@ -414,6 +489,74 @@
             </div>
         </div>
     </div>
+
+
+    <!---------------- Ninth Section Start ---------------->
+    <div class="container">
+        <div class="row my-5">
+            <div class="col-md-12 text-center">
+                <h2 class="fw-bold">Carefully Crafted Website Packages For New And Existing Businesses</h2>
+                <p>we provide Highly Flexible And Affordable Design options</p>
+                <button class="btns-six" type="submit">Promotional</button>
+                <button class="btns-four" type="submit">eCommerce</button>
+            </div>
+        </div>
+    </div>
+    <div class="Ninth-div">
+        <div class="container">
+            <div class="row my-5">
+                <div class="col-md-4">
+                    <div class="price-box">
+                        <h4>Standard</h4>
+                        <span class="fw-bold fs-1">$50</span> <span style="color: #fff; font-size: 14px;">/
+                            Month</span>
+                        <hr>
+                        <ul class="lh-lg">
+                            <li>3 Landingpage Asset</li>
+                            <li>20 Illustration Asset</li>
+                            <li>20 Template Animation</li>
+                            <li>30 Icon Asset</li>
+                            <li>20 Photos Asset</li>
+                        </ul>
+                        <a href="/">Buy Package</a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="price-box">
+                        <h4>Premium</h4>
+                        <span class="fw-bold fs-1">$75</span> <span style="color: #fff; font-size: 14px;">/
+                            Month</span>
+                        <hr>
+                        <ul class="lh-lg">
+                            <li>3 Landingpage Asset</li>
+                            <li>20 Illustration Asset</li>
+                            <li>20 Template Animation</li>
+                            <li>30 Icon Asset</li>
+                            <li>20 Photos Asset</li>
+                        </ul>
+                        <a href="/">Buy Package</a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="price-box">
+                        <h4>Deluxe</h4>
+                        <span class="fw-bold fs-1">$100</span> <span style="color: #fff; font-size: 14px;">/
+                            Month</span>
+                        <hr>
+                        <ul class="lh-lg">
+                            <li>3 Landingpage Asset</li>
+                            <li>20 Illustration Asset</li>
+                            <li>20 Template Animation</li>
+                            <li>30 Icon Asset</li>
+                            <li>20 Photos Asset</li>
+                        </ul>
+                        <a href="/">Buy Package</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---------------- Ninth Section End ---------------->
     <?php include './Includes/footer.php'; ?>
 
 </body>

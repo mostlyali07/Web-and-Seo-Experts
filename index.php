@@ -40,7 +40,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <div class="main-form text-center">
+                    <!-- <div class="main-form text-center">
                         <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
                         <form action="./">
                             <input type="text" placeholder="YOUR NAME" class="input-feilds-banner mb-2">
@@ -53,7 +53,7 @@
 
                             <button class="btns-five" type="submit">SUBMIT NOW</button>
                         </form>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
