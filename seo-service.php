@@ -8,55 +8,55 @@
 
 <body>
     <?php include './Includes/header.php'; ?>
-    <div class="overlay">
-        <div class="seo-banner">
-            <div class="container">
-                <div class="row heightss">
-                    <div class="col-md-6 banner-left d-flex align-items-center">
-                        <div>
-                            <h1>
-                                Search Engine
-                                Your <span style="color: #fb8c00;"> Optimization</span>
-                            </h1>
-                            <h6> WHAT YOU GAIN: </h6>
-                            <p class="mb-3">
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, <br>
-                                corrupti. Inventore, mollitia voluptates praesentium consequatur quod tenetur, <br>
-                                officiis veniam eum nemo, nisi totam labore. Nemo, blanditiis? <br> Neque aut molestias laborum?
-                            </p>
-                            <h6 class="mb-4">We Can Write,Design and Publish <br />
-                                your book in <span style="color: #fb8c00;"> less than 30 days</span>!</h6>
 
-                            <button class="btns-one" type="submit">START PROJECT</button>
-                            <button class="btns-two" type="submit">CALL NOW</button>
-                            <h6 class="mt-3">Trusted By:</h6>
-                            <div class="d-flex">
-                                <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                                <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                                <img src="./Assets/images/binsider.png" alt="B Insider">
-                            </div>
+    <div class="seo-banner">
+        <div class="container">
+            <div class="row heightss">
+                <div class="col-md-6 banner-left d-flex align-items-center">
+                    <div>
+                        <h1>
+                            Search Engine
+                            Your <span style="color: #fb8c00;"> Optimization</span>
+                        </h1>
+                        <h6> WHAT YOU GAIN: </h6>
+                        <p class="mb-3">
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, <br>
+                            corrupti. Inventore, mollitia voluptates praesentium consequatur quod tenetur, <br>
+                            officiis veniam eum nemo, nisi totam labore. Nemo, blanditiis? <br> Neque aut molestias laborum?
+                        </p>
+                        <h6 class="mb-4">We Can Write,Design and Publish <br />
+                            your book in <span style="color: #fb8c00;"> less than 30 days</span>!</h6>
+
+                        <button class="btns-one" type="submit">START PROJECT</button>
+                        <button class="btns-two" type="submit">CALL NOW</button>
+                        <h6 class="mt-3">Trusted By:</h6>
+                        <div class="d-flex">
+                            <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
+                            <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
+                            <img src="./Assets/images/binsider.png" alt="B Insider">
                         </div>
                     </div>
-                    <div class="col-md-6 d-flex align-items-center justify-content-center">
-                        <div class="main-form text-center">
-                            <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
-                            <form action="./">
-                                <input type="text" placeholder="YOUR NAME" class="input-feilds-banner mb-2">
+                </div>
+                <div class="col-md-6 d-flex align-items-center justify-content-center">
+                    <div class="main-form text-center">
+                        <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
+                        <form action="./">
+                            <input type="text" placeholder="YOUR NAME" class="input-feilds-banner mb-2">
 
-                                <input type="email" placeholder="EMAIL" class="input-feilds-banner mb-2" required id="email">
+                            <input type="email" placeholder="EMAIL" class="input-feilds-banner mb-2" required id="email">
 
-                                <input type="number" placeholder="NUMBER" class="input-feilds-banner mb-2">
+                            <input type="number" placeholder="NUMBER" class="input-feilds-banner mb-2">
 
-                                <input type="text" placeholder="WEBSITE" class="input-feilds-banner mb-2">
+                            <input type="text" placeholder="WEBSITE" class="input-feilds-banner mb-2">
 
-                                <button class="btns-five" type="submit">SUBMIT NOW</button>
-                            </form>
-                        </div>
+                            <button class="btns-five" type="submit">SUBMIT NOW</button>
+                        </form>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <div class="container my-5">
         <div class="row my-5">
             <div class="col-md-6">
@@ -129,63 +129,6 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <!-- <section class="design-process-section" id="process-tab">
-                    <ul class="nav nav-tabs process-model more-icon-preocess" role="tablist">
-                        <li role="presentation" class="active"><a href="#discover" aria-controls="discover" role="tab" data-toggle="tab"><i class="fa fa-search" aria-hidden="true"></i>
-                                <p>Discover</p>
-                            </a>
-                        </li>
-                        <li role="presentation"><a href="#strategy" aria-controls="strategy" role="tab" data-toggle="tab"><i class="fa fa-send-o" aria-hidden="true"></i>
-                                <p>Strategy</p>
-                            </a>
-                        </li>
-                        <li role="presentation"><a href="#optimization" aria-controls="optimization" role="tab" data-toggle="tab"><i class="fa fa-qrcode" aria-hidden="true"></i>
-                                <p>Optimization</p>
-                            </a>
-                        </li>
-                        <li role="presentation"><a href="#content" aria-controls="content" role="tab" data-toggle="tab"><i class="fa fa-newspaper-o" aria-hidden="true"></i>
-                                <p>Content</p>
-                            </a>
-                        </li>
-                        <li role="presentation"><a href="#reporting" aria-controls="reporting" role="tab" data-toggle="tab"><i class="fa fa-clipboard" aria-hidden="true"></i>
-                                <p>Reporting</p>
-                            </a>
-                        </li>
-                    </ul>
-                    <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane active" id="discover">
-                            <div class="design-process-content">
-                                <h3 class="semi-bold">Discovery</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
-                            </div>
-                        </div>
-                        <div role="tabpanel" class="tab-pane" id="strategy">
-                            <div class="design-process-content">
-                                <h3 class="semi-bold">Strategy</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
-                            </div>
-                        </div>
-                        <div role="tabpanel" class="tab-pane" id="optimization">
-                            <div class="design-process-content">
-                                <h3 class="semi-bold">Optimization</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
-                            </div>
-                        </div>
-                        <div role="tabpanel" class="tab-pane" id="content">
-                            <div class="design-process-content">
-                                <h3 class="semi-bold">Content</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat</p>
-                            </div>
-                        </div>
-                        <div role="tabpanel" class="tab-pane" id="reporting">
-                            <div class="design-process-content">
-                                <h3>Reporting</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincid unt ut laoreet dolore magna aliquam erat volutpat. </p>
-                            </div>
-                        </div>
-                    </div>
-                </section> -->
-
 
             </div>
         </div>
@@ -315,8 +258,7 @@
         <div class="row">
             <div class="col-md-12 text-center middle-text">
                 <h2>
-                    We're on a Mission to <br />
-                    Change Your View of SEO
+                    Our SEO Process
                 </h2>
                 <p>A values-driven SEO agency dedicated to empowering our customers.</p>
             </div>

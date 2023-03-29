@@ -71,6 +71,33 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 <script>
+    // const header = document.querySelector('header');
+    // let prevScrollPos = window.pageYOffset;
+
+    // window.addEventListener('scroll', () => {
+    //     const currentScrollPos = window.pageYOffset;
+    //     if (prevScrollPos > currentScrollPos) {
+    //         header.style.top = '0';
+    //     } else {
+    //         header.style.top = `-${header.offsetHeight}px`;
+    //     }
+    //     prevScrollPos = currentScrollPos;
+    // });
+    const header = document.querySelector('header');
+
+    window.addEventListener('scroll', () => {
+        const scrollPos = window.scrollY;
+        if (scrollPos > 0) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+    });
+
+
+
+
+    
     $('.count,.count-2').each(function() {
         $(this).prop('Counter', 0).animate({
             Counter: $(this).text()
@@ -100,17 +127,4 @@
     // Get the element with id="defaultOpen" and click on it
     document.getElementById("defaultOpen").click();
     document.getElementById("defaultOpenText").click();
-
-    // script for tab steps
-    // $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
-
-    //     var href = $(e.target).attr('href');
-    //     var $curr = $(".process-model  a[href='" + href + "']").parent();
-
-    //     $('.process-model li').removeClass();
-
-    //     $curr.addClass("active");
-    //     $curr.prevAll().addClass("visited");
-    // });
-    // // end  script for tab steps
 </script>

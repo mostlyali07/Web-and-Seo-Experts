@@ -1,5 +1,5 @@
-<div class="Top-Bar">
-    <div class="container">
+<!-- <div class="Top-Bar">
+    <div class="container-fluid">
         <div class="row">
             <div class="col-md-6 d-flex">
                 <a href="#" class="py-2">About Us</a>
@@ -19,12 +19,12 @@
             </div>
         </div>
     </div>
-</div>
-<div class="main-bar">
+</div> -->
+<header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container">
+        <div class="container-fluid">
             <a class="navbar-brand" href="/Web-and-Seo-Experts/">
-                <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" width="240">
+                <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" class="nav-logo">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -62,4 +62,4 @@
             </ul>
         </div>
     </nav>
-</div>
+</header>

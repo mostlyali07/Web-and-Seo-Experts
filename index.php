@@ -9,7 +9,7 @@
     <!---------------- First Section Start ---------------->
     <div class="main-banner">
         <div class="container">
-            <div class="row heightss">
+            <div class="row">
                 <div class="col-md-6 banner-left d-flex align-items-center">
                     <div>
                         <h1>
@@ -21,48 +21,51 @@
                         <ul class="mb-3">
                             <li>&nbsp;Recognition, Fame And Credibility</li>
                             <li>&nbsp;Authority In Your Area of Expertise</li>
-                            <li>&nbsp;Increase In Sales For Your Business</li>  
+                            <li>&nbsp;Increase In Sales For Your Business</li>
                         </ul>
                         <h6 class="mb-4">We Can Write,Design and Publish <br />
                             your book in <span style="color: #fb8c00;"> less than 30 days</span>!</h6>
-                        <div class="row">
-                            <div class="col-md-4">
-                                <input type="text" placeholder="YOUR NAME" class="input-feilds mb-2"> I
-                            </div>
-                            <div class="col-md-4">
-                                <input type="email" placeholder="YOUR EMAIL" class="input-feilds mb-2"> I
-                            </div>
-                            <div class="col-md-4">
-                                <input type="tel" placeholder="YOUR PHONE" class="input-feilds mb-2"> I
-                            </div>
-                        </div>
+
 
                         <button class="btns-one" type="submit">START PROJECT</button>
                         <button class="btns-two" type="submit">CALL NOW</button>
-                        <h6 class="mt-3">Trusted By:</h6>
-                        <div class="d-flex">
-                            <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                            <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                            <img src="./Assets/images/binsider.png" alt="B Insider">
-                        </div>
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <img src="./" alt="">
+                    <img src="./Assets/images/tool.png" class="main-imgs">
                     <!-- <div class="main-form text-center">
                         <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
                         <form action="./">
                             <input type="text" placeholder="YOUR NAME" class="input-feilds-banner mb-2">
-
+                            
                             <input type="email" placeholder="EMAIL" class="input-feilds-banner mb-2" required id="email">
-
+                            
                             <input type="number" placeholder="NUMBER" class="input-feilds-banner mb-2">
-
+                            
                             <input type="text" placeholder="WEBSITE" class="input-feilds-banner mb-2">
-
+                            
                             <button class="btns-five" type="submit">SUBMIT NOW</button>
                         </form>
                     </div> -->
+                </div>
+                <div class="heighs d-flex justify-content-center align-items-center mt-5">
+                    <form class="vert-form">
+                        <input type="text" placeholder="YOUR NAME" class="input-feilds">
+
+                        <input type="email" placeholder="YOUR EMAIL" class="input-feilds">
+
+                        <input type="tel" placeholder="YOUR PHONE" class="input-feilds">
+                        
+                        <input type="text" placeholder="YOUR WEBSITE" class="input-feilds">
+
+                        <button class="btns-nine">ANALYZE</button>
+                    </form>
+
+                </div>
+                <div class="d-flex justify-content-center">
+                    <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
+                    <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
+                    <img src="./Assets/images/binsider.png" alt="B Insider">
                 </div>
             </div>
         </div>
