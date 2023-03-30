@@ -283,6 +283,7 @@ header.scrolled {
 .four-divs {
   background-color: #eeeff0;
   border-radius: 36px;
+  height: 345px;
 }
 .four-divs i {
   font-size: 26px;
@@ -364,7 +365,7 @@ header.scrolled {
   border-radius: 26px;
   padding: 10px;
   background-color: #fff;
-  border: solid 1px #e3e3e3;
+  border: solid 1px #9e9e9e;
   color: #000;
   cursor: pointer;
   font-size: 14px;
@@ -383,9 +384,11 @@ header.scrolled {
   letter-spacing: 1px;
 }
 .vert-form {
-  background-image: linear-gradient(90deg, #ff8c0072, #ffc27744);
-  border-radius: 6px;
-  padding: 16px 16px;
+  /* background-image: linear-gradient(90deg, #ff8c0072, #ffc27744); */
+  border-radius: 56px;
+  background-color: #fff;
+  border: #fb8c00 3px solid;
+  padding: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 }
 .Images-main-two {
@@ -410,6 +413,129 @@ header.scrolled {
 .middle-text h2 {
   font-weight: 600;
   font-size: 32px;
+}
+
+/* Button 10 */
+/* .toggle-button-cover {
+  display: table-cell;
+  position: relative;
+  width: 200px;
+  height: 140px;
+  box-sizing: border-box;
+} */
+
+/* .button-cover {
+  height: 100px;
+  margin: 20px;
+  background-color: #fff;
+  box-shadow: 0 10px 20px -8px #c5d6d6;
+  border-radius: 4px;
+} */
+
+/* .button-cover:before {
+  counter-increment: button-counter;
+  content: counter(button-counter);
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: #d7e3e3;
+  font-size: 12px;
+  line-height: 1;
+  padding: 5px;
+} */
+/* .button-cover, */
+.knobs,
+.layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.button {
+  position: relative;
+  top: 50%;
+  width: 260px;
+  height: 66px;
+  overflow: hidden;
+}
+
+.button.b2 {
+  border-radius: 56px;
+}
+
+.checkbox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 3;
+}
+
+.knobs {
+  z-index: 2;
+}
+
+.layer {
+  width: 100%;
+  background-color: #fcebeb;
+  transition: 0.3s ease all;
+  z-index: 1;
+}
+#button-10 .knobs:before,
+#button-10 .knobs:after,
+#button-10 .knobs span {
+  position: absolute;
+  top: 8px;
+  width: 120px;
+  height: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1;
+  padding: 15px 6px;
+  border-radius: 26px;
+  transition: 0.3s ease all;
+}
+
+#button-10 .knobs:before {
+  content: "";
+  left: 4px;
+  background-color: #fb8c00;
+}
+
+#button-10 .knobs:after {
+  content: "After SEO";
+  right: 4px;
+  color: #4e4e4e;
+}
+
+#button-10 .knobs span {
+  display: inline-block;
+  left: 4px;
+  color: #fff;
+  z-index: 1;
+}
+
+#button-10 .checkbox:checked + .knobs span {
+  color: #4e4e4e;
+}
+
+#button-10 .checkbox:checked + .knobs:before {
+  left: 135px;
+  background-color: #023866;
+}
+
+#button-10 .checkbox:checked + .knobs:after {
+  color: #fff;
+}
+
+#button-10 .checkbox:checked ~ .layer {
+  background-color: #ebf7fc;
 }
 /************************* Style the tab *************************/
 .tab {

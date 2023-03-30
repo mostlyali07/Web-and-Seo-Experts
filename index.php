@@ -13,20 +13,15 @@
                 <div class="col-md-6 banner-left d-flex align-items-center">
                     <div>
                         <h1>
-                            Channel Organic <br />
-                            Traffic To <br />
-                            Your <span style="color: #fb8c00;"> Online Presence</span>
+                            Search Engine Optimization Services To Turn Your
+                            <span style="color: #fb8c00;"> Online Presence
+                                Into A Profit Machine</span>
                         </h1>
-                        <h6> WHAT YOU GAIN: </h6>
-                        <ul class="mb-3">
-                            <li>&nbsp;Recognition, Fame And Credibility</li>
-                            <li>&nbsp;Authority In Your Area of Expertise</li>
-                            <li>&nbsp;Increase In Sales For Your Business</li>
-                        </ul>
-                        <h6 class="mb-4">We Can Write,Design and Publish <br />
-                            your book in <span style="color: #fb8c00;"> less than 30 days</span>!</h6>
-
-
+                        <p>
+                            Don't wait any longer to take your business to the next level - let us help you get there with
+                            our top-notch search engine optimization services! At Web and SEO Experts,
+                            You will receive website analysis, strategy, forecast, and key performance indicators without any strings attached.
+                        </p>
                         <button class="btns-one" type="submit">START PROJECT</button>
                         <button class="btns-two" type="submit">CALL NOW</button>
                     </div>
@@ -48,20 +43,7 @@
                         </form>
                     </div> -->
                 </div>
-                <div class="heighs d-flex justify-content-center align-items-center mt-5">
-                    <form class="vert-form">
-                        <input type="text" placeholder="YOUR NAME" class="input-feilds">
-
-                        <input type="email" placeholder="YOUR EMAIL" class="input-feilds">
-
-                        <input type="tel" placeholder="YOUR PHONE" class="input-feilds">
-                        
-                        <input type="text" placeholder="YOUR WEBSITE" class="input-feilds">
-
-                        <button class="btns-nine">ANALYZE</button>
-                    </form>
-
-                </div>
+                <?php include './Includes/form.php' ?>
                 <div class="d-flex justify-content-center">
                     <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
                     <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
@@ -82,15 +64,10 @@
                     <li>WHAT WE DO</li>
                 </ul>
                 <h2>
-                    Grow Your Business <br />
-                    with Us.
+                    Rethinking SEO – Let Our SEO Agency Take Your Business To New Heights
                 </h2>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and <br />
-                    typesetting industry. Lorem Ipsum has been the industry's<br />
-                    standard dummy text ever since the 1500s, when an<br />
-                    unknown printer took a gal ley of type and scrambled it to<br />
-                    make a type specimen book
+                    Are you tired of the same old approach to SEO? Look no further than Web and SEO Experts. Our SEO agency is on a mission to revolutionize the way businesses approach SEO. We believe that SEO is more than just a technical process - it's a creative endeavor that requires personalized attention. Our SEO consultants will help you rethink SEO and discover the true potential of this powerful tool.
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
@@ -101,38 +78,34 @@
                     <i class="fa-solid fa-gear mb-4"></i>
                     <h5>All Sizes Business</h5>
                     <h6>
-                        Every business and industry
-                        requires an approach.
+                        Our SEO services cater to businesses of all sizes, whether you're a small startup or a large corporation.
                     </h6>
                 </div>
             </div>
             <div class="col-md-3 p-4">
                 <div class="text-center four-divs py-5 px-4">
                     <i class="fa-solid fa-globe mb-4"></i>
-                    <h5>Keep you in the Loop</h5>
+                    <h5>Customized SEO Strategies</h5>
                     <h6>
-                        You make sure you know
-                        how campaign is.
+                        We create customized SEO strategies tailored to your specific needs.
                     </h6>
                 </div>
             </div>
             <div class="col-md-3 p-4">
                 <div class="text-center four-divs py-5 px-4">
                     <i class="fa-solid fa-chart-simple mb-4"></i>
-                    <h5>Significant ROI</h5>
+                    <h5>Keep You In The Loop</h5>
                     <h6>
-                        To generate highly focused
-                        leads ready to purchases.
+                        We'll keep you in the loop every step of the way so you can see the results for yourself.
                     </h6>
                 </div>
             </div>
             <div class="col-md-3 p-4">
                 <div class="text-center four-divs py-5 px-4">
                     <i class="fa-solid fa-rocket mb-4"></i>
-                    <h5>Awesome Results</h5>
+                    <h5>Significant ROI</h5>
                     <h6>
-                        We have seen great
-                        successes with everyone.
+                        By targeting the right keywords and optimizing your website, we'll help you attract more qualified leads and increase your revenue.
                     </h6>
                 </div>
             </div>
@@ -242,10 +215,9 @@
         <div class="row">
             <div class="col-md-12 text-center middle-text">
                 <h2>
-                    We're on a Mission to <br />
-                    Change Your View of SEO
+                    Our Online Clients Range From Fledgling Businesses To Fortune 500 Giants
                 </h2>
-                <p>A values-driven SEO agency dedicated to empowering our customers.</p>
+                <p>Don’t Miss Out On The Best Chance To Nail The Search Engine </p>
             </div>
         </div>
         <div class="row">
@@ -266,18 +238,13 @@
                         </div>
                         <div class="col-md-7">
                             <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
+                                What Makes Web And SEO Experts Different From Other SEO Marketing Companies?
                             </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                            <p>At Web and SEO Experts, we have worked with over 200 businesses.
+                                Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
+                                With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
+                                Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
+                                <button class="btns-six" type="submit">START PROJECT</button>
                         </div>
                     </div>
                 </div>
@@ -355,7 +322,7 @@
     <!---------------- Fifth Section End ---------------->
 
     <!---------------- Sixth Section Start ---------------->
-    <div class="sixth-div">
+    <div class="sixth-div my-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -363,22 +330,30 @@
                         <li>WE GET RESULTS</li>
                     </ul>
                     <h2>
-                        One Of The Top Web <br />
-                        Marketing Plans: <br />
-                        SEO Strategies
+                        Don't get lost in the SEO Updates - Let Our SEO Experts Keep You In The Top Ranks
                     </h2>
+
+                    <div class="my-4">
+                        <div class="button-cover">
+                            <div class="button b2" id="button-10">
+                                <input type="checkbox" class="checkbox">
+                                <div class="knobs">
+                                    <span>Before SEO</span>
+                                </div>
+                                <div class="layer"></div>
+                            </div>
+                        </div>
+                    </div>
+
                     <p>
-                        We help ambitious businesses like yours generate <br />
-                        more profits by building awareness, driving web traffic,<br />
-                        connecting with customers, and growing overall<br />
-                        Give us a call.
+                        With over 4,000 algorithmic updates in 2020 alone, Google's always on the move. But that's no sweat for our team of SEO experts.
+                        Web and SEO Experts is equipped with the latest tools and techniques to keep up with the ever-evolving algorithms.
+                        <br>
+                        <br>
+                        With over 200 different SEO indicators to optimize, we know how to navigate the game and help you achieve your business goals through professional SEO services.
+                        Don't let Google's constant algorithm updates throw you off your game - contact us today for the ultimate SEO experience and keep your business on the fast track to success!
                     </p>
-                    <ul>
-                        <li>We provide a revolutionary level of transparency into <br />
-                            our campaigns - from backlink acquisition.</li>
-                        <li>Want to test our process ramping up the <br />
-                            budget? We'll prove our model and you'll see revenue</li>
-                    </ul>
+
                     <div class="row mb-5">
                         <div id="shiva" class="col-md-4"><span class="count">104457</span><br>
                             <span class="text-5">Annual Organic Traffic</span>
@@ -432,11 +407,8 @@
     <div class="container my-5">
         <div class="row ">
             <div class="col-md-12 text-center">
-                <i class="fa-solid fa-circle">&nbsp;&nbsp;FULL-SERVICE SEO</i>
-                <h2>An Intricate & Dedicated SEO Campaign</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and industry. Lorem Ipsum has the industrVs standard
-                    dummy <br />
-                    text ever since the 1500s, Lorem Ipsum is dummy text Of the printing and industry.</p>
+                <h2>Your One-Stop-Shop For Digital Marketing Services </h2>
+                <p>With our creative strategies, we'll help your business stand out from the crowd. <br> From SEO to social media and everything in between, Web and SEO Experts has got you covered!</p>
             </div>
         </div>
     </div>
@@ -452,7 +424,7 @@
                         <i class="fa-solid fa-chart-simple icons-charts"></i>
                         <span class="text-6">Social Media Marketing</span>
                         <br /><br />
-                        <p class="text-7">Lorem Ipsum is simply dummy text <br> of the printing and typesetting</p>
+                        <p class="text-7">Connect with your audience and grow your brand with our social media marketing services.</p><br>
                         <div class="text-end numbers-div">
                             <span class="numbers">01</span>
                         </div>
@@ -461,9 +433,9 @@
                 <a href="#">
                     <div class="campaign p-4">
                         <i class="fa-solid fa-file icons-charts"></i>
-                        <span class="text-6">App Development</span>
+                        <span class="text-6">Website Design And Development</span>
                         <br /><br />
-                        <p class="text-7">Lorem Ipsum is simply dummy text <br> of the printing and typesetting</p>
+                        <p class="text-7">Make a lasting impression on your visitors with our stunning website design and development services.</p><br>
                         <div class="text-end numbers-div">
                             <span class="numbers">02</span>
                         </div>
@@ -472,9 +444,9 @@
                 <a href="#">
                     <div class="campaign p-4">
                         <i class="fa-solid fa-magnifying-glass-dollar icons-charts"></i>
-                        <span class="text-6">SEO Optimization</span>
+                        <span class="text-6">Google Paid Marketing </span>
                         <br /><br />
-                        <p class="text-7">Lorem Ipsum is simply dummy text <br> of the printing and typesetting</p>
+                        <p class="text-7">Unlock the power of Google and skyrocket your business growth with our expertly-crafted Google paid marketing campaigns. </p><br>
                         <div class="text-end numbers-div">
                             <span class="numbers">03</span>
                         </div>
@@ -535,8 +507,8 @@
             <div class="merge-two">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h2 class="fw-bold">Our Comprehensive Process</h2>
-                        <p>Our Process Is Simple And Aims At Delivering Flawless Results For Every Project</p>
+                        <h2 class="fw-bold">We Follow A Full Proof Process </h2>
+                        <p>Discover how we turn your online goals into reality</p>
                     </div>
                 </div>
                 <div class="row my-5 py-5">
@@ -546,14 +518,9 @@
                     <div class="col-md-6 d-flex align-items-center">
                         <div>
                             <h4>RESEARCH</h4>
-                            <p>Lorem is simply durnmy text of the printing and <br />
-                                typesetting industry. Lorem Ipsum has bæn the <br />
-                                fidustrVs standard dummy text ever since the 1500s, <br />
-                                when an unknown printer took a galley of type and <br />
-                                scrambled it to rnake a type book. It has <br />
-                                survived not only five centuries, but also the leap into <br />
-                                electronic typesetting, remdning essentially <br />
-                                nged.</p>
+                            <p>We take a deep dive into the digital ocean, exploring the latest trends, analyzing your target audience,
+                                and spying on your competitors to identify the best possible strategies for your business. By combining data-driven
+                                insights with our creativity and expertise, we craft a personalized plan that will make waves in your industry and help you swim with the big fish.</p>
                         </div>
                     </div>
                 </div>
@@ -568,14 +535,11 @@
                             <div class="col-md-6 d-flex align-items-center">
                                 <div>
                                     <h4>CREATE</h4>
-                                    <p>Lorem is simply durnmy text of the printing and <br />
-                                        typesetting industry. Lorem Ipsum has bæn the <br />
-                                        fidustrVs standard dummy text ever since the 1500s, <br />
-                                        when an unknown printer took a galley of type and <br />
-                                        scrambled it to rnake a type book. It has <br />
-                                        survived not only five centuries, but also the leap into <br />
-                                        electronic typesetting, remdning essentially <br />
-                                        nged.</p>
+                                    <p>We're not just digital marketers, we're dreamers! At Web and SEO Experts,
+                                        we take your wildest visions and transform them into reality through stunning website design,
+                                        engaging social media campaigns, surefire SEO campaigns, and irresistible content that captivates your audience.
+                                        Our creative team works tirelessly to ensure your brand stands out from the pack and becomes the talk of the town.
+                                        Get ready to take center stage and shine like the star you are!
                                 </div>
                             </div>
                         </div>
@@ -588,14 +552,9 @@
                     <div class="col-md-6 d-flex align-items-center">
                         <div>
                             <h4>LAUNCH</h4>
-                            <p>Lorem is simply durnmy text of the printing and <br />
-                                typesetting industry. Lorem Ipsum has bæn the <br />
-                                fidustrVs standard dummy text ever since the 1500s, <br />
-                                when an unknown printer took a galley of type and <br />
-                                scrambled it to rnake a type book. It has <br />
-                                survived not only five centuries, but also the leap into <br />
-                                electronic typesetting, remdning essentially <br />
-                                nged.</p>
+                            <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
+                                leaving your competitors in the dust. And don't worry, we've got you covered from liftoff to touchdown,
+                                so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
                         </div>
                     </div>
                 </div>
@@ -603,6 +562,51 @@
         </div>
     </div>
     <!---------------- Eighth Section End ---------------->
+    <!---------------- Starter Section Start ---------------->
+
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-md-6 right-side-panel d-flex align-items-center justify-content-center">
+                <div>
+                    <ul>
+                        <li>LET US COMPLEMENT YOUR MARKETING ENDEAVORS
+                        </li>
+                    </ul>
+                    <h2>
+                        It’s Time For You To Reach New Heights
+                    </h2>
+                    <p>
+                        Owing a powerful online presence has become a need for all business ventures to reach their aims.
+                        If they do not display an influential online presence, they may lose the clients who hold the key to their existing and future profits.
+                        That is where our search engine optimization services spring into action.
+                    </p>
+                    <button class="btns-three" type="submit">START PROJECT</button>
+                </div>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-4 text-center">
+                <div class="price-box">
+                    <h4>Kick Starter </h4>
+                    <span class="fw-bold fs-1">$149 </span> <span style="color: #fff; font-size: 14px;">/
+                        Month</span>
+                    <hr>
+                    <ul class="lh-lg">
+                        <li>3 Landingpage Asset</li>
+                        <li>20 Illustration Asset</li>
+                        <li>20 Template Animation</li>
+                        <li>30 Icon Asset</li>
+                        <li>20 Photos Asset</li>
+                    </ul>
+                    <a href="/">Buy Package</a>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+    <!---------------- Starter Section End ---------------->
 
     <!---------------- Ninth Section Start ---------------->
     <div class="container">
