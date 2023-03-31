@@ -146,4 +146,28 @@
 
     // Hide div2 on page load
     document.getElementById("div1").classList.add("hidden");
+
+
+
+
+
+
+    //////////// Pricing
+    function openPricing(evt, PricingName) {
+        var i, tabcontent, tablinkss;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinkss = document.getElementsByClassName("tablinkss");
+        for (i = 0; i < tablinkss.length; i++) {
+            tablinkss[i].className = tablinkss[i].className.replace(" active", "");
+        }
+        document.getElementById(PricingName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpenPrice").click();
+    document.getElementById("defaultOpenTextPrice").click();
 </script>
