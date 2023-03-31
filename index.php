@@ -656,6 +656,13 @@
                 <h2 class="fw-bold">Carefully Crafted Website Packages For New And Existing Businesses</h2>
                 <p>we provide Highly Flexible And Affordable Design options</p>
             </div>
+            <div class="tab d-flex mobile-tab">
+                <button class="tablinkss" onclick="openPricing(event, 'Search-Engine')" id="defaultOpenPrice">
+                    <i class="fa-solid fa-pen-nib"></i></button>
+                <button class="tablinkss" onclick="openPricing(event, 'Social-Media')"><i class="fa-solid fa-code"></i></button>
+                <button class="tablinkss" onclick="openPricing(event, 'Pro-Marketing')"><i class="fa-brands fa-codepen"></i></button>
+                <button class="tablinkss" onclick="openPricing(event, 'Website-Design')"><i class="fa-solid fa-folder-plus"></i></button>
+            </div>
             <div class="tabb d-flex desk-tab">
                 <button class="tablinkss active" onclick="openPricing(event, 'Search-Engine')" id="defaultOpenTextPrice">Search Engine Optimization (SEO)</button>
                 <button class="tablinkss" onclick="openPricing(event, 'Social-Media')">Social Media Marketing (SMM)</button>
