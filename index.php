@@ -14,7 +14,7 @@
                     <div>
                         <h1>
                             Search Engine Optimization Services To Turn Your
-                            <span style="color: #fb8c00;"> Online Presence
+                            <span style="color: #f58b01;"> Online Presence
                                 Into A Profit Machine</span>
                         </h1>
                         <p>
@@ -28,20 +28,6 @@
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
                     <img src="./Assets/images/tool.png" class="main-imgs">
-                    <!-- <div class="main-form text-center">
-                        <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
-                        <form action="./">
-                            <input type="text" placeholder="YOUR NAME" class="input-feilds-banner mb-2">
-                            
-                            <input type="email" placeholder="EMAIL" class="input-feilds-banner mb-2" required id="email">
-                            
-                            <input type="number" placeholder="NUMBER" class="input-feilds-banner mb-2">
-                            
-                            <input type="text" placeholder="WEBSITE" class="input-feilds-banner mb-2">
-                            
-                            <button class="btns-five" type="submit">SUBMIT NOW</button>
-                        </form>
-                    </div> -->
                 </div>
                 <?php include './Includes/form.php' ?>
                 <div class="d-flex justify-content-center">
@@ -112,49 +98,7 @@
         </div>
     </div>
     <!---------------- Second Section End ---------------->
-    <!---------------- Third Section Start ---------------->
-    <!-- <div class="form-sec">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-2"></div>
-                <div class="col-md-8 text-center my-5">
-                    <h2>SIGNUP NOW!</h2>
-                    <p>You will never get a second chance to make a first impression!</p>
-                    <form onsubmit="sendEmail(); reset(); return false" method="post">
-                        <div class="row my-3">
-                            <div class="col-md-6">
-                                <input type="text" placeholder="FIRST NAME" class="input-feilds mb-2">
-                            </div>
-                            <div class="col-md-6">
-                                <input type="text" placeholder="LAST NAME" class="input-feilds mb-2">
-                            </div>
-                        </div>
-                        <div class="row my-3">
-                            <div class="col-md-6">
-                                <input type="email" placeholder="EMAIL" class="input-feilds mb-2" required id="email">
-                            </div>
-                            <div class="col-md-6">
-                                <input type="number" placeholder="NUMBER" class="input-feilds mb-2">
-                            </div>
-                        </div>
-                        <div class="row my-3">
-                            <div class="col-md-6">
-                                <input type="text" placeholder="DETAILS" class="input-feilds mb-2">
-                            </div>
-                            <div class="col-md-3">
-                                <input type="date" placeholder="DATE" class="input-feilds mb-2">
-                            </div>
-                            <div class="col-md-3">
-                                <button class="btns-four" type="submit">SUBMIT NOW</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-                <div class="col-md-2"></div>
-            </div>
-        </div>
-    </div> -->
-    <!---------------- Third Section End ---------------->
+
     <!---------------- CTAs Section Start ---------------->
     <div class="ctas py-4">
         <div class="container py-5">
@@ -501,7 +445,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <h4 class="fw- mb-4">There is no limit to what you can achieve with a book under your Name</h4>
-                <h3 class="fw-bold mb-5">Call Us at <span style="color: #fb8c00;">1-765-321-6543</span> to begin your
+                <h3 class="fw-bold mb-5">Call Us at <span style="color: #f58b01;">1-765-321-6543</span> to begin your
                     project
                     today! </h3>
                 <button class="btns-six" type="submit">START PROJECT</button>
@@ -717,7 +661,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <h4 class="fw- mb-4">There is no limit to what you can achieve with a book under your Name</h4>
-                <h3 class="fw-bold mb-5">Call Us at <span style="color: #fb8c00;">1-765-321-6543</span> to begin your
+                <h3 class="fw-bold mb-5">Call Us at <span style="color: #f58b01;">1-765-321-6543</span> to begin your
                     project
                     today! </h3>
                 <button class="btns-six" type="submit">START PROJECT</button>

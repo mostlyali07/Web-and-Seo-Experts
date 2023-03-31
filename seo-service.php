@@ -11,33 +11,30 @@
 
     <div class="seo-banner">
         <div class="container">
-            <div class="row heightss">
+            <div class="row">
                 <div class="col-md-6 banner-left d-flex align-items-center">
                     <div>
-                        <h1>
-                            Search Engine
-                            Your <span style="color: #fb8c00;"> Optimization</span>
+                        <h1>SEO Services That Make Google
+                            <span style="color: #fb8c00;"> Fall In Love</span> With Your Website
                         </h1>
-                        <h6> WHAT YOU GAIN: </h6>
                         <p class="mb-3">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, <br>
-                            corrupti. Inventore, mollitia voluptates praesentium consequatur quod tenetur, <br>
-                            officiis veniam eum nemo, nisi totam labore. Nemo, blanditiis? <br> Neque aut molestias laborum?
+                            Our SEO services will make Google go gaga for your website. At Web and SEO Experts, we'll help you create a website that's irresistible to Google's algorithm. More love from Google means more traffic and leads for you. Get started today!
                         </p>
-                        <h6 class="mb-4">We Can Write,Design and Publish <br />
-                            your book in <span style="color: #fb8c00;"> less than 30 days</span>!</h6>
 
                         <button class="btns-one" type="submit">START PROJECT</button>
                         <button class="btns-two" type="submit">CALL NOW</button>
-                        <h6 class="mt-3">Trusted By:</h6>
-                        <div class="d-flex">
-                            <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                            <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                            <img src="./Assets/images/binsider.png" alt="B Insider">
-                        </div>
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
+                    <img src="./Assets/images/tool.png" class="main-imgs">
+                </div>
+                <?php include './Includes/form.php' ?>
+                <div class="d-flex justify-content-center">
+                    <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
+                    <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
+                    <img src="./Assets/images/binsider.png" alt="B Insider">
+                </div>
+                <!-- <div class="col-md-6 d-flex align-items-center justify-content-center">
                     <div class="main-form text-center">
                         <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>
                         <form action="./">
@@ -52,7 +49,7 @@
                             <button class="btns-five" type="submit">SUBMIT NOW</button>
                         </form>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -67,15 +64,10 @@
                     <li>WHAT WE DO</li>
                 </ul>
                 <h2>
-                    Grow Your Business <br />
-                    with Us.
+                    Witness Explosive Growth with Our Advanced SEO Services
                 </h2>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and <br />
-                    typesetting industry. Lorem Ipsum has been the industry's<br />
-                    standard dummy text ever since the 1500s, when an<br />
-                    unknown printer took a gal ley of type and scrambled it to<br />
-                    make a type specimen book
+                    Feeling invisible in the vast expanse of the internet? It's time to step into the spotlight with our advanced SEO services. Did you know that 90% of users never venture past the first 10 search engine results? Let us help you get to the top with our strategic optimizations and recommendations that will turn your website into a Google darling. Experience sustained success with us as your advanced SEO services partner. Contact us today to see what we can do for you!
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
@@ -116,13 +108,10 @@
                     Our Process
                 </h6>
                 <h2 class="mb-5">
-                    Say Goodbye To Social Media Misery Once And For All
+                    See Your Success In Real Time: Our Online SEO Services Ensure Transparent Reporting
                 </h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid quo quam consectetur provident, unde, eos, <br>
-                    quibusdam eius sequi iste aspernatur veritatis? Illum error numquam temporibus aliquid quibusdam, doloremque ea a? <br>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem ipsa unde obcaecati, optio voluptates iure dicta <br>
-                    quas dolore consectetur harum quod atque culpa doloremque tempora saepe laboriosam quasi, at fuga!
+                    At our Web and SEO Experts, transparency is key. We believe that you deserve to see the results of your investment and understand how we're contributing to your success. That's why our easy-to-digest reports provide a 360-degree view of your website's performance. With our reports, you'll see firsthand the positive outcomes our online SEO services are bringing to your website. Trust us to deliver transparent and effective online SEO services that drive real results.
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
@@ -140,19 +129,11 @@
                 <img src="./Assets/images/47.png" alt="second-left-img" class="Images-main" width="500">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
-                <ul>
-                    <li>WHAT WE DO</li>
-                </ul>
                 <h2>
-                    Grow Your Business <br />
-                    with Us.
+                    Outperform The Competition With Strategic Link Building Services
                 </h2>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and <br />
-                    typesetting industry. Lorem Ipsum has been the industry's<br />
-                    standard dummy text ever since the 1500s, when an<br />
-                    unknown printer took a gal ley of type and scrambled it to<br />
-                    make a type specimen book
+                    We provide premium, high-quality link building services. Our customized approach identifies the right opportunities for building links that will help your website rise to the top of the search rankings. With our team of experts by your side, you'll be able to zoom past the competition and enjoy sustained success in the long run.
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
@@ -192,15 +173,10 @@
                     <li>WHAT WE DO</li>
                 </ul>
                 <h2>
-                    Grow Your Business <br />
-                    with Us.
+                    Rule Your Local Market With Expert Local SEO Services
                 </h2>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and <br />
-                    typesetting industry. Lorem Ipsum has been the industry's<br />
-                    standard dummy text ever since the 1500s, when an<br />
-                    unknown printer took a gal ley of type and scrambled it to<br />
-                    make a type specimen book
+                    Want to dominate your local market? Say no more! Our expert local SEO services are the ultimate game-changer. At Web and SEO Experts, we'll map out a strategy that fits your unique business needs. Our team is skilled at optimizing your website, building quality backlinks, and creating engaging content to improve your online visibility.
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
@@ -216,9 +192,8 @@
         <div class="row">
             <div class="col-md-12 text-center middle-text">
                 <h2>
-                    Our SEO Process
+                    Your One-Stop-Shop For All Types Of SEO Services <br>
                 </h2>
-                <p>A values-driven SEO agency dedicated to empowering our customers.</p>
             </div>
         </div>
         <div class="row">
@@ -230,11 +205,10 @@
                 <button class="tablinks" onclick="openCity(event, 'Content-Writing')"><i class="fa-solid fa-folder-plus"></i></button>
             </div>
             <div class="tab d-flex mb-5 desk-tab">
-                <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">Logo
-                    Design</button>
-                <button class="tablinks" onclick="openCity(event, 'Web-Design')">Web Design</button>
-                <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Development</button>
-                <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Content-Writing</button>
+                <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">E-commerce SEO Services</button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Design')">Enterprise SEO Services</button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Development')">National SEO Services</button>
+                <button class="tablinks" onclick="openCity(event, 'Content-Writing')">GMB Services</button>
             </div>
             <div class="col-md-12">
                 <div id="Logo-Design" class="tabcontent">
@@ -244,17 +218,9 @@
                         </div>
                         <div class="col-md-7">
                             <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
+                                E-commerce SEO Services
                             </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
+                            <p>Running an e-commerce business is tough, but our e-commerce SEO services can make it a little easier. We specialize in optimizing online stores for search engines, using proven tactics to boost your visibility and attract more customers.</p>
                             <button class="btns-six" type="submit">START PROJECT</button>
                         </div>
                     </div>
@@ -267,17 +233,9 @@
                         </div>
                         <div class="col-md-7">
                             <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
+                                Enterprise SEO Services
                             </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
+                            <p>With our enterprise SEO services, you'll get the visibility and traffic boost you need to achieve higher rankings on search engines and convert more leads into loyal customers.</p>
                             <button class="btns-six" type="submit">START PROJECT</button>
                         </div>
                     </div>
@@ -290,17 +248,9 @@
                         </div>
                         <div class="col-md-7">
                             <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
+                                National SEO Services
                             </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
+                            <p>If you're looking to expand your business beyond your local market, our national SEO services are the solution you need. We have the expertise and experience to create a national SEO strategy that targets the right keywords and attracts the right audience.</p>
                             <button class="btns-six" type="submit">START PROJECT</button>
                         </div>
                     </div>
@@ -312,17 +262,9 @@
                         </div>
                         <div class="col-md-7">
                             <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
+                                GMB Services
                             </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
+                            <p>Unlock the power of Google My Business with our expert GMB services. Our team will optimize your GMB profile with the right information, eye-catching photos, and positive reviews. With our GMB services, you'll see an increase in traffic, visibility, and ultimately, more revenue for your business</p>
                             <button class="btns-six" type="submit">START PROJECT</button>
                         </div>
                     </div>
@@ -366,15 +308,10 @@
                     <li>WHAT WE DO</li>
                 </ul>
                 <h2>
-                    Grow Your Business <br />
-                    with Us.
+                    Watch Your Website Traffic Soar With The Right Keywords
                 </h2>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and <br />
-                    typesetting industry. Lorem Ipsum has been the industry's<br />
-                    standard dummy text ever since the 1500s, when an<br />
-                    unknown printer took a gal ley of type and scrambled it to<br />
-                    make a type specimen book
+                    We'll help you grab high search volume keywords with low competition. Our expert team will do the legwork to find the most relevant keywords for your business, ensuring your website attracts the right audience and dominates search engine rankings.
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
@@ -389,67 +326,13 @@
     <div class="container">
         <div class="row my-5">
             <div class="col-md-12 text-center">
-                <h2 class="fw-bold">Carefully Crafted Website Packages For New And Existing Businesses</h2>
-                <p>we provide Highly Flexible And Affordable Design options</p>
-                <button class="btns-six" type="submit">Promotional</button>
-                <button class="btns-four" type="submit">eCommerce</button>
+                <h2 class="fw-bold">Buy SEO Services Built Specifically For Your Business</h2>
+                <p>Our customized SEO packages cover all aspects of SEO, including keyword research, on-page optimization, link building, and more. We'll analyze your website and make recommendations based on our findings, ensuring that your SEO strategy is optimized for maximum impact.</p>
+
             </div>
         </div>
     </div>
-    <div class="Ninth-div">
-        <div class="container">
-            <div class="row my-5">
-                <div class="col-md-4">
-                    <div class="price-box">
-                        <h4>Standard</h4>
-                        <span class="fw-bold fs-1">$50</span> <span style="color: #fff; font-size: 14px;">/
-                            Month</span>
-                        <hr>
-                        <ul class="lh-lg">
-                            <li>3 Landingpage Asset</li>
-                            <li>20 Illustration Asset</li>
-                            <li>20 Template Animation</li>
-                            <li>30 Icon Asset</li>
-                            <li>20 Photos Asset</li>
-                        </ul>
-                        <a href="/">Buy Package</a>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="price-box">
-                        <h4>Premium</h4>
-                        <span class="fw-bold fs-1">$75</span> <span style="color: #fff; font-size: 14px;">/
-                            Month</span>
-                        <hr>
-                        <ul class="lh-lg">
-                            <li>3 Landingpage Asset</li>
-                            <li>20 Illustration Asset</li>
-                            <li>20 Template Animation</li>
-                            <li>30 Icon Asset</li>
-                            <li>20 Photos Asset</li>
-                        </ul>
-                        <a href="/">Buy Package</a>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="price-box">
-                        <h4>Deluxe</h4>
-                        <span class="fw-bold fs-1">$100</span> <span style="color: #fff; font-size: 14px;">/
-                            Month</span>
-                        <hr>
-                        <ul class="lh-lg">
-                            <li>3 Landingpage Asset</li>
-                            <li>20 Illustration Asset</li>
-                            <li>20 Template Animation</li>
-                            <li>30 Icon Asset</li>
-                            <li>20 Photos Asset</li>
-                        </ul>
-                        <a href="/">Buy Package</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include './Includes/Pricing.php'; ?>
     <!---------------- Ninth Section End ---------------->
     <?php include './Includes/footer.php'; ?>
 

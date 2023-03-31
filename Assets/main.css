@@ -24,6 +24,8 @@ a {
 }
 .seo-banner {
   background-color: #023866;
+  padding-top: 180px;
+  padding-bottom: 150px;
   /* margin-top: -15vh;
   background: linear-gradient(
       0deg,
@@ -91,7 +93,7 @@ header.scrolled {
 .dropdown-item:hover {
   color: #fff !important;
   text-decoration: none;
-  background-color: #fb8c00;
+  background-color: #f58b01;
 }
 .input-feilds-banner {
   width: 100% !important;
@@ -131,14 +133,14 @@ header.scrolled {
   color: #fff;
 }
 .banner-left ul li::marker {
-  color: #fb8c00;
+  color: #f58b01;
   content: "\002D";
 }
 .btns-one {
   color: #fff;
   font-size: 15px;
-  background-color: #fb8c00;
-  border: 1px solid #fb8c00;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
   border-radius: 3px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -162,8 +164,8 @@ header.scrolled {
 }
 .btns-two:hover {
   transition: 0.6s;
-  background-color: #fb8c00;
-  border: 1px solid #fb8c00;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
 }
 .btns-three {
   color: #fff;
@@ -178,7 +180,7 @@ header.scrolled {
 }
 .btns-three:hover {
   transition: 0.6s;
-  background-color: #fb8c00;
+  background-color: #f58b01;
   border: 1px solid #fff;
   border-radius: 6px;
 }
@@ -195,7 +197,7 @@ header.scrolled {
 }
 .btns-four:hover {
   transition: 0.6s;
-  background-color: #fb8c00;
+  background-color: #f58b01;
   border: 1px solid #fff;
   border-radius: 6px;
 }
@@ -203,8 +205,8 @@ header.scrolled {
   color: #fff;
   font-weight: 600;
   font-size: 15px;
-  background-color: #fb8c00;
-  border: 1px solid #fb8c00;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
   border-radius: 6px;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -220,8 +222,8 @@ header.scrolled {
 .btns-six {
   color: #fff;
   font-size: 15px;
-  background-color: #fb8c00;
-  border: 1px solid #fb8c00;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
   border-radius: 6px;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -237,8 +239,8 @@ header.scrolled {
 .btns-seven {
   color: #fff;
   font-size: 15px;
-  background-color: #fb8c00;
-  border: 1px solid #fb8c00;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
   border-radius: 50px;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -271,13 +273,13 @@ header.scrolled {
 .btns-nine {
   color: #fff;
   font-size: 15px;
-  background-image: linear-gradient(90deg, #ff8c00, #023866);
+  background-image: linear-gradient(90deg, #f58b01, #023866);
   border: 0px solid #0000;
   border-radius: 50px;
   padding: 12px 36px;
 }
 .btns-nine:hover {
-  background-image: linear-gradient(90deg, #023866, #ff8c00);
+  background-image: linear-gradient(90deg, #023866, #f58b01);
   transition: 0.6s;
 }
 .four-divs {
@@ -287,7 +289,7 @@ header.scrolled {
 }
 .four-divs i {
   font-size: 26px;
-  color: #fb8c00;
+  color: #f58b01;
   background-color: #fff;
   padding: 18px;
   border-radius: 55px;
@@ -315,7 +317,7 @@ header.scrolled {
 }
 .four-divs:hover i {
   color: #fff;
-  background-color: #fb8c00;
+  background-color: #f58b01;
 }
 .four-divs:hover h5 {
   transition: 0.2s;
@@ -326,7 +328,7 @@ header.scrolled {
   color: #fff;
 }
 .form-sec {
-  background-color: #fb8c00;
+  background-color: #f58b01;
 }
 .form-sec {
   color: #fff;
@@ -378,7 +380,7 @@ header.scrolled {
 }
 .input-feilds:hover {
   transition: 0.2s;
-  border: solid 1px #fb8c00;
+  border: solid 1px #f58b01;
 }
 .input-feilds::placeholder {
   font-weight: 400;
@@ -388,7 +390,7 @@ header.scrolled {
 .vert-form {
   border-radius: 56px;
   background-color: #fff;
-  border: #fb8c00 3px solid;
+  border: #f58b01 3px solid;
   padding: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   position: relative;
@@ -405,7 +407,7 @@ header.scrolled {
   height: 500px;
 }
 .right-side-panel ul li {
-  color: #fb8c00;
+  color: #f58b01;
   font-weight: 600;
   font-size: 14px;
 }
@@ -414,7 +416,7 @@ header.scrolled {
   font-size: 34px;
 }
 .right-side-panel h6 {
-  color: #fb8c00;
+  color: #f58b01;
   font-weight: 600;
   font-size: 14px;
   text-transform: uppercase;
@@ -485,7 +487,7 @@ header.scrolled {
 #button-10 .knobs:before {
   content: "";
   left: 4px;
-  background-color: #fb8c00;
+  background-color: #f58b01;
 }
 
 #button-10 .knobs:after {
@@ -558,7 +560,7 @@ header.scrolled {
 .tab button:hover {
   color: #fff;
   border: 1px solid #0000;
-  background-color: #fb8c00;
+  background-color: #f58b01;
 }
 .tab button.active {
   color: #fff;
@@ -572,7 +574,7 @@ header.scrolled {
   width: 340px;
 }
 .tabcontent h3 {
-  color: #fb8c00;
+  color: #f58b01;
   font-weight: 600;
 }
 .tabb {
@@ -594,13 +596,13 @@ header.scrolled {
 }
 .tabb button:hover {
   color: #fff;
-  background-image: linear-gradient(90deg, #023866, #ff8c00);
+  background-image: linear-gradient(90deg, #023866, #f58b01);
   border: 0px solid #0000;
 }
 .tabb button.active {
   border: 0px solid #0000;
   color: #fff;
-  background-image: linear-gradient(90deg, #ff8c00, #023866);
+  background-image: linear-gradient(90deg, #f58b01, #023866);
 }
 
 /************************* Style the tab End *************************/
@@ -633,7 +635,7 @@ header.scrolled {
   background-size: cover;
 }
 .count {
-  color: #fb8c00;
+  color: #f58b01;
   font-size: 46px;
   font-weight: 600;
 }
@@ -641,7 +643,7 @@ header.scrolled {
 .fa-percent {
   font-weight: 600;
   font-size: 16px;
-  color: #fb8c00;
+  color: #f58b01;
 }
 .sixth-div h2 {
   font-weight: 600;
@@ -651,7 +653,7 @@ header.scrolled {
   color: #606060;
 }
 .fa-circle {
-  color: #fb8c00;
+  color: #f58b01;
   font-size: 12px;
   letter-spacing: 2px;
 }
@@ -665,7 +667,7 @@ header.scrolled {
   transition: all 0.2s ease-in;
 }
 .campaign:hover {
-  background-image: linear-gradient(#ff8c00, #023866);
+  background-image: linear-gradient(#f58b01, #023866);
   transform: scale(1.1);
 }
 .campaign:hover .text-6 {
@@ -681,7 +683,7 @@ header.scrolled {
   color: #fff;
 }
 .icons-charts {
-  color: #fb8c00;
+  color: #f58b01;
   font-size: 28px;
   margin-right: 26px;
 }
@@ -715,7 +717,7 @@ header.scrolled {
   background-position: 80% 34%;
 }
 .merge-two h4 {
-  color: #fb8c00;
+  color: #f58b01;
   font-weight: 600;
 }
 .merge-two p {
@@ -723,7 +725,7 @@ header.scrolled {
   font-size: 14px;
 }
 .price-box {
-  background-image: linear-gradient(#ff8c00, #023866);
+  background-image: linear-gradient(#f58b01, #023866);
   border-radius: 16px;
   padding: 60px 50px;
   margin: 50px 20px;
@@ -752,7 +754,7 @@ header.scrolled {
 .price-box:hover {
   transition: 0.6s !important;
   cursor: pointer;
-  background-image: linear-gradient(#023866, #ff8c00);
+  background-image: linear-gradient(#023866, #f58b01);
 }
 .imagessss {
   width: auto;
@@ -821,7 +823,7 @@ header.scrolled {
   .seo-banner {
     padding-top: 200px;
     margin-top: -20vh;
-    padding-bottom: 300px;
+    /* padding-bottom: 300px; */
   }
   .randomOne {
     width: 340px !important;
