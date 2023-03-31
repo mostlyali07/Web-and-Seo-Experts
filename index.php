@@ -221,9 +221,16 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 text-center">
+            <div class="tab d-flex mb-5 mobile-tab">
+                <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">
+                    <i class="fa-solid fa-pen-nib"></i></button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Design')"><i class="fa-solid fa-code"></i></button>
+                <button class="tablinks" onclick="openCity(event, 'Web-Development')"><i class="fa-brands fa-codepen"></i></button>
+                <button class="tablinks" onclick="openCity(event, 'Content-Writing')"><i class="fa-solid fa-folder-plus"></i></button>
+            </div>
+            <div class="col-md-4 text-center desk-tab">
                 <div class="tab">
-                    <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">Logo
+                    <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">Logo
                         Design</button>
                     <button class="tablinks" onclick="openCity(event, 'Web-Design')">Web Design</button>
                     <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Development</button>
@@ -336,7 +343,7 @@
                     <div class="my-4">
                         <div class="button-cover">
                             <div class="button b2" id="button-10">
-                                <input type="checkbox" class="checkbox">
+                                <input type="checkbox" class="checkbox" id="checkbox" onclick="toggleDivs()">
                                 <div class="knobs">
                                     <span>Before SEO</span>
                                 </div>
@@ -344,6 +351,8 @@
                             </div>
                         </div>
                     </div>
+
+
 
                     <p>
                         With over 4,000 algorithmic updates in 2020 alone, Google's always on the move. But that's no sweat for our team of SEO experts.
@@ -370,7 +379,8 @@
                     <button class="btns-four" type="submit">SUBMIT NOW</button>
                 </div>
                 <div class="col-md-6">
-                    <img src="./Assets/images/pic_dash.png" alt="Dashboard" class="randomOne">
+                    <img src="./Assets/images/SEO after.png" alt="Dashboard" class="randomOne hidden" id="div1">
+                    <img src="./Assets/images/SEO.jpg" alt="Dashboard" class="randomOne" id="div2">
                 </div>
             </div>
         </div>
@@ -515,7 +525,7 @@
                     <div class="col-md-6 text-end">
                         <img src="./Assets/images/comp-1.png" class="imagesss">
                     </div>
-                    <div class="col-md-6 d-flex align-items-center">
+                    <div class="col-md-4 d-flex align-items-center">
                         <div>
                             <h4>RESEARCH</h4>
                             <p>We take a deep dive into the digital ocean, exploring the latest trends, analyzing your target audience,
@@ -523,6 +533,7 @@
                                 insights with our creativity and expertise, we craft a personalized plan that will make waves in your industry and help you swim with the big fish.</p>
                         </div>
                     </div>
+                    <div class="col-md-2"></div>
                 </div>
                 <div class="row">
                     <div class="col-md-4 text-end">
@@ -549,7 +560,7 @@
                     <div class="col-md-6 text-end">
                         <img src="./Assets/images/comp-3.png" class="imagesss">
                     </div>
-                    <div class="col-md-6 d-flex align-items-center">
+                    <div class="col-md-4 d-flex align-items-center">
                         <div>
                             <h4>LAUNCH</h4>
                             <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
@@ -557,6 +568,7 @@
                                 so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
                         </div>
                     </div>
+                    <div class="col-md-2"></div>
                 </div>
             </div>
         </div>
@@ -639,12 +651,18 @@
 
     <!---------------- Ninth Section Start ---------------->
     <div class="container">
-        <div class="row my-5">
+        <div class="row mt-5">
             <div class="col-md-12 text-center">
                 <h2 class="fw-bold">Carefully Crafted Website Packages For New And Existing Businesses</h2>
                 <p>we provide Highly Flexible And Affordable Design options</p>
-                <button class="btns-six" type="submit">Promotional</button>
-                <button class="btns-four" type="submit">eCommerce</button>
+                <!-- <button class="btns-six" type="submit">Promotional</button>
+                <button class="btns-four" type="submit">eCommerce</button> -->
+            </div>
+            <div class="tabb d-flex desk-tab">
+                <button class="tablinkss active" onclick="openCity(event, 'Search-Engine')" id="defaultOpenText">Search Engine Optimization (SEO)</button>
+                <button class="tablinkss" onclick="openCity(event, 'Social-Media')">Social Media Marketing (SMM)</button>
+                <button class="tablinkss" onclick="openCity(event, 'Pro-Marketing')">Pro Marketing Plans</button>
+                <button class="tablinkss" onclick="openCity(event, 'Website-Design')">Website Design and Development</button>
             </div>
         </div>
     </div>

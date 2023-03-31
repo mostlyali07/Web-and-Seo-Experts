@@ -132,48 +132,6 @@
 
             </div>
         </div>
-        <!-- <div class="row">
-            <div class="col-md-3 p-4">
-                <div class="text-center four-divs py-5 px-4">
-                    <i class="fa-solid fa-gear mb-4"></i>
-                    <h5>All Sizes Business</h5>
-                    <h6>
-                        Every business and industry
-                        requires an approach.
-                    </h6>
-                </div>
-            </div>
-            <div class="col-md-3 p-4">
-                <div class="text-center four-divs py-5 px-4">
-                    <i class="fa-solid fa-globe mb-4"></i>
-                    <h5>Keep you in the Loop</h5>
-                    <h6>
-                        You make sure you know
-                        how campaign is.
-                    </h6>
-                </div>
-            </div>
-            <div class="col-md-3 p-4">
-                <div class="text-center four-divs py-5 px-4">
-                    <i class="fa-solid fa-chart-simple mb-4"></i>
-                    <h5>Significant ROI</h5>
-                    <h6>
-                        To generate highly focused
-                        leads ready to purchases.
-                    </h6>
-                </div>
-            </div>
-            <div class="col-md-3 p-4">
-                <div class="text-center four-divs py-5 px-4">
-                    <i class="fa-solid fa-rocket mb-4"></i>
-                    <h5>Awesome Results</h5>
-                    <h6>
-                        We have seen great
-                        successes with everyone.
-                    </h6>
-                </div>
-            </div>
-        </div> -->
     </div>
     <!---------------- Second Section End ---------------->
     <div class="container my-5">

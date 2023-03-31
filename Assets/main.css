@@ -543,6 +543,20 @@ header.scrolled {
   overflow: auto;
   margin-bottom: 26px;
 }
+.slimScrollBar::-webkit-scrollbar {
+  width: 8px;
+}
+.slimScrollBar::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background-color: #001b33;
+}
+.slimScrollBar::-webkit-scrollbar-track {
+  background-color: #f0f0f0;
+  border-radius: 6px;
+}
+.hidden {
+  display: none;
+}
 /************************* Style the tab *************************/
 .tab {
   float: left;
@@ -581,52 +595,34 @@ header.scrolled {
   color: #fb8c00;
   font-weight: 600;
 }
-
-/* Fade In Animation */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(50px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+.tabb {
+  float: left;
+  height: auto;
+}
+.tabb button {
+  color: black;
+  padding: 22px 16px;
+  width: 26%;
+  background-color: #fff;
+  border: 1px solid #023866;
+  text-align: center;
+  cursor: pointer;
+  font-size: 17px;
+  margin: 6px;
+  border-radius: 6px;
+  transition: 0.2s;
+}
+.tabb button:hover {
+  color: #fff;
+  background-image: linear-gradient(90deg, #023866, #ff8c00);
+  border: 0px solid #0000;
+}
+.tabb button.active {
+  border: 0px solid #0000;
+  color: #fff;
+  background-image: linear-gradient(90deg, #ff8c00, #023866);
 }
 
-.tabcontent:nth-of-type(1) {
-  animation-name: fadeIn;
-}
-
-/* Slide In From Left Animation */
-@keyframes slideInFromLeft {
-  from {
-    transform: translateX(-100%);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
-
-.tabcontent:nth-of-type(2),
-.tabcontent:nth-of-type(4) {
-  animation-name: slideInFromLeft;
-}
-
-/* Zoom In Animation */
-@keyframes zoomIn {
-  from {
-    transform: scale(0);
-  }
-  to {
-    transform: scale(1);
-  }
-}
-
-.tabcontent:nth-of-type(3),
-.tabcontent:nth-of-type(5) {
-  animation-name: zoomIn;
-}
 /************************* Style the tab End *************************/
 .random {
   width: 300px !important;
@@ -634,9 +630,14 @@ header.scrolled {
 }
 .randomOne {
   width: 600px !important;
+  border-radius: 6px;
 }
 .tablinks {
   font-weight: 600;
+}
+.tablinkss {
+  font-weight: 600;
+  font-size: 16px !important;
 }
 .sixth-div {
   height: 80vh;

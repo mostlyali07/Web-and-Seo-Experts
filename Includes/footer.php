@@ -97,7 +97,7 @@
 
 
 
-    
+
     $('.count,.count-2').each(function() {
         $(this).prop('Counter', 0).animate({
             Counter: $(this).text()
@@ -127,4 +127,23 @@
     // Get the element with id="defaultOpen" and click on it
     document.getElementById("defaultOpen").click();
     document.getElementById("defaultOpenText").click();
+
+
+
+    function toggleDivs() {
+        var checkbox = document.getElementById("checkbox");
+        var div1 = document.getElementById("div1");
+        var div2 = document.getElementById("div2");
+
+        if (checkbox.checked) {
+            div1.classList.remove("hidden");
+            div2.classList.add("hidden");
+        } else {
+            div1.classList.add("hidden");
+            div2.classList.remove("hidden");
+        }
+    }
+
+    // Hide div2 on page load
+    document.getElementById("div1").classList.add("hidden");
 </script>
