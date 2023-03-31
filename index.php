@@ -584,19 +584,48 @@
                 </div>
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-4 text-center">
+            <div class="col-md-4">
                 <div class="price-box">
-                    <h4>Kick Starter </h4>
+                    <h4>Kick Starter <i class="fa-solid fa-rocket"></i></h4>
                     <span class="fw-bold fs-1">$149 </span> <span style="color: #fff; font-size: 14px;">/
                         Month</span>
                     <hr>
-                    <ul class="lh-lg">
-                        <li>3 Landingpage Asset</li>
-                        <li>20 Illustration Asset</li>
-                        <li>20 Template Animation</li>
-                        <li>30 Icon Asset</li>
-                        <li>20 Photos Asset</li>
-                    </ul>
+                    <div class="slimScrollBar">
+                        <ul class="price-list">
+                            <li>
+                                <b>Prior Analysis</b>
+                            </li>
+                            <li>Initial Website Audit</li>
+                            <li>5 Selected Keywords Targeting</li>
+                            <li>
+                                <b>On Page Optimization</b>
+                            </li>
+                            <li>Meta tag Optimization</li>
+                            <li>Creation of Sitemap.XML</li>
+                            <li>Header Tags Optimized (Such as H1s)</li>
+                            <li>Image Optimization</li>
+                            <li>Content Optimization</li>
+                            <li>Google Analytics Installation</li>
+                            <li>Search Console Installation</li>
+                            <li>Page Load Speed Optimization</li>
+                            <li>1 Monthly On Page Blog Submission</li>
+                            <li>
+                                <b>Off Page Optimization</b>
+                            </li>
+                            <li>Social Bookmarking</li>
+                            <li>Social Sharing</li>
+                            <li>Directory Submissions</li>
+                            <li>5 Business Listings Monthly</li>
+                            <li>5 Profile Creation Monthly</li>
+                            <li>1 Monthly Blog Submissions / Web 2.0</li>
+                            <li>
+                                <b>Reporting</b>
+                            </li>
+                            <li>Monthly Reporting</li>
+                            <li>Email Support</li>
+                            <li>Phone Support</li>
+                        </ul>
+                    </div>
                     <a href="/">Buy Package</a>
                 </div>
                 <div class="col-md-1"></div>

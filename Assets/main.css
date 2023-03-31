@@ -537,6 +537,12 @@ header.scrolled {
 #button-10 .checkbox:checked ~ .layer {
   background-color: #ebf7fc;
 }
+
+.slimScrollBar {
+  height: 300px;
+  overflow: auto;
+  margin-bottom: 26px;
+}
 /************************* Style the tab *************************/
 .tab {
   float: left;
