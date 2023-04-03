@@ -68,6 +68,10 @@ header.scrolled {
   width: 20px;
   height: 20px;
 }
+#navbarSupportedContent {
+  border-radius: 6px;
+  margin-top: 6px;
+}
 .nav-item a {
   color: #fff !important;
 }
@@ -797,8 +801,8 @@ header.scrolled {
 .mobile-tab {
   display: none !important;
 }
-.numChat a {
-  color: #fff;
+#shiva {
+  margin-right: 26px;
 }
 @media only screen and (max-width: 600px) {
   .Images-main-two {
@@ -892,5 +896,29 @@ header.scrolled {
   }
   .nav-logo {
     width: 250px;
+  }
+  .mobile-cta-btn {
+    display: flex;
+  }
+  .btns-eight {
+    font-size: 12px;
+  }
+  .btns-seven {
+    font-size: 12px;
+  }
+  .numChat {
+    margin-top: 6px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #shiva {
+    margin-right: 15px;
+  }
+  .count {
+    font-size: 30px;
+  }
+  .text-5 {
+    font-size: 12px;
   }
 }
