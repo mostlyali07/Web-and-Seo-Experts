@@ -286,6 +286,23 @@ header.scrolled {
   background-image: linear-gradient(90deg, #023866, #f58b01);
   transition: 0.6s;
 }
+.btns-ten {
+  color: #fff;
+  font-size: 15px;
+  background-color: #f58b01;
+  border: 1px solid #f58b01;
+  border-radius: 6px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 26px;
+  padding-right: 26px;
+}
+.btns-ten:hover {
+  border: 1px solid #fff;
+  transition: 0.6s;
+  background-color: #023866;
+  border-radius: 6px;
+}
 .four-divs {
   background-color: #eeeff0;
   border-radius: 36px;

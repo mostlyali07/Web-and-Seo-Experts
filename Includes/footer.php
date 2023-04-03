@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="col-md-6 d-flex justify-content-end align-items-center">
-                <button class="btns-six" type="submit">Contant Us <i class="fa-solid fa-arrow-right"></i></button>
+                <button class="btns-ten" type="submit">Contant Us <i class="fa-solid fa-arrow-right"></i></button>
             </div>
         </div>
         <hr style="color: #fff;" />
@@ -71,18 +71,6 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 <script>
-    // const header = document.querySelector('header');
-    // let prevScrollPos = window.pageYOffset;
-
-    // window.addEventListener('scroll', () => {
-    //     const currentScrollPos = window.pageYOffset;
-    //     if (prevScrollPos > currentScrollPos) {
-    //         header.style.top = '0';
-    //     } else {
-    //         header.style.top = `-${header.offsetHeight}px`;
-    //     }
-    //     prevScrollPos = currentScrollPos;
-    // });
     const header = document.querySelector('header');
 
     window.addEventListener('scroll', () => {
@@ -125,8 +113,8 @@
     }
 
     // Get the element with id="defaultOpen" and click on it
-    document.getElementById("defaultOpenText").click();
     document.getElementById("defaultOpen").click();
+    document.getElementById("defaultOpenText").click();
 
 
 
