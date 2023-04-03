@@ -30,7 +30,7 @@
                     <img src="./Assets/images/tool.png" class="main-imgs">
                 </div>
                 <?php include './Includes/form.php' ?>
-                <div class="d-flex justify-content-center">
+                <div class="mt-4 d-flex justify-content-center">
                     <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
                     <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
                     <img src="./Assets/images/binsider.png" alt="B Insider">

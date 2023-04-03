@@ -350,7 +350,7 @@ header.scrolled {
   transition: 0.2s;
   border: solid 1px #fff;
 }
-.input-feilds:hover {
+.input-feilds:hover {.input-feilds
   transition: 0.2s;
   border: solid 1px #fff;
 }
@@ -361,8 +361,6 @@ header.scrolled {
 } */
 .main-imgs {
   width: 650px;
-  animation: floating 1.9s ease 0.8s infinite;
-  -webkit-animation: floating 1.9s ease 0.8s infinite;
 }
 .input-feilds {
   height: 46px;
@@ -622,7 +620,6 @@ header.scrolled {
   font-size: 16px !important;
 }
 .sixth-div {
-  height: 80vh;
   background-image: url(./images/Shape_150.png);
   background-position: top center;
   background-repeat: no-repeat;
@@ -837,9 +834,18 @@ header.scrolled {
   .imagessss {
     width: 360px;
   }
-  /* .main-bar {
-    background-color: #040406;
-  } */
+  .vert-form {
+    border-radius: 26px;
+    margin: 0px 26px;
+    text-align: center;
+  }
+  .input-feilds {
+    height: 46px;
+    width: 100%;
+    border-radius: 26px;
+    padding: 20px;
+    margin-bottom: 16px;
+  }
   .navbar-collapse {
     padding: 36px;
     background-color: #040406;
@@ -882,7 +888,7 @@ header.scrolled {
     width: 350px;
   }
   .heighs {
-    height: 250px;
+    height: 360px;
   }
   .nav-logo {
     width: 250px;

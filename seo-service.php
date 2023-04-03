@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <img src="./Assets/images/tool.png" class="main-imgs">
+                    <img src="./Assets/images/SEO-services.png" class="main-imgs">
                 </div>
                 <?php include './Includes/form.php' ?>
                 <div class="d-flex justify-content-center">
@@ -104,11 +104,8 @@
     <div class="container py-5">
         <div class="row pb-5">
             <div class="col-md-12 pt-5 right-side-panel text-center">
-                <h6>
-                    Our Process
-                </h6>
-                <h2 class="mb-5">
-                    See Your Success In Real Time: Our Online SEO Services Ensure Transparent Reporting
+                <h2 class="mb-4">
+                    See Your Success In Real Time: <br> Our Online SEO Services Ensure Transparent Reporting
                 </h2>
                 <p>
                     At our Web and SEO Experts, transparency is key. We believe that you deserve to see the results of your investment and understand how we're contributing to your success. That's why our easy-to-digest reports provide a 360-degree view of your website's performance. With our reports, you'll see firsthand the positive outcomes our online SEO services are bringing to your website. Trust us to deliver transparent and effective online SEO services that drive real results.
@@ -216,12 +213,14 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                E-commerce SEO Services
-                            </h3>
-                            <p>Running an e-commerce business is tough, but our e-commerce SEO services can make it a little easier. We specialize in optimizing online stores for search engines, using proven tactics to boost your visibility and attract more customers.</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    E-commerce SEO Services
+                                </h3>
+                                <p>Running an e-commerce business is tough, but our e-commerce SEO services can make it a little easier. We specialize in optimizing online stores for search engines, using proven tactics to boost your visibility and attract more customers.</p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -231,12 +230,14 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                Enterprise SEO Services
-                            </h3>
-                            <p>With our enterprise SEO services, you'll get the visibility and traffic boost you need to achieve higher rankings on search engines and convert more leads into loyal customers.</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    Enterprise SEO Services
+                                </h3>
+                                <p>With our enterprise SEO services, you'll get the visibility and traffic boost you need to achieve higher rankings on search engines and convert more leads into loyal customers.</p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -246,12 +247,14 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                National SEO Services
-                            </h3>
-                            <p>If you're looking to expand your business beyond your local market, our national SEO services are the solution you need. We have the expertise and experience to create a national SEO strategy that targets the right keywords and attracts the right audience.</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    National SEO Services
+                                </h3>
+                                <p>If you're looking to expand your business beyond your local market, our national SEO services are the solution you need. We have the expertise and experience to create a national SEO strategy that targets the right keywords and attracts the right audience.</p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -260,12 +263,14 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                GMB Services
-                            </h3>
-                            <p>Unlock the power of Google My Business with our expert GMB services. Our team will optimize your GMB profile with the right information, eye-catching photos, and positive reviews. With our GMB services, you'll see an increase in traffic, visibility, and ultimately, more revenue for your business</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    GMB Services
+                                </h3>
+                                <p>Unlock the power of Google My Business with our expert GMB services. Our team will optimize your GMB profile with the right information, eye-catching photos, and positive reviews. With our GMB services, you'll see an increase in traffic, visibility, and ultimately, more revenue for your business</p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
