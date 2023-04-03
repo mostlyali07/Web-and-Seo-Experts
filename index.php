@@ -42,17 +42,19 @@
     <!---------------- Second Section Start ---------------->
     <div class="container py-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 text-center">
                 <img src="./Assets/images/second-left-img.png" alt="second-left-img" class="Images-main">
             </div>
-            <div class="col-md-6 pt-5 right-side-panel">
-                <h2>
-                    Rethinking SEO – Let Our SEO Agency Take Your Business To New Heights
-                </h2>
-                <p>
-                    Are you tired of the same old approach to SEO? Look no further than Web and SEO Experts. Our SEO agency is on a mission to revolutionize the way businesses approach SEO. We believe that SEO is more than just a technical process - it's a creative endeavor that requires personalized attention. Our SEO consultants will help you rethink SEO and discover the true potential of this powerful tool.
-                </p>
-                <button class="btns-three" type="submit">START PROJECT</button>
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2>
+                        Rethinking SEO – Let Our SEO Agency Take Your Business To New Heights
+                    </h2>
+                    <p>
+                        Are you tired of the same old approach to SEO? Look no further than Web and SEO Experts. Our SEO agency is on a mission to revolutionize the way businesses approach SEO. We believe that SEO is more than just a technical process - it's a creative endeavor that requires personalized attention. Our SEO consultants will help you rethink SEO and discover the true potential of this powerful tool.
+                    </p>
+                    <button class="btns-three" type="submit">START PROJECT</button>
+                </div>
             </div>
         </div>
         <div class="row">
@@ -97,6 +99,83 @@
     <!---------------- Second Section End ---------------->
 
     <?php include './Includes/ctas.php'; ?>
+
+    <!---------------- Process Section Start ---------------->
+    <div class="container mt-5">
+        <div class="row my-5 py-5">
+            <div class="col-md-12 text-center middle-text">
+                <h6 style="color:#f58b01" class="fw-bold">OUR SEO PROCESS</h6>
+                <h2>Welcome to the land of digital opportunities <br>
+                    where we deliver the best SEO services.</h2>
+                <p>
+                    Our high-quality SEO services will generate qualified leads, increase conversion rates, and grow your business. Discover the process.
+                </p>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-1"></div>
+                <div class="col-md-2 text-center d-flex justify-content-center">
+                    <div class="processs">
+                        <div class="ProsNumber">
+                        </div>
+                        <span>1</span>
+                        <br><br><br>
+                        <h6>COMPETITERS <br>
+                            ANALYSIS</h6>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center d-flex justify-content-center">
+                    <div class="processs">
+                        <div class="ProsNumber">
+                        </div>
+                        <span>2</span>
+                        <br><br><br>
+                        <h6>
+                            DEEP KEYWORDS <br>
+                            RESEARCH
+                        </h6>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center d-flex justify-content-center">
+                    <div class="processs">
+                        <div class="ProsNumber">
+                        </div>
+                        <span>3</span>
+                        <br><br><br>
+                        <h6>
+                            ON PAGE <br>
+                            OPTIMIZATION
+                        </h6>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center d-flex justify-content-center">
+                    <div class="processs">
+                        <div class="ProsNumber">
+                        </div>
+                        <span>4</span>
+                        <br><br><br>
+                        <h6>
+                            OFF PAGE <br>
+                            OPTIMIZATION
+                        </h6>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center d-flex justify-content-center">
+                    <div class="processs">
+                        <div class="ProsNumber">
+                        </div>
+                        <span>5</span>
+                        <br><br><br>
+                        <h6>
+                            COMPREHENSIVE <br>
+                            REPORTING
+                        </h6>
+                    </div>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+        </div>
+    </div>
+    <!---------------- Process Section End ---------------->
 
     <!---------------- Fourth Section Start ---------------->
     <div class="container py-5">
@@ -369,7 +448,7 @@
     <!---------------- CTAs Section End ---------------->
 
     <!---------------- Eighth Section Start ---------------->
-    <div class="container py-5 mt-5">
+    <div class="container pt-5 mt-5">
         <div class="merge-one">
             <div class="merge-two">
                 <div class="row">
@@ -433,67 +512,69 @@
     <!---------------- Eighth Section End ---------------->
     <!---------------- Starter Section Start ---------------->
 
-    <div class="container py-5">
-        <div class="row">
-            <div class="col-md-6 right-side-panel d-flex align-items-center justify-content-center">
-                <div>
-                    <h2>
-                        It’s Time For You To Reach New Heights
-                    </h2>
-                    <p>
-                        Owing a powerful online presence has become a need for all business ventures to reach their aims.
-                        If they do not display an influential online presence, they may lose the clients who hold the key to their existing and future profits.
-                        That is where our search engine optimization services spring into action.
-                    </p>
-                    <button class="btns-three" type="submit">START PROJECT</button>
-                </div>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-4">
-                <div class="price-box">
-                    <h4>Kick Starter <i class="fa-solid fa-rocket"></i></h4>
-                    <span class="fw-bold fs-1">$149 </span> <span style="color: #fff; font-size: 14px;">/
-                        Month</span>
-                    <hr>
-                    <div class="slimScrollBar">
-                        <ul class="price-list">
-                            <li>
-                                <b>Prior Analysis</b>
-                            </li>
-                            <li>Initial Website Audit</li>
-                            <li>5 Selected Keywords Targeting</li>
-                            <li>
-                                <b>On Page Optimization</b>
-                            </li>
-                            <li>Meta tag Optimization</li>
-                            <li>Creation of Sitemap.XML</li>
-                            <li>Header Tags Optimized (Such as H1s)</li>
-                            <li>Image Optimization</li>
-                            <li>Content Optimization</li>
-                            <li>Google Analytics Installation</li>
-                            <li>Search Console Installation</li>
-                            <li>Page Load Speed Optimization</li>
-                            <li>1 Monthly On Page Blog Submission</li>
-                            <li>
-                                <b>Off Page Optimization</b>
-                            </li>
-                            <li>Social Bookmarking</li>
-                            <li>Social Sharing</li>
-                            <li>Directory Submissions</li>
-                            <li>5 Business Listings Monthly</li>
-                            <li>5 Profile Creation Monthly</li>
-                            <li>1 Monthly Blog Submissions / Web 2.0</li>
-                            <li>
-                                <b>Reporting</b>
-                            </li>
-                            <li>Monthly Reporting</li>
-                            <li>Email Support</li>
-                            <li>Phone Support</li>
-                        </ul>
+    <div class="gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 right-side-panel d-flex align-items-center justify-content-center">
+                    <div>
+                        <h2>
+                            It’s Time For You To Reach New Heights
+                        </h2>
+                        <p>
+                            Owing a powerful online presence has become a need for all business ventures to reach their aims.
+                            If they do not display an influential online presence, they may lose the clients who hold the key to their existing and future profits.
+                            That is where our search engine optimization services spring into action.
+                        </p>
+                        <button class="btns-three" type="submit">START PROJECT</button>
                     </div>
-                    <a href="/">Buy Package</a>
                 </div>
                 <div class="col-md-1"></div>
+                <div class="col-md-4">
+                    <div class="price-box">
+                        <h4>Kick Starter <i class="fa-solid fa-rocket"></i></h4>
+                        <span class="fw-bold fs-1">$149 </span> <span style="color: #fff; font-size: 14px;">/
+                            Month</span>
+                        <hr>
+                        <div class="slimScrollBar">
+                            <ul class="price-list">
+                                <li>
+                                    <b>Prior Analysis</b>
+                                </li>
+                                <li>Initial Website Audit</li>
+                                <li>5 Selected Keywords Targeting</li>
+                                <li>
+                                    <b>On Page Optimization</b>
+                                </li>
+                                <li>Meta tag Optimization</li>
+                                <li>Creation of Sitemap.XML</li>
+                                <li>Header Tags Optimized (Such as H1s)</li>
+                                <li>Image Optimization</li>
+                                <li>Content Optimization</li>
+                                <li>Google Analytics Installation</li>
+                                <li>Search Console Installation</li>
+                                <li>Page Load Speed Optimization</li>
+                                <li>1 Monthly On Page Blog Submission</li>
+                                <li>
+                                    <b>Off Page Optimization</b>
+                                </li>
+                                <li>Social Bookmarking</li>
+                                <li>Social Sharing</li>
+                                <li>Directory Submissions</li>
+                                <li>5 Business Listings Monthly</li>
+                                <li>5 Profile Creation Monthly</li>
+                                <li>1 Monthly Blog Submissions / Web 2.0</li>
+                                <li>
+                                    <b>Reporting</b>
+                                </li>
+                                <li>Monthly Reporting</li>
+                                <li>Email Support</li>
+                                <li>Phone Support</li>
+                            </ul>
+                        </div>
+                        <a href="/">Buy Package</a>
+                    </div>
+                    <div class="col-md-1"></div>
+                </div>
             </div>
         </div>
     </div>

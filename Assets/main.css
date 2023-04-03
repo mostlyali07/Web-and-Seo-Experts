@@ -145,7 +145,7 @@ header.scrolled {
   font-size: 15px;
   background-color: #f58b01;
   border: 1px solid #f58b01;
-  border-radius: 3px;
+  border-radius: 26px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 15px;
@@ -160,7 +160,7 @@ header.scrolled {
   color: #fff;
   background-color: #0000;
   border: 1px solid #fff;
-  border-radius: 3px;
+  border-radius: 26px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 15px;
@@ -176,7 +176,7 @@ header.scrolled {
   font-size: 15px;
   background-color: #023866;
   border: 1px solid #023866;
-  border-radius: 6px;
+  border-radius: 26px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 26px;
@@ -186,14 +186,13 @@ header.scrolled {
   transition: 0.6s;
   background-color: #f58b01;
   border: 1px solid #fff;
-  border-radius: 6px;
 }
 .btns-four {
   color: #fff;
   font-size: 15px;
   background-color: #023866;
   border: 1px solid #000;
-  border-radius: 6px;
+  border-radius: 26px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 46px;
@@ -203,7 +202,6 @@ header.scrolled {
   transition: 0.6s;
   background-color: #f58b01;
   border: 1px solid #fff;
-  border-radius: 6px;
 }
 .btns-five {
   color: #fff;
@@ -211,7 +209,7 @@ header.scrolled {
   font-size: 15px;
   background-color: #f58b01;
   border: 1px solid #f58b01;
-  border-radius: 6px;
+  border-radius: 26px;
   padding-top: 15px;
   padding-bottom: 15px;
   width: 100%;
@@ -228,7 +226,7 @@ header.scrolled {
   font-size: 15px;
   background-color: #f58b01;
   border: 1px solid #f58b01;
-  border-radius: 6px;
+  border-radius: 26px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 26px;
@@ -238,7 +236,6 @@ header.scrolled {
   transition: 0.6s;
   background-color: #023866;
   border: 1px solid #023866;
-  border-radius: 6px;
 }
 .btns-seven {
   color: #fff;
@@ -291,7 +288,7 @@ header.scrolled {
   font-size: 15px;
   background-color: #f58b01;
   border: 1px solid #f58b01;
-  border-radius: 6px;
+  border-radius: 26px;
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 26px;
@@ -306,7 +303,7 @@ header.scrolled {
 .four-divs {
   background-color: #eeeff0;
   border-radius: 36px;
-  height: 345px;
+  height: 330px;
 }
 .four-divs i {
   font-size: 26px;
@@ -616,7 +613,9 @@ header.scrolled {
 }
 .tabb button:hover {
   color: #fff;
-  background-image: linear-gradient(90deg, #023866, #f58b01);
+  /* background-image: linear-gradient(90deg, #023866, #f58b01); */
+  background-color: #f58b01;
+  transition: 0.4s;
   border: 0px solid #0000;
 }
 .tabb button.active {
@@ -756,7 +755,8 @@ header.scrolled {
   font-size: 14px;
 }
 .price-box {
-  background-image: linear-gradient(#f58b01, #023866);
+  /* background-image: linear-gradient(#f58b01, #023866); */
+  background-color: #023866;
   border-radius: 16px;
   padding: 60px 50px;
   margin: 50px 20px;
@@ -764,8 +764,11 @@ header.scrolled {
 .price-box ul li {
   color: #fff;
 }
-.price-box span,
+
 .price-box h4 {
+  color: #f58b01;
+}
+.price-box span {
   color: #fff;
 }
 .price-box:hover a {
@@ -779,13 +782,17 @@ header.scrolled {
   background-color: #eeeff0;
   color: #000;
   padding: 15px 30px;
-  border-radius: 6px;
+  border-radius: 26px;
   font-weight: 600;
 }
 .price-box:hover {
   transition: 0.6s !important;
   cursor: pointer;
-  background-image: linear-gradient(#023866, #f58b01);
+  background-color: #f58b01;
+  /* background-image: linear-gradient(#023866, #f58b01); */
+}
+.price-box h4:hover {
+  color: #023866 !important;
 }
 .imagessss {
   width: auto;
@@ -834,6 +841,39 @@ header.scrolled {
 #shiva {
   margin-right: 26px;
 }
+.gray {
+  background-color: #e7e7e7;
+}
+.ProsNumber {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-image: linear-gradient(90deg, #ff8c00, #023866);
+  position: relative;
+  animation: spin 4s linear infinite;
+  margin-bottom: -75px;
+}
+
+.processs span {
+  position: relative;
+  z-index: 9999;
+  color: #fff;
+  font-size: 26px;
+  font-weight: 600;
+}
+.processs h6 {
+  font-size: 16px;
+  font-weight: 600;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 @media only screen and (max-width: 600px) {
   .Images-main-two {
     width: 300px;

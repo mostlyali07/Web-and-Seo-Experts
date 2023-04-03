@@ -1,6 +1,6 @@
     <!---------------- CTAs Section Start ---------------->
     <div class="ctas py-4">
-        <div class="container py-5">
+        <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <h2 class="fw-bold">Let's Talk!</h2>
