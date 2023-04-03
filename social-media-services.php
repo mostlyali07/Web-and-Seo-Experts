@@ -56,8 +56,8 @@
 
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6">
-                <img src="./Assets/images/second-left-img.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/socialMedia.png" alt="second-left-img" class="Images-main">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
                 <h2>
@@ -93,8 +93,8 @@
     <!---------------- Second Section End ---------------->
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6">
-                <img src="./Assets/images/47.png" alt="second-left-img" class="Images-main" width="500">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/Chatbot.png" alt="second-left-img" class="Images-main" width="500">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
                 <h2>
@@ -121,8 +121,8 @@
                     The path to success in social media marketing is a continuous journey. However, with our guidance, you can use guideposts such as leads, brand recognition, sales, and customer loyalty to measure your progress. These markers indicate that you're making meaningful strides toward your goals and that your social media marketing plan is resonating with your target audience. </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
-            <div class="col-md-6">
-                <img src="./Assets/images/fold2.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/paynow.jpg" alt="second-left-img" class="Images-main">
             </div>
         </div>
     </div>
@@ -157,10 +157,10 @@
             <div class="col-md-12">
                 <div id="Logo-Design" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/social-media-marketing.jpg" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     Strategy Development
@@ -174,10 +174,10 @@
 
                 <div id="Web-Design" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/SMM.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     Content Creation
@@ -191,10 +191,10 @@
 
                 <div id="Web-Development" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/seo-marketing.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     Posting and Monitoring
@@ -207,10 +207,10 @@
                 </div>
                 <div id="Content-Writing" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/tool.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     Analytics and Reporting
@@ -238,7 +238,7 @@
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-center">
                 <img src="./Assets/images/fold2.png" alt="second-left-img" class="Images-main">
             </div>
         </div>
@@ -246,6 +246,9 @@
 
     <div class="container my-5">
         <div class="row my-5">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/digital-marketing-graphic.png" alt="second-left-img" class="Images-main">
+            </div>
             <div class="col-md-6 pt-5 right-side-panel">
                 <h2>
                     Numbers Don’t Lie
@@ -260,9 +263,6 @@
 
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
-            </div>
-            <div class="col-md-6">
-                <img src="./Assets/images/fold2.png" alt="second-left-img" class="Images-main">
             </div>
         </div>
     </div>

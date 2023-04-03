@@ -425,10 +425,8 @@ header.scrolled {
   width: 500px;
   height: 500px;
 }
-.right-side-panel ul li {
-  color: #f58b01;
-  font-weight: 600;
-  font-size: 14px;
+.Images-main {
+  width: 510px;
 }
 .right-side-panel h2 {
   font-weight: 600;
@@ -566,7 +564,7 @@ header.scrolled {
 .tab button {
   color: black;
   padding: 22px 16px;
-  width: 60%;
+  width: 75%;
   background-color: #fff;
   border: 1px solid #023866;
   text-align: center;
@@ -590,7 +588,10 @@ header.scrolled {
   padding: 0px 12px;
 }
 .tabcontent img {
-  width: 340px;
+  width: 450px;
+}
+.homeTab {
+  width: 350px !important;
 }
 .tabcontent h3 {
   color: #f58b01;
@@ -624,10 +625,22 @@ header.scrolled {
   background-image: linear-gradient(90deg, #f58b01, #023866);
 }
 
+.slide-in-left {
+  animation: slide-in-left 0.5s forwards;
+}
+
+@keyframes slide-in-left {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
 /************************* Style the tab End *************************/
 .random {
-  width: 300px !important;
-  border-radius: 26px;
+  width: 500px;
 }
 .randomOne {
   width: 600px !important;

@@ -46,9 +46,6 @@
                 <img src="./Assets/images/second-left-img.png" alt="second-left-img" class="Images-main">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
-                <ul>
-                    <li>WHAT WE DO</li>
-                </ul>
                 <h2>
                     Rethinking SEO – Let Our SEO Agency Take Your Business To New Heights
                 </h2>
@@ -108,9 +105,6 @@
                 <img src="./Assets/images/forth-sec.png" alt="" class="Images-main-two">
             </div>
             <div class="col-md-6 pt-5 mt-5 right-side-panel">
-                <ul>
-                    <li>WHAT WE DO</li>
-                </ul>
                 <h2>
                     We're on a Mission to <br />
                     Change Your View of SEO
@@ -131,7 +125,7 @@
 
     <!---------------- Fifth Section Start ---------------->
     <div class="container py-5 my-5">
-        <div class="row">
+        <div class="row mb-5">
             <div class="col-md-12 text-center middle-text">
                 <h2>
                     Our Online Clients Range From Fledgling Businesses To Fortune 500 Giants
@@ -139,7 +133,7 @@
                 <p>Don’t Miss Out On The Best Chance To Nail The Search Engine </p>
             </div>
         </div>
-        <div class="row">
+        <div class="row my-5">
             <div class="tab d-flex mb-5 mobile-tab">
                 <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">
                     <i class="fa-solid fa-pen-nib"></i></button>
@@ -147,7 +141,7 @@
                 <button class="tablinks" onclick="openCity(event, 'Web-Development')"><i class="fa-brands fa-codepen"></i></button>
                 <button class="tablinks" onclick="openCity(event, 'Content-Writing')"><i class="fa-solid fa-folder-plus"></i></button>
             </div>
-            <div class="col-md-4 text-center desk-tab">
+            <div class="col-md-3 text-center desk-tab">
                 <div class="tab">
                     <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">Logo
                         Design</button>
@@ -156,11 +150,11 @@
                     <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Content-Writing</button>
                 </div>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-9">
                 <div id="Logo-Design" class="tabcontent">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
+                            <img src="./Assets/images/seo-optimize.png" alt="features-logo-tips" class="homeTab">
                         </div>
                         <div class="col-md-7">
                             <h3>
@@ -178,7 +172,7 @@
                 <div id="Web-Design" class="tabcontent">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
+                            <img src="./Assets/images/dm-sem.png" class="homeTab" alt="features-logo-tips">
                         </div>
                         <div class="col-md-7">
                             <h3>
@@ -201,7 +195,7 @@
                 <div id="Web-Development" class="tabcontent">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
+                            <img src="./Assets/images/global-seo-service.png" alt="features-logo-tips" class="homeTab">
                         </div>
                         <div class="col-md-7">
                             <h3>
@@ -223,7 +217,7 @@
                 <div id="Content-Writing" class="tabcontent">
                     <div class="row">
                         <div class="col-md-5">
-                            <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
+                            <img src="./Assets/images/image.png" class="homeTab" alt="features-logo-tips">
                         </div>
                         <div class="col-md-7">
                             <h3>
@@ -252,9 +246,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <ul>
-                        <li>WE GET RESULTS</li>
-                    </ul>
                     <h2>
                         Don't get lost in the SEO Updates - Let Our SEO Experts Keep You In The Top Ranks
                     </h2>
@@ -378,7 +369,7 @@
     <!---------------- CTAs Section End ---------------->
 
     <!---------------- Eighth Section Start ---------------->
-    <div class="container py-5">
+    <div class="container py-5 mt-5">
         <div class="merge-one">
             <div class="merge-two">
                 <div class="row">
@@ -387,7 +378,7 @@
                         <p>Discover how we turn your online goals into reality</p>
                     </div>
                 </div>
-                <div class="row my-5 py-5">
+                <div class="row mb-5 py-5">
                     <div class="col-md-6 text-end">
                         <img src="./Assets/images/comp-1.png" class="imagesss">
                     </div>
@@ -446,10 +437,6 @@
         <div class="row">
             <div class="col-md-6 right-side-panel d-flex align-items-center justify-content-center">
                 <div>
-                    <ul>
-                        <li>LET US COMPLEMENT YOUR MARKETING ENDEAVORS
-                        </li>
-                    </ul>
                     <h2>
                         It’s Time For You To Reach New Heights
                     </h2>

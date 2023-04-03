@@ -71,6 +71,18 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 <script>
+    const tabButtons = document.querySelectorAll('.tab button');
+
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const tabContent = button.parentElement.nextElementSibling;
+            tabContent.classList.add('slide-in-left');
+        });
+    });
+
+
+
+
     const header = document.querySelector('header');
 
     window.addEventListener('scroll', () => {

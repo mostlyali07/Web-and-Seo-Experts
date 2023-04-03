@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <img src="./Assets/images/SEO-services.png" class="main-imgs">
+                    <img src="./Assets/images/For-Digital-Marketing.png" class="random">
                 </div>
                 <?php include './Includes/form.php' ?>
                 <div class="d-flex justify-content-center">
@@ -56,20 +56,19 @@
 
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6">
-                <img src="./Assets/images/second-left-img.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/seo-media-marketing.png" alt="second-left-img" class="Images-main">
             </div>
-            <div class="col-md-6 pt-5 right-side-panel">
-                <ul>
-                    <li>WHAT WE DO</li>
-                </ul>
-                <h2>
-                    Witness Explosive Growth with Our Advanced SEO Services
-                </h2>
-                <p>
-                    Feeling invisible in the vast expanse of the internet? It's time to step into the spotlight with our advanced SEO services. Did you know that 90% of users never venture past the first 10 search engine results? Let us help you get to the top with our strategic optimizations and recommendations that will turn your website into a Google darling. Experience sustained success with us as your advanced SEO services partner. Contact us today to see what we can do for you!
-                </p>
-                <button class="btns-three" type="submit">START PROJECT</button>
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2>
+                        Witness Explosive Growth with Our Advanced SEO Services
+                    </h2>
+                    <p>
+                        Feeling invisible in the vast expanse of the internet? It's time to step into the spotlight with our advanced SEO services. Did you know that 90% of users never venture past the first 10 search engine results? Let us help you get to the top with our strategic optimizations and recommendations that will turn your website into a Google darling. Experience sustained success with us as your advanced SEO services partner. Contact us today to see what we can do for you!
+                    </p>
+                    <button class="btns-three" type="submit">START PROJECT</button>
+                </div>
             </div>
         </div>
     </div>
@@ -96,37 +95,38 @@
     <!---------------- Second Section End ---------------->
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6">
-                <img src="./Assets/images/47.png" alt="second-left-img" class="Images-main" width="500">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/camp04.png" alt="second-left-img" class="Images-main">
             </div>
-            <div class="col-md-6 pt-5 right-side-panel">
-                <h2>
-                    Outperform The Competition With Strategic Link Building Services
-                </h2>
-                <p>
-                    We provide premium, high-quality link building services. Our customized approach identifies the right opportunities for building links that will help your website rise to the top of the search rankings. With our team of experts by your side, you'll be able to zoom past the competition and enjoy sustained success in the long run.
-                </p>
-                <button class="btns-three" type="submit">START PROJECT</button>
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2>
+                        Outperform The Competition With Strategic Link Building Services
+                    </h2>
+                    <p>
+                        We provide premium, high-quality link building services. Our customized approach identifies the right opportunities for building links that will help your website rise to the top of the search rankings. With our team of experts by your side, you'll be able to zoom past the competition and enjoy sustained success in the long run.
+                    </p>
+                    <button class="btns-three" type="submit">START PROJECT</button>
+                </div>
             </div>
         </div>
     </div>
     <?php include './Includes/ctas.php'; ?>
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6 pt-5 right-side-panel">
-                <ul>
-                    <li>WHAT WE DO</li>
-                </ul>
-                <h2>
-                    Rule Your Local Market With Expert Local SEO Services
-                </h2>
-                <p>
-                    Want to dominate your local market? Say no more! Our expert local SEO services are the ultimate game-changer. At Web and SEO Experts, we'll map out a strategy that fits your unique business needs. Our team is skilled at optimizing your website, building quality backlinks, and creating engaging content to improve your online visibility.
-                </p>
-                <button class="btns-three" type="submit">START PROJECT</button>
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2>
+                        Rule Your Local Market With Expert Local SEO Services
+                    </h2>
+                    <p>
+                        Want to dominate your local market? Say no more! Our expert local SEO services are the ultimate game-changer. At Web and SEO Experts, we'll map out a strategy that fits your unique business needs. Our team is skilled at optimizing your website, building quality backlinks, and creating engaging content to improve your online visibility.
+                    </p>
+                    <button class="btns-three" type="submit">START PROJECT</button>
+                </div>
             </div>
-            <div class="col-md-6">
-                <img src="./Assets/images/fold2.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/SEO-1.jpg" alt="second-left-img" class="Images-main">
             </div>
         </div>
     </div>
@@ -158,10 +158,10 @@
             <div class="col-md-12">
                 <div id="Logo-Design" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/SEO-2.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     E-commerce SEO Services
@@ -175,10 +175,10 @@
 
                 <div id="Web-Design" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/SEO-3.png" class="random" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     Enterprise SEO Services
@@ -192,10 +192,10 @@
 
                 <div id="Web-Development" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/features-logo-tips.png" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/SEO-4.png" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     National SEO Services
@@ -208,10 +208,10 @@
                 </div>
                 <div id="Content-Writing" class="tabcontent">
                     <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/1674335968.png" class="random" alt="features-logo-tips">
+                        <div class="col-md-6 text-center">
+                            <img src="./Assets/images/SEO-5.png" class="random" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7 d-flex align-items-center">
+                        <div class="col-md-6 d-flex align-items-center">
                             <div>
                                 <h3>
                                     GMB Services
@@ -242,12 +242,28 @@
                 </p>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
-            <div class="col-md-6">
-                <img src="./Assets/images/fold2.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/SEO-6.png" alt="second-left-img" class="Images-main">
             </div>
         </div>
     </div>
+    <div class="container my-5">
+        <div class="row my-5">
+            <div class="col-md-6 text-center">
+                <img src="./Assets/images/SEO-7.png" alt="second-left-img" class="Images-main">
+            </div>
+            <div class="col-md-6 pt-5 right-side-panel">
+                <h2>
+                    Transform Your SEO With Automation
+                </h2>
+                <p>
+                    At Web and SEO Experts, we have mastered the art of automation, utilizing cutting-edge technology to optimize your SEO campaigns. By automating certain tasks, we're able to deliver high-quality results in less time. Our automated wizardry isn't just a gimmick. We use sophisticated algorithms and data analysis to unearth trends and insights that may have otherwise gone unnoticed. This allows us to make more informed decisions and deliver even better results to our clients.
 
+                </p>
+                <button class="btns-three" type="submit">START PROJECT</button>
+            </div>
+        </div>
+    </div>
 
     <!---------------- Ninth Section Start ---------------->
     <div class="container">
