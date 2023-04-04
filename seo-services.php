@@ -74,8 +74,8 @@
     </div>
     <?php include './Includes/ctas.php'; ?>
     <!---------------- Second Section Start ---------------->
-    <div class="container py-5">
-        <div class="row pb-5">
+    <div class="container pt-5">
+        <div class="row">
             <div class="col-md-12 pt-5 right-side-panel text-center">
                 <h2 class="mb-4">
                     See Your Success In Real Time: <br> Our Online SEO Services Ensure Transparent Reporting

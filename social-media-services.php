@@ -72,8 +72,8 @@
     </div>
     <?php include './Includes/ctas.php'; ?>
     <!---------------- Second Section Start ---------------->
-    <div class="container py-5">
-        <div class="row pb-5">
+    <div class="container pt-5">
+        <div class="row">
             <div class="col-md-12 pt-5 right-side-panel text-center">
                 <h2 class="mb-4">
                     We Are Not Your Average Social Media Marketing Agency
