@@ -55,6 +55,15 @@ header {
 header.scrolled {
   background-image: linear-gradient(#023866, #001b33);
   color: #fff;
+  animation: header-animation 1s;
+}
+@keyframes header-animation {
+  0% {
+    transform: translateY(-106px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
 .nav-logo {
   width: 300px;

@@ -169,4 +169,6 @@
 
     document.getElementById("defaultOpenPrice").click();
     document.getElementById("defaultOpenTextPrice").click();
+
+
 </script>
