@@ -101,7 +101,7 @@
     <?php include './Includes/ctas.php'; ?>
 
     <!---------------- Process Section Start ---------------->
-    <div class="container mt-5">
+    <!-- <div class="container mt-5">
         <div class="row my-5 py-5">
             <div class="col-md-12 text-center middle-text">
                 <h6 style="color:#f58b01" class="fw-bold">OUR SEO PROCESS</h6>
@@ -174,7 +174,7 @@
                 <div class="col-md-1"></div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!---------------- Process Section End ---------------->
 
     <!---------------- Fourth Section Start ---------------->
@@ -440,60 +440,99 @@
     <div class="container pt-5 mt-5">
         <div class="merge-one">
             <div class="merge-two">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <h2 class="fw-bold">We Follow A Full Proof Process </h2>
-                        <p>Discover how we turn your online goals into reality</p>
-                    </div>
-                </div>
-                <div class="row mb-5 py-5">
-                    <div class="col-md-6 text-end">
-                        <img src="./Assets/images/comp-1.png" class="imagesss">
-                    </div>
-                    <div class="col-md-4 d-flex align-items-center">
-                        <div>
-                            <h4>RESEARCH</h4>
-                            <p>We take a deep dive into the digital ocean, exploring the latest trends, analyzing your target audience,
-                                and spying on your competitors to identify the best possible strategies for your business. By combining data-driven
-                                insights with our creativity and expertise, we craft a personalized plan that will make waves in your industry and help you swim with the big fish.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-2"></div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4 text-end">
-                    </div>
-                    <div class="col-md-8">
-                        <div class="row my-5 py-5">
-                            <div class="col-md-6 text-end">
-                                <img src="./Assets/images/comp-2.png" class="imagesss">
+                <div class="merge-three">
+                    <div class="merge-four">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <h2 class="fw-bold">We Follow A Full Proof Process </h2>
+                                <p>Discover how we turn your online goals into reality</p>
                             </div>
-                            <div class="col-md-6 d-flex align-items-center">
+                        </div>
+                        <div class="row pt-5">
+                            <div class="col-md-6 text-end">
+                                <img src="./Assets/images/comp-1.png" class="imagesss">
+                            </div>
+                            <div class="col-md-4 d-flex align-items-center">
                                 <div>
-                                    <h4>CREATE</h4>
-                                    <p>We're not just digital marketers, we're dreamers! At Web and SEO Experts,
-                                        we take your wildest visions and transform them into reality through stunning website design,
-                                        engaging social media campaigns, surefire SEO campaigns, and irresistible content that captivates your audience.
-                                        Our creative team works tirelessly to ensure your brand stands out from the pack and becomes the talk of the town.
-                                        Get ready to take center stage and shine like the star you are!
+                                    <h4>RESEARCH</h4>
+                                    <p>We take a deep dive into the digital ocean, exploring the latest trends, analyzing your target audience,
+                                        and spying on your competitors to identify the best possible strategies for your business. By combining data-driven
+                                        insights with our creativity and expertise, we craft a personalized plan that will make waves in your industry and help you swim with the big fish.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 text-end">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="row pt-5">
+                                    <div class="col-md-6 text-end">
+                                        <img src="./Assets/images/comp-2.png" class="imagesss">
+                                    </div>
+                                    <div class="col-md-6 d-flex align-items-center">
+                                        <div>
+                                            <h4>CREATE</h4>
+                                            <p>We're not just digital marketers, we're dreamers! At Web and SEO Experts,
+                                                we take your wildest visions and transform them into reality through stunning website design,
+                                                engaging social media campaigns, surefire SEO campaigns, and irresistible content that captivates your audience.
+                                                Our creative team works tirelessly to ensure your brand stands out from the pack and becomes the talk of the town.
+                                                Get ready to take center stage and shine like the star you are!
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="row my-5 py-5">
-                    <div class="col-md-6 text-end">
-                        <img src="./Assets/images/comp-3.png" class="imagesss">
-                    </div>
-                    <div class="col-md-4 d-flex align-items-center">
-                        <div>
-                            <h4>LAUNCH</h4>
-                            <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
-                                leaving your competitors in the dust. And don't worry, we've got you covered from liftoff to touchdown,
-                                so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
+                        <div class="row py-5">
+                            <div class="col-md-6 text-end">
+                                <img src="./Assets/images/comp-3.png" class="imagesss">
+                            </div>
+                            <div class="col-md-4 d-flex align-items-center">
+                                <div>
+                                    <h4>LAUNCH</h4>
+                                    <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
+                                        leaving your competitors in the dust. And don't worry, we've got you covered from liftoff to touchdown,
+                                        so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
+                                </div>
+                            </div>
+                            <div class="col-md-2"></div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 text-end">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="row py-5">
+                                    <div class="col-md-6 text-end">
+                                        <img src="./Assets/images/comp-2.png" class="imagesss">
+                                    </div>
+                                    <div class="col-md-6 d-flex align-items-center">
+                                        <div>
+                                            <h4>CREATE</h4>
+                                            <p>We're not just digital marketers, we're dreamers! At Web and SEO Experts,
+                                                we take your wildest visions and transform them into reality through stunning website design,
+                                                engaging social media campaigns, surefire SEO campaigns, and irresistible content that captivates your audience.
+                                                Our creative team works tirelessly to ensure your brand stands out from the pack and becomes the talk of the town.
+                                                Get ready to take center stage and shine like the star you are!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row py-5">
+                            <div class="col-md-6 text-end">
+                                <img src="./Assets/images/comp-3.png" class="imagesss">
+                            </div>
+                            <div class="col-md-4 d-flex align-items-center">
+                                <div>
+                                    <h4>LAUNCH</h4>
+                                    <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
+                                        leaving your competitors in the dust. And don't worry, we've got you covered from liftoff to touchdown,
+                                        so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
+                                </div>
+                            </div>
+                            <div class="col-md-2"></div>
                         </div>
                     </div>
-                    <div class="col-md-2"></div>
                 </div>
             </div>
         </div>
