@@ -18,10 +18,9 @@
                 <a class="navbar-brand" href="#">
                     <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" width="240">
                 </a>
-                <p class="mt-4">Lorem Ipsum is simply dummy text of the printing <br />
-                    and typesetting industry. Lorem Ipsum has been the <br />
-                    standard dumnv text ever <br />
-                    since the 1500s.</p>
+                <p class="mt-4">
+                    Web and SEO Experts is your one-stop-shop for all things digital marketing. From optimizing your online presence to driving traffic to your website, we offer a range of services that can help your business succeed. Let our team of experts guide you through the digital landscape and achieve your business goals.
+                </p>
                 <h6 class="fw-bold">Trusted By:</h6>
                 <img src="./Assets/images/Footer-trusted-img.png" alt="">
             </div>
@@ -169,6 +168,4 @@
 
     document.getElementById("defaultOpenPrice").click();
     document.getElementById("defaultOpenTextPrice").click();
-
-
 </script>

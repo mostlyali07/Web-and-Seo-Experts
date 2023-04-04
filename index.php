@@ -183,19 +183,19 @@
             <div class="col-md-6 text-center">
                 <img src="./Assets/images/forth-sec.png" alt="" class="Images-main-two">
             </div>
-            <div class="col-md-6 pt-5 mt-5 right-side-panel">
-                <h2>
-                    We're on a Mission to <br />
-                    Change Your View of SEO
-                </h2>
-                <p>
-                    Lorem Ipsum is simply dummy text of the printing and <br />
-                    typesetting industry. Lorem Ipsum has been the industry's<br />
-                    standard dummy text ever since the 1500s, when an<br />
-                    unknown printer took a gal ley of type and scrambled it to<br />
-                    make a type specimen book
-                </p>
-                <button class="btns-three" type="submit">START PROJECT</button>
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2>
+                        Unlock Your Business's Full Potential with Our Holistic SEO Strategy
+                    </h2>
+                    <p>
+                        To maximize your online visibility and reach your ideal customers, a holistic approach to SEO is crucial.
+                        Our SEO services cover all the bases, including optimizing your website, creating engaging content, and building a strong backlink profile.
+                        By taking a comprehensive approach to SEO, we ensure that your business is visible to potential customers at every stage of their online journey, leading to increased traffic,
+                        conversions, and revenue.
+                    </p>
+                    <button class="btns-three" type="submit">START PROJECT</button>
+                </div>
             </div>
         </div>
     </div>
@@ -222,28 +222,29 @@
             </div>
             <div class="col-md-3 text-center desk-tab">
                 <div class="tab">
-                    <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">Logo
-                        Design</button>
-                    <button class="tablinks" onclick="openCity(event, 'Web-Design')">Web Design</button>
-                    <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Development</button>
-                    <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Content-Writing</button>
+                    <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">SEO</button>
+                    <button class="tablinks" onclick="openCity(event, 'Web-Design')">Social Media</button>
+                    <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Design And Development</button>
+                    <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Google Paid Advertisement</button>
                 </div>
             </div>
-            <div class="col-md-9">
+            <div class="col-md-9 d-flex align-items-center">
                 <div id="Logo-Design" class="tabcontent">
                     <div class="row">
                         <div class="col-md-5">
                             <img src="./Assets/images/seo-optimize.png" alt="features-logo-tips" class="homeTab">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                What Makes Web And SEO Experts Different From Other SEO Marketing Companies?
-                            </h3>
-                            <p>At Web and SEO Experts, we have worked with over 200 businesses.
-                                Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
-                                With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
-                                Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
-                                <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    What Makes Web And SEO Experts Different From Other SEO Marketing Companies?
+                                </h3>
+                                <p>At Web and SEO Experts, we have worked with over 200 businesses.
+                                    Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
+                                    With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
+                                    Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
+                                    <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -253,20 +254,16 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/dm-sem.png" class="homeTab" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
-                            </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    Social Media Marketing
+                                </h3>
+                                <p>Want to boost your company's social media presence? Stop right there! Our social media marketing services will help you connect with your audience,
+                                    increase engagement, and ultimately drive more traffic to your website.
+                                    We'll create a killer social media strategy tailored to your brand and target audience, and we'll execute it flawlessly across all platforms. Let's get social!</p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -276,20 +273,16 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/global-seo-service.png" alt="features-logo-tips" class="homeTab">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
-                            </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    Web Design And Development
+                                </h3>
+                                <p>
+                                    Your website is the foundation of your online presence, and so you want to make sure it is up to par. At Web and SEO Experts, we'll help you create a website that's both visually stunning and highly functional. We'll work with you to identify your goals and tailor your website to your target audience. Whether you need a simple landing page or a full-blown e-commerce site, we've got you covered. Let's build something amazing together!
+                                </p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -298,20 +291,16 @@
                         <div class="col-md-5">
                             <img src="./Assets/images/image.png" class="homeTab" alt="features-logo-tips">
                         </div>
-                        <div class="col-md-7">
-                            <h3>
-                                Solve Digital Challenges <br>
-                                with Mutated Web <br>
-                                Application
-                            </h3>
-                            <p>Lorem is dummy text Of the printing
-                                and irdustry. Lorem Ipsum has t*en
-                                the industry's standard dummy text ever since
-                                1500* when an unknown printer took a gdley Of
-                                and it to rmke a sf*cir-nen
-                                It has survived mt only five centuries, but
-                                also the into electronic tYF»setting</p>
-                            <button class="btns-six" type="submit">START PROJECT</button>
+                        <div class="col-md-7 d-flex align-items-center">
+                            <div>
+                                <h3>
+                                    Google Paid Advertisement
+                                </h3>
+                                <p>
+                                    Sometimes, you need a little boost to get your brand in front of the right people. That's where our Google paid advertisement services come in. We'll create eye-catching ads that will appear at the top of Google search results, putting you in front of potential customers at the exact moment they're searching for what you offer. We'll monitor and optimize your campaigns to ensure maximum ROI.
+                                </p>
+                                <button class="btns-six" type="submit">START PROJECT</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -538,37 +527,37 @@
                         <div class="slimScrollBar">
                             <ul class="price-list">
                                 <li>
-                                    <b>Prior Analysis</b>
+                                    <b>&nbsp; Prior Analysis</b>
                                 </li>
-                                <li>Initial Website Audit</li>
-                                <li>5 Selected Keywords Targeting</li>
+                                <li>&nbsp; Initial Website Audit</li>
+                                <li>&nbsp; 5 Selected Keywords Targeting</li>
                                 <li>
-                                    <b>On Page Optimization</b>
+                                    <b>&nbsp; On Page Optimization</b>
                                 </li>
-                                <li>Meta tag Optimization</li>
-                                <li>Creation of Sitemap.XML</li>
-                                <li>Header Tags Optimized (Such as H1s)</li>
-                                <li>Image Optimization</li>
-                                <li>Content Optimization</li>
-                                <li>Google Analytics Installation</li>
-                                <li>Search Console Installation</li>
-                                <li>Page Load Speed Optimization</li>
-                                <li>1 Monthly On Page Blog Submission</li>
+                                <li>&nbsp; Meta tag Optimization</li>
+                                <li>&nbsp; Creation of Sitemap.XML</li>
+                                <li>&nbsp; Header Tags Optimized (Such as H1s)</li>
+                                <li>&nbsp; Image Optimization</li>
+                                <li>&nbsp; Content Optimization</li>
+                                <li>&nbsp; Google Analytics Installation</li>
+                                <li>&nbsp; Search Console Installation</li>
+                                <li>&nbsp; Page Load Speed Optimization</li>
+                                <li>&nbsp; 1 Monthly On Page Blog Submission</li>
                                 <li>
-                                    <b>Off Page Optimization</b>
+                                    <b>&nbsp; Off Page Optimization</b>
                                 </li>
-                                <li>Social Bookmarking</li>
-                                <li>Social Sharing</li>
-                                <li>Directory Submissions</li>
-                                <li>5 Business Listings Monthly</li>
-                                <li>5 Profile Creation Monthly</li>
-                                <li>1 Monthly Blog Submissions / Web 2.0</li>
+                                <li>&nbsp; Social Bookmarking</li>
+                                <li>&nbsp; Social Sharing</li>
+                                <li>&nbsp; Directory Submissions</li>
+                                <li>&nbsp; 5 Business Listings Monthly</li>
+                                <li>&nbsp; 5 Profile Creation Monthly</li>
+                                <li>&nbsp; 1 Monthly Blog Submissions / Web 2.0</li>
                                 <li>
-                                    <b>Reporting</b>
+                                    <b>&nbsp; Reporting</b>
                                 </li>
-                                <li>Monthly Reporting</li>
-                                <li>Email Support</li>
-                                <li>Phone Support</li>
+                                <li>&nbsp; Monthly Reporting</li>
+                                <li>&nbsp; Email Support</li>
+                                <li>&nbsp; Phone Support</li>
                             </ul>
                         </div>
                         <a href="/">Buy Package</a>

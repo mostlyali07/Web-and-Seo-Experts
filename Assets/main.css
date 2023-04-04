@@ -764,7 +764,6 @@ header.scrolled {
   font-size: 14px;
 }
 .price-box {
-  /* background-image: linear-gradient(#f58b01, #023866); */
   background-color: #023866;
   border-radius: 16px;
   padding: 60px 50px;
@@ -773,7 +772,10 @@ header.scrolled {
 .price-box ul li {
   color: #fff;
 }
-
+.price-box ul li::marker {
+  color: #f58b01;
+  content: "\2713";
+}
 .price-box h4 {
   color: #f58b01;
 }
@@ -798,10 +800,14 @@ header.scrolled {
   transition: 0.6s !important;
   cursor: pointer;
   background-color: #f58b01;
-  /* background-image: linear-gradient(#023866, #f58b01); */
+  transform: scale(1.1);
 }
-.price-box h4:hover {
+.price-box:hover h4 {
   color: #023866 !important;
+}
+.price-box:hover ul li::marker {
+  color: #023866;
+  content: "\2713";
 }
 .imagessss {
   width: auto;
