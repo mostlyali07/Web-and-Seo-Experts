@@ -53,7 +53,7 @@
                         <a class="nav-link" href="#">Testimonials</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About Us</a>
+                        <a class="nav-link" href="/Web-and-Seo-Experts/about-us.php">About Us</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/Web-and-Seo-Experts/contact-us.php">Contact Us</a>

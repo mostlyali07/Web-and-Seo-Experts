@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <img src="./Assets/images/SEO-services.png" class="main-imgs">
+                    <img src="./Assets/images/gogle-ads-3.png" class="main-imgs">
                 </div>
                 <?php include './Includes/form.php' ?>
                 <div class="d-flex justify-content-center">
@@ -40,8 +40,8 @@
 
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6 text-center">
-                <img src="./Assets/images/socialMedia.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 d-flex align-items-center">
+                <img src="./Assets/images/gogle-ads-1.png" alt="second-left-img" class="Images-main">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
                 <h2>
@@ -75,8 +75,8 @@
     <!---------------- Second Section End ---------------->
     <div class="container my-5">
         <div class="row my-5">
-            <div class="col-md-6 text-center">
-                <img src="./Assets/images/Chatbot.png" alt="second-left-img" class="Images-main" width="500">
+            <div class="col-md-6 d-flex align-items-center">
+                <img src="./Assets/images/gogle-ads-2.jpg" alt="second-left-img" class="Images-main" width="500">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
                 <h2>
@@ -97,10 +97,11 @@
                     Tailored Google Ads Services For Your Unique Needs
                 </h2>
                 <p>
-                    We don't believe in one-size-fits-all solutions. That's why we offer customized Google ads services that are as unique as your business. We'll work closely with you to understand your needs and develop a customized strategy that's designed to help you achieve your goals. And because we believe in transparency, we'll keep you informed every step of the way, providing you with regular updates and reports on your progress. <button class="btns-three" type="submit">START PROJECT</button>
+                    We don't believe in one-size-fits-all solutions. That's why we offer customized Google ads services that are as unique as your business. We'll work closely with you to understand your needs and develop a customized strategy that's designed to help you achieve your goals. And because we believe in transparency, we'll keep you informed every step of the way, providing you with regular updates and reports on your progress. </p>
+                <button class="btns-three" type="submit">START PROJECT</button>
             </div>
             <div class="col-md-6 text-center">
-                <img src="./Assets/images/paynow.jpg" alt="second-left-img" class="Images-main">
+                <img src="./Assets/images/gogle-ads-4.png" alt="second-left-img" class="Images-main">
             </div>
         </div>
     </div>
@@ -133,7 +134,7 @@
                 <div id="Logo-Design" class="tabcontent">
                     <div class="row">
                         <div class="col-md-6 text-center">
-                            <img src="./Assets/images/social-media-marketing.jpg" alt="features-logo-tips">
+                            <img src="./Assets/images/gogle-ads-5.webp" alt="features-logo-tips">
                         </div>
                         <div class="col-md-6 d-flex align-items-center">
                             <div>
@@ -150,7 +151,7 @@
                 <div id="Web-Design" class="tabcontent">
                     <div class="row">
                         <div class="col-md-6 text-center">
-                            <img src="./Assets/images/SMM.png" alt="features-logo-tips">
+                            <img src="./Assets/images/gogle-ads-6.png" alt="features-logo-tips">
                         </div>
                         <div class="col-md-6 d-flex align-items-center">
                             <div>
@@ -167,7 +168,7 @@
                 <div id="Web-Development" class="tabcontent">
                     <div class="row">
                         <div class="col-md-6 text-center">
-                            <img src="./Assets/images/seo-marketing.png" alt="features-logo-tips">
+                            <img src="./Assets/images/gogle-ads-7.png" alt="features-logo-tips">
                         </div>
                         <div class="col-md-6 d-flex align-items-center">
                             <div>
@@ -183,7 +184,7 @@
                 <div id="Content-Writing" class="tabcontent">
                     <div class="row">
                         <div class="col-md-6 text-center">
-                            <img src="./Assets/images/tool.png" alt="features-logo-tips">
+                            <img src="./Assets/images/gogle-ads-8.webp" alt="features-logo-tips">
                         </div>
                         <div class="col-md-6 d-flex align-items-center">
                             <div>
@@ -220,8 +221,8 @@
                 </ul>
                 <button class="btns-three" type="submit">START PROJECT</button>
             </div>
-            <div class="col-md-6 text-center">
-                <img src="./Assets/images/fold2.png" alt="second-left-img" class="Images-main">
+            <div class="col-md-6 d-flex align-items-center">
+                <img src="./Assets/images/gogle-ads-9.jpg" alt="second-left-img" class="Images-main">
             </div>
         </div>
     </div>
@@ -229,7 +230,7 @@
     <div class="container my-5">
         <div class="row my-5">
             <div class="col-md-6 text-center">
-                <img src="./Assets/images/digital-marketing-graphic.png" alt="second-left-img" class="Images-main">
+                <img src="./Assets/images/gogle-ads-10.jpg" alt="second-left-img" class="Images-main">
             </div>
             <div class="col-md-6 pt-5 right-side-panel">
                 <h2>
