@@ -7,34 +7,43 @@
     <?php include './Includes/header.php'; ?>
 
     <!---------------- First Section Start ---------------->
-    <div class="main-banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 banner-left d-flex align-items-center">
-                    <div>
-                        <h1>
-                            Search Engine Optimization Services To Turn Your
-                            <span style="color: #f58b01;"> Online Presence
-                                Into A Profit Machine</span>
-                        </h1>
-                        <p>
-                            Don't wait any longer to take your business to the next level - let us help you get there with
-                            our top-notch search engine optimization services! At Web and SEO Experts,
-                            You will receive website analysis, strategy, forecast, and key performance indicators without any strings attached.
-                        </p>
-                        <button class="btns-one" type="submit">START PROJECT</button>
-                        <button class="btns-two" type="submit">CALL NOW</button>
+    <div class="banner-2">
+        <div class="main-banner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 banner-left d-flex align-items-center">
+                        <div>
+                            <h1>
+                                Search Engine Optimization Services To Turn Your
+                                <span style="color: #f58b01;"> Online Presence
+                                    Into A Profit Machine</span>
+                            </h1>
+                            <p>
+                                Don't wait any longer to take your business to the next level - let us help you get there with
+                                our top-notch search engine optimization services! At Web and SEO Experts,
+                                You will receive website analysis, strategy, forecast, and key performance indicators without any strings attached.
+                            </p>
+                            <button class="btns-one" type="submit">START PROJECT</button>
+                            <button class="btns-two" type="submit">CALL NOW</button>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-flex align-items-center justify-content-center">
+                        <img src="./Assets/images/tool.png" class="main-imgs">
+                    </div>
+                    <?php include './Includes/form.php' ?>
+                    <div class="mt-4 d-flex justify-content-center">
+                        <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
+                        <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
+                        <img src="./Assets/images/binsider.png" alt="B Insider">
                     </div>
                 </div>
-                <div class="col-md-6 d-flex align-items-center justify-content-center">
-                    <img src="./Assets/images/tool.png" class="main-imgs">
-                </div>
-                <?php include './Includes/form.php' ?>
-                <div class="mt-4 d-flex justify-content-center">
-                    <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/binsider.png" alt="B Insider">
-                </div>
+            </div>
+            <div class="custom-shape-divider-bottom-1680871224">
+                <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.center5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z" opacity=".25" class="shape-fill"></path>
+                    <path d="M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z" opacity=".5" class="shape-fill"></path>
+                    <path d="M0,0V5.63C149.93,59,314.09,71.32,475.83,42.57c43-7.64,84.23-20.12,127.61-26.46,59-8.63,112.48,12.24,165.56,35.4C827.93,77.22,886,95.24,951.2,90c86.53-7,172.46-45.71,248.8-84.81V0Z" class="shape-fill"></path>
+                </svg>
             </div>
         </div>
     </div>
@@ -178,7 +187,7 @@
     <!---------------- Process Section End ---------------->
 
     <!---------------- Fourth Section Start ---------------->
-    <div class="container py-5">
+    <div class="container pt-5">
         <div class="row">
             <div class="col-md-6 text-center">
                 <img src="./Assets/images/forth-sec.png" alt="" class="Images-main-two">
@@ -202,8 +211,30 @@
     <!---------------- Fourth Section End ---------------->
 
 
+    <div class="container my-5 py-5">
+        <div class="row my-5 py-5">
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2> What Makes Web And SEO Experts Different From Other SEO Marketing Companies?</h2>
+                    <p>
+                        At Web and SEO Experts, we have worked with over 200 businesses.
+                        Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
+                        With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
+                        Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
+                    </p> <br>
+                    <a class="btns-six" href="./about-us.php">MORE ABOUT US</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                <!-- <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+            </div>
+        </div>
+    </div>
+
     <!---------------- Fifth Section Start ---------------->
-    <div class="container py-5 my-5">
+    <!-- <div class="container py-5 my-5">
         <div class="row mb-5">
             <div class="col-md-12 text-center middle-text">
                 <h2>
@@ -306,7 +337,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!---------------- Fifth Section End ---------------->
 
     <!---------------- Sixth Section Start ---------------->
@@ -329,8 +360,6 @@
                             </div>
                         </div>
                     </div>
-
-
 
                     <p>
                         With over 4,000 algorithmic updates in 2020 alone, Google's always on the move. But that's no sweat for our team of SEO experts.
@@ -377,43 +406,67 @@
 
     <div class="container my-5">
         <div class="row">
-            <div class="col-md-8 text-center d-flex align-items-center">
+            <div class="col-md-6 text-center d-flex align-items-center">
                 <img src="./Assets/images/shape-round.png" class="imagessss">
             </div>
-            <div class="col-md-4">
-                <a href="#">
-                    <div class="campaign p-4">
-                        <i class="fa-solid fa-chart-simple icons-charts"></i>
-                        <span class="text-6">Social Media Marketing</span>
-                        <br /><br />
-                        <p class="text-7">Connect with your audience and grow your brand with our social media marketing services.</p><br>
-                        <div class="text-end numbers-div">
-                            <span class="numbers">01</span>
-                        </div>
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="#">
+                            <div class="campaign p-5 text-center">
+                                <i class="fa-solid fa-file icons-charts"></i>
+                                <h5 class="text-6">Search Engine Optimization</h5>
+
+                                <p class="text-7">Investing in SEO can help your website rank higher, drive traffic, and increase sales.</p><br>
+                                <div class="text-end numbers-div">
+                                    <span class="numbers">01</span>
+                                </div>
+                            </div>
+                        </a>
                     </div>
-                </a>
-                <a href="#">
-                    <div class="campaign p-4">
-                        <i class="fa-solid fa-file icons-charts"></i>
-                        <span class="text-6">Website Design And Development</span>
-                        <br /><br />
-                        <p class="text-7">Make a lasting impression on your visitors with our stunning website design and development services.</p><br>
-                        <div class="text-end numbers-div">
-                            <span class="numbers">02</span>
-                        </div>
+                    <div class="col-md-6">
+                        <a href="#">
+                            <div class="campaign p-5 right-one text-center">
+                                <i class="fa-solid fa-chart-simple icons-charts"></i>
+                                <h5 class="text-6">Social Media Marketing</h5>
+
+                                <p class="text-7">Connect with your audience and grow your brand with our social media marketing services.</p><br>
+                                <div class="text-end numbers-div">
+                                    <span class="numbers">02</span>
+                                </div>
+                            </div>
+                        </a>
                     </div>
-                </a>
-                <a href="#">
-                    <div class="campaign p-4">
-                        <i class="fa-solid fa-magnifying-glass-dollar icons-charts"></i>
-                        <span class="text-6">Google Paid Marketing </span>
-                        <br /><br />
-                        <p class="text-7">Unlock the power of Google and skyrocket your business growth with our expertly-crafted Google paid marketing campaigns. </p><br>
-                        <div class="text-end numbers-div">
-                            <span class="numbers">03</span>
-                        </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="#">
+                            <div class="campaign p-5 text-center">
+                                <i class="fa-solid fa-code icons-charts"></i>
+                                <h5 class="text-6">Website Design And Development</h5>
+
+                                <p class="text-7">Make a lasting impression on your visitors with our stunning website design and development services.</p><br>
+                                <div class="text-end numbers-div">
+                                    <span class="numbers">03</span>
+                                </div>
+                            </div>
+                        </a>
                     </div>
-                </a>
+                    <div class="col-md-6">
+
+                        <a href="#">
+                            <div class="campaign p-5 right-one text-center">
+                                <i class="fa-solid fa-magnifying-glass-dollar icons-charts"></i>
+                                <h5 class="text-6">Google Paid Marketing </h5>
+
+                                <p class="text-7">Unlock the power of Google and skyrocket your business growth with our expertly-crafted Google paid marketing campaigns. </p><br>
+                                <div class="text-end numbers-div">
+                                    <span class="numbers">04</span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -449,7 +502,7 @@
                             </div>
                         </div>
                         <div class="row pt-5">
-                            <div class="col-md-6 text-end">
+                            <div class="col-md-6 text-center">
                                 <img src="./Assets/images/comp-1.png" class="imagesss">
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
@@ -467,7 +520,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="row pt-5">
-                                    <div class="col-md-6 text-end">
+                                    <div class="col-md-6 text-center">
                                         <img src="./Assets/images/comp-2.png" class="imagesss">
                                     </div>
                                     <div class="col-md-6 d-flex align-items-center">
@@ -484,7 +537,7 @@
                             </div>
                         </div>
                         <div class="row py-5">
-                            <div class="col-md-6 text-end">
+                            <div class="col-md-6 text-center">
                                 <img src="./Assets/images/comp-3.png" class="imagesss">
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
@@ -502,7 +555,7 @@
                             </div>
                             <div class="col-md-8">
                                 <div class="row py-5">
-                                    <div class="col-md-6 text-end">
+                                    <div class="col-md-6 text-center">
                                         <img src="./Assets/images/comp-2.png" class="imagesss">
                                     </div>
                                     <div class="col-md-6 d-flex align-items-center">
@@ -519,7 +572,7 @@
                             </div>
                         </div>
                         <div class="row py-5">
-                            <div class="col-md-6 text-end">
+                            <div class="col-md-6 text-center">
                                 <img src="./Assets/images/comp-3.png" class="imagesss">
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
@@ -543,6 +596,7 @@
     <div class="gray">
         <div class="container">
             <div class="row">
+                <div class="col-md-1"></div>
                 <div class="col-md-6 right-side-panel d-flex align-items-center justify-content-center">
                     <div>
                         <h2>
@@ -556,7 +610,6 @@
                         <button class="btns-three" type="submit">START PROJECT</button>
                     </div>
                 </div>
-                <div class="col-md-1"></div>
                 <div class="col-md-4">
                     <div class="price-box">
                         <h4>Kick Starter <i class="fa-solid fa-rocket"></i></h4>

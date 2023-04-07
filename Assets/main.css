@@ -16,16 +16,23 @@ a {
 }
 .main-banner {
   background-color: #023866;
-  padding-top: 180px;
-  padding-bottom: 150px;
+  background-image: url(./images/donut_3d_shape.png);
+  background-repeat: no-repeat;
+  background-position-x: -320px;
+  background-position-y: 220px;
+  background-size: 35%;
+  padding-top: 130px;
+  height: 100vh;
 }
 .main-banner p {
+  font-size: 18px;
   color: #fff;
 }
+
 .seo-banner {
   background-color: #023866;
-  padding-top: 180px;
-  padding-bottom: 150px;
+  padding-top: 130px;
+  height: 100vh;
   /* margin-top: -15vh;
   background: linear-gradient(
       0deg,
@@ -35,11 +42,12 @@ a {
     url(./images/back-seo.jpeg); */
 }
 .seo-banner p {
+  font-size: 18px;
   color: #fff;
 }
-.heighs {
+/* .heighs {
   height: 150px;
-}
+} */
 header {
   padding: 20px 0;
   height: 100px;
@@ -136,19 +144,19 @@ header.scrolled {
   color: #fff;
   font-weight: 600;
   /* margin-top: 150px; */
-  font-size: 46px;
+  font-size: 40px;
 }
-.banner-left h6 {
+/* .banner-left h6 {
   color: #fff;
   font-weight: 600;
-}
-.banner-left ul li {
+} */
+/* .banner-left ul li {
   color: #fff;
-}
-.banner-left ul li::marker {
+} */
+/* .banner-left ul li::marker {
   color: #f58b01;
   content: "\002D";
-}
+} */
 .btns-one {
   color: #fff;
   font-size: 15px;
@@ -243,6 +251,7 @@ header.scrolled {
 }
 .btns-six:hover {
   transition: 0.6s;
+  color: #fff;
   background-color: #023866;
   border: 1px solid #023866;
 }
@@ -390,6 +399,7 @@ header.scrolled {
   width: 650px;
 }
 .input-feilds {
+  width: 200px;
   height: 46px;
   border-radius: 26px;
   padding: 10px;
@@ -421,6 +431,8 @@ header.scrolled {
   position: relative;
   animation: slide-up 0.5s ease-out forwards;
   transform: translateY(100%);
+
+  z-index: 999;
 }
 @keyframes slide-up {
   to {
@@ -646,7 +658,47 @@ header.scrolled {
     transform: translateX(0);
   }
 }
+.custom-shape-divider-bottom-1680871224 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
 
+.custom-shape-divider-bottom-1680871224 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 160px;
+}
+
+.custom-shape-divider-bottom-1680871224 .shape-fill {
+  fill: #ffffff;
+}
+.custom-shape-divider-bottom-1680884536 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1680884536 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 160px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1680884536 .shape-fill {
+  fill: #ffffff;
+}
 /************************* Style the tab End *************************/
 .random {
   width: 500px;
@@ -666,7 +718,7 @@ header.scrolled {
   background-image: url(./images/Shape_150.png);
   background-position: top center;
   background-repeat: no-repeat;
-  background-size: contain;
+  /* background-size: contain; */
 }
 .Ninth-div {
   background-image: url(./images/Shape_150.png);
@@ -676,7 +728,7 @@ header.scrolled {
 }
 .count {
   color: #f58b01;
-  font-size: 46px;
+  font-size: 36px;
   font-weight: 600;
 }
 .text-5,
@@ -697,14 +749,19 @@ header.scrolled {
   font-size: 12px;
   letter-spacing: 2px;
 }
+.youtube {
+  width: 660px;
+  height: 360px;
+}
 .campaign {
   background-image: linear-gradient(#fff, #fff);
   border-radius: 26px;
-  margin: 26px 0px;
+  margin: 12px;
   box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: -1px 3px 30px -17px rgba(0, 0, 0, 0.75);
   transition: all 0.2s ease-in;
+  height: 330px;
 }
 .campaign:hover {
   background-image: linear-gradient(#f58b01, #023866);
@@ -724,8 +781,11 @@ header.scrolled {
 }
 .icons-charts {
   color: #f58b01;
-  font-size: 28px;
-  margin-right: 26px;
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+.right-one {
+  margin-top: -1px;
 }
 .text-6 {
   color: #000;
@@ -870,6 +930,11 @@ header.scrolled {
   margin-right: 26px;
 }
 .gray {
+  background: linear-gradient(0deg, #e7e7e7, #e7e7e76a),
+    url(./images/the-benefits-of-promodeo.png);
+  background-position: -16% bottom;
+  background-size: 30%;
+  background-repeat: no-repeat;
   background-color: #e7e7e7;
 }
 .ProsNumber {
@@ -928,10 +993,12 @@ header.scrolled {
     font-size: 33px;
   }
   .main-banner {
+    height: 190vh;
     padding-top: 200px;
     margin-top: -20vh;
   }
   .seo-banner {
+    height: 190vh;
     padding-top: 200px;
     margin-top: -20vh;
     /* padding-bottom: 300px; */
@@ -1030,5 +1097,16 @@ header.scrolled {
   }
   .text-5 {
     font-size: 12px;
+  }
+  .custom-shape-divider-bottom-1680871224 {
+    bottom: -598px;
+  }
+  .youtube {
+    margin-top: 26px;
+    width: 360px;
+    height: 200px;
+  }
+  .tabcontent img {
+    width: 330px;
   }
 }
