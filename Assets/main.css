@@ -37,6 +37,19 @@ a {
   font-size: 18px;
   color: #fff;
 }
+.pages {
+  background-color: #023866;
+  background-image: url(./images/donut_3d_shape_2.png);
+  background-repeat: no-repeat;
+  background-position-x: -125px;
+  background-position-y: 57px;
+  background-size: 28%;
+  padding-top: 160px;
+  padding-bottom: 80px;
+}
+.pages h1 {
+  color: #fff;
+}
 /* .heighs {
   height: 150px;
 } */
@@ -703,9 +716,9 @@ header.scrolled {
 .randomOne {
   width: 600px !important;
   border-radius: 6px;
-  box-shadow: -1px 10px 25px -16px rgba(0,0,0,1);
--webkit-box-shadow: -1px 10px 25px -16px rgba(0,0,0,1);
--moz-box-shadow: -1px 10px 25px -16px rgba(0,0,0,1);
+  box-shadow: -1px 10px 25px -16px rgba(0, 0, 0, 1);
+  -webkit-box-shadow: -1px 10px 25px -16px rgba(0, 0, 0, 1);
+  -moz-box-shadow: -1px 10px 25px -16px rgba(0, 0, 0, 1);
 }
 .tablinks {
   font-weight: 600;
@@ -798,7 +811,7 @@ header.scrolled {
 }
 .numbers {
   font-weight: 800;
-  color: #f0f6ff;
+  color: #e4e4e4;
   font-size: 56px;
 }
 .numbers-div {
@@ -923,6 +936,10 @@ header.scrolled {
   text-decoration: none;
   list-style: none;
 }
+.Main-Footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
 .mobile-tab {
   display: none !important;
 }
@@ -938,13 +955,9 @@ header.scrolled {
   background-color: #d2d2d2;
 }
 .grayy {
-  /* background: linear-gradient(0deg, #d2d2d2, #d2d2d26a),
-    url(./images/the-benefits-of-promodeo.png);
-  background-position: -16% bottom;
-  background-size: 30%;
-  background-repeat: no-repeat; */
   background-color: #d2d2d2;
 }
+
 .ProsNumber {
   width: 120px;
   height: 120px;
@@ -1120,5 +1133,5 @@ header.scrolled {
   .back-div {
     background-size: 92%;
     margin-top: 57px;
-}
+  }
 }

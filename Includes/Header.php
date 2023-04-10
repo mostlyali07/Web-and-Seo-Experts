@@ -39,11 +39,11 @@
                             All Services
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/app-development-services.php">App Development</a></li>
-                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/seo-services.php">Search Engine Optimization</a></li>
-                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/google-ads-management-services.php">Google Ads Management</a></li>
-                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/social-media-services.php">Social Media marketing</a></li>
-                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/website-design-development-services.php">Website Design & Development</a></li>
+                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/app-development-services">App Development</a></li>
+                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/seo-services">Search Engine Optimization</a></li>
+                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/google-ads-management-services">Google Ads Management</a></li>
+                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/social-media-services">Social Media marketing</a></li>
+                            <li><a class="dropdown-item" href="/Web-and-Seo-Experts/website-design-development-services">Website Design & Development</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -53,10 +53,10 @@
                         <a class="nav-link" href="#">Testimonials</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Web-and-Seo-Experts/about-us.php">About Us</a>
+                        <a class="nav-link" href="/Web-and-Seo-Experts/about-us">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Web-and-Seo-Experts/contact-us.php">Contact Us</a>
+                        <a class="nav-link" href="/Web-and-Seo-Experts/contact-us">Contact Us</a>
                     </li>
                     <li class="nav-item">
                         <button class="btns-one" type="submit">Analyze My Site</button>

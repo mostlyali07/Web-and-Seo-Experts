@@ -2,6 +2,7 @@
 <html lang="en">
 
 <?php include './Includes/head.php'; ?>
+<title>Web and SEO Experts</title>
 
 <body>
     <?php include './Includes/header.php'; ?>
@@ -32,7 +33,6 @@
                     </div>
                     <?php include './Includes/form.php' ?>
                     <?php include './Includes/clients.php' ?>
-
                 </div>
             </div>
             <div class="custom-shape-divider-bottom-1680871224">
@@ -579,6 +579,7 @@
         </div>
     </div>
     <!---------------- Eighth Section End ---------------->
+
     <!---------------- Starter Section Start ---------------->
 
     <div class="gray">
@@ -649,7 +650,6 @@
     </div>
     </div>
 
-
     <!---------------- Starter Section End ---------------->
 
     <!---------------- Ninth Section Start ---------------->
@@ -679,6 +679,11 @@
     </div>
 
     <!---------------- Ninth Section End ---------------->
+
+    <!---------------- Testimonials Section Start ---------------->
+
+    
+    <!---------------- Testimonials Section End ---------------->
 
     <!---------------- Trusted Section Start ---------------->
     <div class="container pb-5">

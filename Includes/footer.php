@@ -15,7 +15,7 @@
         <hr style="color: #fff;" />
         <div class="row mt-5">
             <div class="col-md-5">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="/Web-and-Seo-Experts/">
                     <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" width="240">
                 </a>
                 <p class="mt-4">
@@ -51,10 +51,11 @@
         </div>
         <div class="row">
             <div class="col-md-12 text-center mt-5">
-                <h6 class="lh-lg">Copyright &copy; 2023 webandseoexperts.com | All rights
-                    reserved. Terms And
-                    Conditions | Privacy
-                    Policy
+                <h6 class="lh-lg">Copyright &copy; 2023 webandseoexperts.com | All rights reserved
+                    |
+                    <a href="/Web-and-Seo-Experts/terms-and-conditions"> Terms And Conditions</a>
+                    |
+                    <a href="/Web-and-Seo-Experts/privacy-policy">Privacy Policy</a>
                 </h6>
             </div>
         </div>

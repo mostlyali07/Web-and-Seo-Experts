@@ -4,7 +4,7 @@
             <div class="row my-5">
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Good</h4>
+                        <h4>Essential</h4>
                         <span class="fw-bold fs-1">$300</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -69,7 +69,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Better</h4>
+                        <h4>Standard</h4>
                         <span class="fw-bold fs-1">$500</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -147,7 +147,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Best</h4>
+                        <h4>Professional</h4>
                         <span class="fw-bold fs-1">$750</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -231,7 +231,7 @@
             <div class="row my-5">
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Good</h4>
+                        <h4>Essential</h4>
                         <span class="fw-bold fs-1">$300</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -253,7 +253,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Better</h4>
+                        <h4>Standard</h4>
                         <span class="fw-bold fs-1">$400</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -280,7 +280,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Best</h4>
+                        <h4>Professional</h4>
                         <span class="fw-bold fs-1">$500</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -310,7 +310,7 @@
             <div class="row my-5">
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Good</h4>
+                        <h4>Essential</h4>
                         <span class="fw-bold fs-1">$649</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -354,7 +354,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Better</h4>
+                        <h4>Standard</h4>
                         <span class="fw-bold fs-1">$1099</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -405,7 +405,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Best</h4>
+                        <h4>Professional</h4>
                         <span class="fw-bold fs-1">$1999</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -459,7 +459,7 @@
             <div class="row my-5">
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Good</h4>
+                        <h4>Essential</h4>
                         <span class="fw-bold fs-1">$150</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -488,7 +488,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Better</h4>
+                        <h4>Standard</h4>
                         <span class="fw-bold fs-1">$500</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
@@ -520,7 +520,7 @@
 
                 <div class="col-md-4">
                     <div class="price-box">
-                        <h4>Best</h4>
+                        <h4>Professional</h4>
                         <span class="fw-bold fs-1">$700</span><br> <span style="color: #fff; font-size: 14px;">
                             First Month Payment</span>
                         <hr>
