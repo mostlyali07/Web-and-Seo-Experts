@@ -29,11 +29,7 @@
                     <img src="./Assets/images/SEO-services.png" class="main-imgs">
                 </div>
                 <?php include './Includes/form.php' ?>
-                <div class="mt-4 d-flex justify-content-center">
-                    <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/binsider.png" alt="B Insider">
-                </div>
+                <?php include './Includes/clients.php' ?>
                 <!-- <div class="col-md-6 d-flex align-items-center justify-content-center">
                     <div class="main-form text-center">
                         <h3 class="pb-3">Sign Up Now & Let’s Get Started</h3>

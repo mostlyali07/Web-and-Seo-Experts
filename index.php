@@ -31,11 +31,8 @@
                         <img src="./Assets/images/tool.png" class="main-imgs">
                     </div>
                     <?php include './Includes/form.php' ?>
-                    <div class="mt-4 d-flex justify-content-center">
-                        <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                        <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                        <img src="./Assets/images/binsider.png" alt="B Insider">
-                    </div>
+                    <?php include './Includes/clients.php' ?>
+
                 </div>
             </div>
             <div class="custom-shape-divider-bottom-1680871224">
@@ -210,25 +207,27 @@
     </div>
     <!---------------- Fourth Section End ---------------->
 
+    <div class="grayy">
 
-    <div class="container my-5 py-5">
-        <div class="row my-5 py-5">
-            <div class="col-md-6 right-side-panel d-flex align-items-center">
-                <div>
-                    <h2> What Makes Web And SEO Experts Different From Other SEO Marketing Companies?</h2>
-                    <p>
-                        At Web and SEO Experts, we have worked with over 200 businesses.
-                        Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
-                        With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
-                        Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
-                    </p> <br>
-                    <a class="btns-six" href="./about-us.php">MORE ABOUT US</a>
+        <div class="container my-5 py-5">
+            <div class="row my-5 py-5">
+                <div class="col-md-6 right-side-panel d-flex align-items-center">
+                    <div>
+                        <h2> What Makes Web And SEO Experts Different From Other SEO Marketing Companies?</h2>
+                        <p>
+                            At Web and SEO Experts, we have worked with over 200 businesses.
+                            Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
+                            With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
+                            Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
+                        </p> <br>
+                        <a class="btns-six" href="./about-us.php">MORE ABOUT US</a>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-6">
-                <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="col-md-6">
+                    <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-                <!-- <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+                    <!-- <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+                </div>
             </div>
         </div>
     </div>
@@ -341,14 +340,13 @@
     <!---------------- Fifth Section End ---------------->
 
     <!---------------- Sixth Section Start ---------------->
-    <div class="sixth-div my-5">
+    <div class="sixth-div my-5 py-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <h2>
                         Don't get lost in the SEO Updates - Let Our SEO Experts Keep You In The Top Ranks
                     </h2>
-
                     <div class="my-4">
                         <div class="button-cover">
                             <div class="button b2" id="button-10">
@@ -385,9 +383,11 @@
                     <button class="btns-six" type="submit">START PROJECT</button>
                     <button class="btns-four" type="submit">SUBMIT NOW</button>
                 </div>
-                <div class="col-md-6">
-                    <img src="./Assets/images/SEO after.png" alt="Dashboard" class="randomOne hidden" id="div1">
-                    <img src="./Assets/images/SEO.jpg" alt="Dashboard" class="randomOne" id="div2">
+                <div class="col-md-6 d-flex align-items-center justify-content-center back-div">
+                    <div>
+                        <img src="./Assets/images/After.png" alt="Dashboard" class="randomOne hidden" id="div1">
+                        <img src="./Assets/images/Before.png" alt="Dashboard" class="randomOne" id="div2">
+                    </div>
                 </div>
             </div>
         </div>
@@ -473,20 +473,8 @@
     <!---------------- Seventh Section End ---------------->
 
 
-    <?php include './Includes/ctas.php'; ?>
     <!---------------- CTAs Section Start ---------------->
-    <!-- <div class="container my-5 py-5">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h4 class="fw- mb-4">There is no limit to what you can achieve with a book under your Name</h4>
-                <h3 class="fw-bold mb-5">Call Us at <span style="color: #f58b01;">1-765-321-6543</span> to begin your
-                    project
-                    today! </h3>
-                <button class="btns-six" type="submit">START PROJECT</button>
-                <button class="btns-four" type="submit">SUBMIT NOW</button>
-            </div>
-        </div>
-    </div> -->
+    <?php include './Includes/ctas.php'; ?>
     <!---------------- CTAs Section End ---------------->
 
     <!---------------- Eighth Section Start ---------------->
@@ -728,20 +716,8 @@
     <!---------------- Trusted Section End ---------------->
 
     <!---------------- CTAs Section Start ---------------->
-    <!-- <div class="container my-5 py-5">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h4 class="fw- mb-4">There is no limit to what you can achieve with a book under your Name</h4>
-                <h3 class="fw-bold mb-5">Call Us at <span style="color: #f58b01;">1-765-321-6543</span> to begin your
-                    project
-                    today! </h3>
-                <button class="btns-six" type="submit">START PROJECT</button>
-                <button class="btns-four" type="submit">SUBMIT NOW</button>
-            </div>
-        </div>
-    </div> -->
-    <!---------------- CTAs Section End ---------------->
     <?php include './Includes/ctas.php'; ?>
+    <!---------------- CTAs Section End ---------------->
     <!---------------- Awards Section Start ---------------->
     <div class="container my-5">
         <div class="row text-center">

@@ -26,12 +26,6 @@
                 <div class="col-md-6 d-flex align-items-center justify-content-center">
                     <img src="./Assets/images/about-us.png" class="main-imgs">
                 </div>
-
-                <!-- <div class="mt-4 d-flex justify-content-center">
-                    <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/binsider.png" alt="B Insider">
-                </div> -->
             </div>
         </div>
     </div>

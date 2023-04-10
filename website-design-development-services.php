@@ -29,11 +29,7 @@
                     <img src="./Assets/images/Web-design-3.png" class="main-imgs">
                 </div>
                 <?php include './Includes/form.php' ?>
-                <div class="mt-4 d-flex justify-content-center">
-                    <img src="./Assets/images/trustpilot-stacked-logo.png" alt="Trustpilot Stacked">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/gpartner.png" alt="G Partner">&nbsp;&nbsp;&nbsp;
-                    <img src="./Assets/images/binsider.png" alt="B Insider">
-                </div>
+                <?php include './Includes/clients.php' ?>
             </div>
         </div>
         <div class="custom-shape-divider-bottom-1680884536">
