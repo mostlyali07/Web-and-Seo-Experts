@@ -979,17 +979,67 @@ header.scrolled {
   font-size: 16px;
   font-weight: 600;
 }
-/* .about-us ul li::marker {
-  display: none;
-  color: #f58b01;
-  font-size: 26px;
-  content: "\1F441";
-} */
-/* .about-us ul li::marker:first-child {
-  color: blue;
-  font-size: 20px;
-  content: "\1F441";
-} */
+/************* Testimonial *************/
+.Testimonial-back {
+  height: 55vh;
+  background-image: url(./images/wave_background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+.testimonials {
+  width: 100%;
+  text-align: center;
+  height: 320px;
+  overflow: hidden;
+  position: relative;
+}
+
+.testimonial {
+  width: 100%;
+  height: 320px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  background-color: #023866;
+  padding: 26px;
+  border-radius: 6px;
+}
+
+.testimonial.active {
+  opacity: 1;
+}
+
+.testimonial.next {
+  left: 100%;
+}
+
+.testimonial.previous {
+  left: -100%;
+}
+
+.dots {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.dot {
+  width: 20px;
+  height: 10px;
+  border-radius: 2px;
+  background-color: #f58b0149;
+  margin: 0 5px;
+  cursor: pointer;
+  z-index: 99;
+}
+
+.dot.active {
+  background-color: #f58b01;
+}
 
 @keyframes spin {
   0% {
@@ -1133,5 +1183,14 @@ header.scrolled {
   .back-div {
     background-size: 92%;
     margin-top: 57px;
+  }
+  .Testimonial-back {
+    height: 85vh;
+  }
+  .testimonials {
+    height: 450px;
+  }
+  .testimonial {
+    height: 450px;
   }
 }

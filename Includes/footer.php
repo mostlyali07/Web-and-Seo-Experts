@@ -71,6 +71,34 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 <script>
+    /////////Testimonial//////////
+    const testimonials = document.querySelectorAll('.testimonial');
+    const dots = document.querySelectorAll('.dot');
+    let currentTestimonial = 0;
+
+    function showTestimonial(n) {
+        testimonials[currentTestimonial].className = 'testimonial';
+        dots[currentTestimonial].className = 'dot';
+        currentTestimonial = (n + testimonials.length) % testimonials.length;
+        testimonials[currentTestimonial].className = 'testimonial active';
+        dots[currentTestimonial].className = 'dot active';
+    }
+
+    function nextTestimonial() {
+        showTestimonial(currentTestimonial + 1);
+        testimonials[currentTestimonial].className = 'testimonial next';
+        testimonials[(currentTestimonial + 1) % testimonials.length].className = 'testimonial active';
+    }
+
+    function previousTestimonial() {
+        showTestimonial(currentTestimonial - 1);
+        testimonials[currentTestimonial].className = 'testimonial previous';
+        testimonials[(currentTestimonial + 1) % testimonials.length].className = 'testimonial active';
+    }
+
+    setInterval(nextTestimonial, 3000);
+
+
     const tabButtons = document.querySelectorAll('.tab button');
 
     tabButtons.forEach(button => {

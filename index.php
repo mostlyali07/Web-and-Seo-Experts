@@ -184,7 +184,7 @@
     <!---------------- Process Section End ---------------->
 
     <!---------------- Fourth Section Start ---------------->
-    <div class="container pt-5">
+    <div class="container py-5">
         <div class="row">
             <div class="col-md-6 text-center">
                 <img src="./Assets/images/forth-sec.png" alt="" class="Images-main-two">
@@ -206,31 +206,79 @@
         </div>
     </div>
     <!---------------- Fourth Section End ---------------->
-
-    <div class="grayy">
-
-        <div class="container my-5 py-5">
-            <div class="row my-5 py-5">
-                <div class="col-md-6 right-side-panel d-flex align-items-center">
-                    <div>
-                        <h2> What Makes Web And SEO Experts Different From Other SEO Marketing Companies?</h2>
-                        <p>
-                            At Web and SEO Experts, we have worked with over 200 businesses.
-                            Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
-                            With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
-                            Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
-                        </p> <br>
-                        <a class="btns-six" href="./about-us.php">MORE ABOUT US</a>
-                    </div>
+    <!---------------- Testimonials Section Start ---------------->
+    <div class="Testimonial-back d-flex align-items-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h2>What Our Clients Say About Us</h2>
+                    <p>It seemed impossible for many of our clients to survive in the industry until we stepped in and turned things around for them.
+                        That is one reason why they speak so highly of our technical and non-technical services.</p>
                 </div>
                 <div class="col-md-6">
-                    <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                    <!-- <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+                    <div class="testimonials d-flex align-items-end justify-content-center">
+                        <div>
+                            <div class="testimonial active">
+                                <p class="testimonial-text">
+                                    If you’re looking for a truly dedicated team of publishers, you’ve come to the right place! Kudos to Web and Seo Experts for keeping up with the constantly changing requirements of the book.
+                                    I couldn’t have covered everything without their professional help and attention to detail. Done and dusted with book one and looking forward to publishing my next installment with the pros!
+                                </p>
+                                <h4 class="testimonial-author">Ameli</h4>
+                                <h5 class="testimonial-designation">Marketing Manager</h5>
+                            </div>
+                            <div class="testimonial">
+                                <p class="testimonial-text">
+                                    1 thing down, 10 more to go! That’s how I began working on publishing my book, until Web and Seo Experts came along.
+                                    Their commitment to winding up all the publishing processes within the time frame deserves all the appreciation. They picked up my slack and got everything in order in a timely manner.
+                                    My book came out at least a couple of months before my original planning for releasing the book and I’d ever considered getting professional help. Thank you guys!
+                                </p>
+                                <h4 class="testimonial-author">John</h4>
+                                <h5 class="testimonial-designation">Business Owner</h5>
+                            </div>
+                            <div class="testimonial">
+                                <p class="testimonial-text">
+                                    When I wanted to publish my first book, I had no idea where to start.
+                                    Thanks to Web and Seo Experts and their team of editors for patiently assisting and guiding me through the entire process.
+                                    They’re now my go-to publication for all my future books.
+                                </p>
+                                <h4 class="testimonial-author">Laura</h4>
+                                <h5 class="testimonial-designation">Fashion Designer</h5>
+                            </div>
+                        </div>
+                        <div class="dots">
+                            <span class="dot active" onclick="showTestimonial(0)"></span>
+                            <span class="dot" onclick="showTestimonial(1)"></span>
+                            <span class="dot" onclick="showTestimonial(2)"></span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+    <!---------------- Testimonials Section End ---------------->
+    <!-- <div class="grayy"> -->
+    <div class="container my-5 py-5">
+        <div class="row my-5 py-5">
+            <div class="col-md-6 right-side-panel d-flex align-items-center">
+                <div>
+                    <h2> What Makes Web And SEO Experts Different From Other SEO Marketing Companies?</h2>
+                    <p>
+                        At Web and SEO Experts, we have worked with over 200 businesses.
+                        Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
+                        With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
+                        Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
+                    </p> <br>
+                    <a class="btns-six" href="./about-us.php">MORE ABOUT US</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                <!-- <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+            </div>
+        </div>
+    </div>
+    <!-- </div> -->
 
     <!---------------- Fifth Section Start ---------------->
     <!-- <div class="container py-5 my-5">
@@ -495,10 +543,12 @@
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
                                 <div>
-                                    <h4>RESEARCH</h4>
-                                    <p>We take a deep dive into the digital ocean, exploring the latest trends, analyzing your target audience,
-                                        and spying on your competitors to identify the best possible strategies for your business. By combining data-driven
-                                        insights with our creativity and expertise, we craft a personalized plan that will make waves in your industry and help you swim with the big fish.</p>
+                                    <h4>Keyword Research and Analysis</h4>
+                                    <p>
+                                        The first step in our process is to conduct thorough keyword research and analysis. This involves identifying the most relevant and high-traffic keywords for your business,
+                                        as well as analyzing the competitiveness of each keyword.
+                                        By doing this, we develop an effective keyword strategy that will drive more traffic and leads to your website.
+                                    </p>
                                 </div>
                             </div>
                             <div class="col-md-2"></div>
@@ -513,12 +563,11 @@
                                     </div>
                                     <div class="col-md-6 d-flex align-items-center">
                                         <div>
-                                            <h4>CREATE</h4>
-                                            <p>We're not just digital marketers, we're dreamers! At Web and SEO Experts,
-                                                we take your wildest visions and transform them into reality through stunning website design,
-                                                engaging social media campaigns, surefire SEO campaigns, and irresistible content that captivates your audience.
-                                                Our creative team works tirelessly to ensure your brand stands out from the pack and becomes the talk of the town.
-                                                Get ready to take center stage and shine like the star you are!
+                                            <h4>On-Page Optimization</h4>
+                                            <p>
+                                                Once we have identified the right keywords, we focus on optimizing your website's on-page elements. This includes optimizing your website's meta tags, header tags, content, images, and internal linking structure.
+                                                Our team of experts ensures that your website is optimized for both search engines and users, resulting in better visibility and user engagement.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -530,10 +579,11 @@
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
                                 <div>
-                                    <h4>LAUNCH</h4>
-                                    <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
-                                        leaving your competitors in the dust. And don't worry, we've got you covered from liftoff to touchdown,
-                                        so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
+                                    <h4>Off-Page Optimization</h4>
+                                    <p>
+                                        Off-page optimization is a crucial part of our SEO process. Our team employs a variety of link-building techniques, including guest blogging, broken link building,
+                                        and influencer outreach, to acquire high-quality backlinks from authoritative websites. This helps to improve your website's domain authority and search engine rankings.
+                                    </p>
                                 </div>
                             </div>
                             <div class="col-md-2"></div>
@@ -548,12 +598,11 @@
                                     </div>
                                     <div class="col-md-6 d-flex align-items-center">
                                         <div>
-                                            <h4>CREATE</h4>
-                                            <p>We're not just digital marketers, we're dreamers! At Web and SEO Experts,
-                                                we take your wildest visions and transform them into reality through stunning website design,
-                                                engaging social media campaigns, surefire SEO campaigns, and irresistible content that captivates your audience.
-                                                Our creative team works tirelessly to ensure your brand stands out from the pack and becomes the talk of the town.
-                                                Get ready to take center stage and shine like the star you are!
+                                            <h4>Content Creation and Optimization</h4>
+                                            <p>
+                                                Content is a critical component of any SEO strategy. Our team of experienced content writers creates high-quality, keyword-rich content that is optimized for both search engines and users. We ensure that your website's content is informative, engaging, and relevant to your target audience.
+                                                We also optimize your content to include the right keywords, internal links, and other on-page elements that improve your website's search engine rankings.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -565,10 +614,11 @@
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
                                 <div>
-                                    <h4>LAUNCH</h4>
-                                    <p>Ready, set, blast off! Our team of tech-savvy individuals ensures your campaigns are out-of-this-world,
-                                        leaving your competitors in the dust. And don't worry, we've got you covered from liftoff to touchdown,
-                                        so you can sit back, relax, and enjoy the ride. Buckle up, it's going to be a wild journey!</p>
+                                    <h4>Reporting and Analysis</h4>
+                                    <p>
+                                        We believe in transparency and accountability, which is why we provide regular reporting and analysis to our clients. Our team uses advanced analytics tools to track your website's performance, including keyword rankings, organic traffic, and backlink profile.
+                                        This allows us to measure the success of our SEO campaigns and make data-driven decisions to improve your website's performance.
+                                    </p>
                                 </div>
                             </div>
                             <div class="col-md-2"></div>
@@ -680,10 +730,7 @@
 
     <!---------------- Ninth Section End ---------------->
 
-    <!---------------- Testimonials Section Start ---------------->
 
-    
-    <!---------------- Testimonials Section End ---------------->
 
     <!---------------- Trusted Section Start ---------------->
     <div class="container pb-5">
