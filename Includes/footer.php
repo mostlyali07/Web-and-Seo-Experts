@@ -1,5 +1,5 @@
 <Footer class="Main-Footer">
-    <div class="container py-4">
+    <div class="container-fluid py-4">
         <div class="row">
             <div class="col-md-6 d-flex align-items-center my-5">
                 <div>

@@ -10,21 +10,21 @@
                         <hr>
                         <div class="slimScrollBar">
                             <ul class="price-list">
-                                <li>
+                                <h5>
                                     <b>Prior Analysis</b>
-                                </li>
+                                </h5>
                                 <li>Initial Website Audit</li>
                                 <li>Competitor Analysis</li>
                                 <li>15 Selected Keywords Targeting</li>
-                                <li>
+                                <h5>
                                     <b>Technical Tools Setup</b>
-                                </li>
+                                </h5>
                                 <li>Google Search Console</li>
                                 <li>Google Analytics</li>
                                 <li>Google Tag Manager</li>
-                                <li>
+                                <h5>
                                     <b>Technical Audit &amp; Optimization</b>
-                                </li>
+                                </h5>
                                 <li>HTTP Response Status Check</li>
                                 <li>Page Load Speed Optimization</li>
                                 <li>Broken Links Fixing</li>
@@ -34,9 +34,9 @@
                                 <li>Index Tags</li>
                                 <li>Conversion Tracking Check &amp; Setup</li>
                                 <li>Setup Robots.txt</li>
-                                <li>
+                                <h5>
                                     <b>On Page Optimization</b>
-                                </li>
+                                </h5>
                                 <li>Meta tag Optimization</li>
                                 <li>Creation of Sitemap.XML</li>
                                 <li>Heading Tags Optimized</li>
@@ -46,18 +46,18 @@
                                 <li>3 Monthly Onsite Blogs</li>
                                 <li>Robots Meta Tag Optimization</li>
                                 <li>Canonical URLs Optimization</li>
-                                <li>
+                                <h5>
                                     <b>Off Page Optimization</b>
-                                </li>
+                                </h5>
                                 <li>Social Bookmarking</li>
                                 <li>Social Sharing</li>
                                 <li>Directory Submissions</li>
                                 <li>10 Business Listings Monthly</li>
                                 <li>10 Profile Creation Monthly</li>
                                 <li>3 Blog Submissions / Web 2.0 Monthly</li>
-                                <li>
+                                <h5>
                                     <b>Reporting</b>
-                                </li>
+                                </h5>
                                 <li>Monthly Reporting</li>
                                 <li>Email Support</li>
                                 <li>Phone Support</li>
@@ -75,24 +75,24 @@
                         <hr>
                         <div class="slimScrollBar">
                             <ul class="price-list">
-                                <li>
+                                <h5>
                                     <b>Prior Analysis</b>
-                                </li>
+                                </h5>
                                 <li>Initial Website Audit</li>
                                 <li>Business Analysis</li>
                                 <li>Competitor Analysis</li>
                                 <li>30 Selected Keywords Targeting</li>
-                                <li>
+                                <h5>
                                     <b>Technical Tools Setup</b>
-                                </li>
+                                </h5>
                                 <li>Google Search Console</li>
                                 <li>Google Analytics</li>
                                 <li>Google Tag Manager</li>
                                 <li>Bing Webmaster Tools</li>
                                 <li>Google My Business</li>
-                                <li>
+                                <h5>
                                     <b>Technical Audit &amp; Optimization</b>
-                                </li>
+                                </h5>
                                 <li>HTTP Response Status Check</li>
                                 <li>Page Load Speed Optimization</li>
                                 <li>Fixing of Site Responsive Issues</li>
@@ -105,9 +105,9 @@
                                 <li>Conversion Tracking Check &amp; Setup</li>
                                 <li>Setup Robots.txt</li>
                                 <li>Plagiarism Check</li>
-                                <li>
+                                <h5>
                                     <b>On Page Optimization</b>
-                                </li>
+                                </h5>
                                 <li>Meta tag Optimization</li>
                                 <li>Creation of Sitemap.XML</li>
                                 <li>Heading Tags Optimized</li>
@@ -119,9 +119,9 @@
                                 <li>OG Tags Optimization</li>
                                 <li>Robots Meta Tag Optimization</li>
                                 <li>Canonical URLs Optimization</li>
-                                <li>
+                                <h5>
                                     <b>Off Page Optimization</b>
-                                </li>
+                                </h5>
                                 <li>Competitors Backlink Analysis</li>
                                 <li>Social Bookmarking</li>
                                 <li>Social Sharing</li>
@@ -133,9 +133,9 @@
                                 <li>6 Monthly Blog Submissions / Web 2.0</li>
                                 <li>2 Monthly Infographic Submission / Image Sharing</li>
                                 <li>2 Monthly Article Submissions</li>
-                                <li>
+                                <h5>
                                     <b>Reporting</b>
-                                </li>
+                                </h5>
                                 <li>Monthly Reporting</li>
                                 <li>Email Support</li>
                                 <li>Phone Support</li>
@@ -153,25 +153,25 @@
                         <hr>
                         <div class="slimScrollBar">
                             <ul class="price-list">
-                                <li>
+                                <h5>
                                     <b>Prior Analysis</b>
-                                </li>
+                                </h5>
                                 <li>Initial Website Audit</li>
                                 <li>Business Analysis</li>
                                 <li>Consumer Analysis</li>
                                 <li>Competitor Analysis</li>
                                 <li>50 Selected Keywords Targeting</li>
-                                <li>
+                                <h5>
                                     <b>Technical Tools Setup</b>
-                                </li>
+                                </h5>
                                 <li>Google Search Console</li>
                                 <li>Google Analytics</li>
                                 <li>Google Tag Manager</li>
                                 <li>Bing Webmaster Tools</li>
                                 <li>Google My Business</li>
-                                <li>
+                                <h5>
                                     <b>Technical Audit &amp; Optimization</b>
-                                </li>
+                                </h5>
                                 <li>HTTP Response Status Check</li>
                                 <li>Page Load Speed Optimization</li>
                                 <li>Fixing of Site Responsive Issues</li>
@@ -186,9 +186,9 @@
                                 <li>W3C Validation</li>
                                 <li>Plagiarism Check</li>
                                 <li>Orphan Pages and Link Analysis</li>
-                                <li>
+                                <h5>
                                     <b>On Page Optimization</b>
-                                </li>
+                                </h5>
                                 <li>Meta tag Optimization</li>
                                 <li>Creation of Sitemap.XML</li>
                                 <li>Heading Tags Optimized</li>
@@ -200,9 +200,9 @@
                                 <li>OG Tags Optimization</li>
                                 <li>Robots Meta Tag Optimization</li>
                                 <li>Canonical URLs Optimization</li>
-                                <li>
+                                <h5>
                                     <b>Off Page Optimization</b>
-                                </li>
+                                </h5>
                                 <li>Competitors Backlink Analysis</li>
                                 <li>Social Bookmarking</li>
                                 <li>Social Sharing</li>
@@ -214,9 +214,9 @@
                                 <li>9 Monthly Blog Submissions / Web 2.0</li>
                                 <li>4 Monthly Infographic Submission / Image Sharing</li>
                                 <li>4 Monthly Article Submissions</li>
-                                <li>
+                                <h5>
                                     <b>Reporting</b>
-                                </li>
+                                </h5>
                                 <li>Monthly Reporting</li>
                                 <li>Email Support</li>
                                 <li>Phone Support</li>
@@ -328,7 +328,7 @@
                                 <li>2 Guest Posting</li>
                                 <li>Google Analytics</li>
                                 <li>Google Business Profile Optimization</li>
-                                <p><strong>SMA (Social Media Advertisement)</strong></p>
+                                <h5><strong>SMA (Social Media Advertisement)</strong></h5>
                                 <li>Facebook Shop Creation</li>
                                 <li>Lead Form Creation</li>
                                 <li>Likes, Followers, Subscribers - 1000 Likes on 1 one platform</li>
@@ -337,7 +337,7 @@
                                 <li>Social Media listing</li>
                                 <li>Facebook Ad Campaigns</li>
                                 <li>Tracking Setup</li>
-                                <p><strong>SMM (Social Media Management)</strong></p>
+                                <h5><strong>SMM (Social Media Management)</strong></h5>
                                 <li>12/Month Unique Social Media Content Posting</li>
                                 <li>Social Media Analysis &amp; Performance Report</li>
                                 <li>Page Optimization</li>
@@ -373,7 +373,7 @@
                                 <li>2 Press Release</li>
                                 <li>Google Analytics</li>
                                 <li>Google Business Profile Optimization</li>
-                                <p><strong>SMA (Social Media Advertisement)</strong></p>
+                                <h5><strong>SMA (Social Media Advertisement)</strong></h5>
                                 <li>Video Promo</li>
                                 <li>Facebook Shop Creation</li>
                                 <li>Lead Form Creation</li>
@@ -383,7 +383,7 @@
                                 <li>Social Media Listing</li>
                                 <li>Facebook Ad Campaigns</li>
                                 <li>Tracking Setup</li>
-                                <p><strong>SMM (Social Media Management)</strong></p>
+                                <h5><strong>SMM (Social Media Management)</strong></h5>
                                 <li>20/Month Unique Social Media Content Posting</li>
                                 <li>Competitor Analysis</li>
                                 <li>Community Management</li>
@@ -424,7 +424,7 @@
                                 <li>4 Press Release</li>
                                 <li>Google Analytics</li>
                                 <li>Google Business Profile Optimization</li>
-                                <p><strong>SMA (Social Media Advertisement)</strong></p>
+                                <h5><strong>SMA (Social Media Advertisement)</strong></h5>
                                 <li>2 Video Promo</li>
                                 <li>Facebook Shop Creation</li>
                                 <li>Lead Form Creation</li>
@@ -434,7 +434,7 @@
                                 <li>Social Media listing</li>
                                 <li>Facebook Ad Campaigns</li>
                                 <li>Tracking Setup</li>
-                                <p><strong>SMM (Social Media Management)</strong></p>
+                                <h5><strong>SMM (Social Media Management)</strong></h5>
                                 <li>40/Month Unique Social Media Content Posting</li>
                                 <li>Competitor Analysis</li>
                                 <li>Community Management</li>
@@ -472,9 +472,9 @@
                                 <li>Complete W3C Certified HTML</li>
                                 <li>Google Friendly Sitemap</li>
                                 <li>NO MONTHLY/YEARLY FEE</li>
-                                <li>
+                                <h5>
                                     <b>Features</b>
-                                </li>
+                                </h5>
                                 <li>Dedicated Project Manager</li>
                                 <li>48 to 72 hours TAT</li>
                                 <li>Complete Deployment</li>
@@ -504,9 +504,9 @@
                                 <li>Google Friendly Sitemap</li>
                                 <li>Contact/Query Form</li>
                                 <li>NO MONTHLY/YEARLY FEE</li>
-                                <li>
+                                <h5>
                                     <b>Features</b>
-                                </li>
+                                </h5>
                                 <li>Dedicated Project Manager</li>
                                 <li>48 to 72 hours TAT</li>
                                 <li>Complete Deployment</li>
@@ -538,9 +538,9 @@
                                 <li>Search Engine Submission</li>
                                 <li>Mobile Responsive</li>
                                 <li>NO MONTHLY/YEARLY FEE</li>
-                                <li>
+                                <h5>
                                     <b>Features</b>
-                                </li>
+                                </h5>
                                 <li>Dedicated Project Manager</li>
                                 <li>48 to 72 hours TAT</li>
                                 <li>Complete Deployment</li>

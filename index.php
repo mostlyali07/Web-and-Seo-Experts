@@ -106,82 +106,6 @@
 
     <?php include './Includes/ctas.php'; ?>
 
-    <!---------------- Process Section Start ---------------->
-    <!-- <div class="container mt-5">
-        <div class="row my-5 py-5">
-            <div class="col-md-12 text-center middle-text">
-                <h6 style="color:#f58b01" class="fw-bold">OUR SEO PROCESS</h6>
-                <h2>Welcome to the land of digital opportunities <br>
-                    where we deliver the best SEO services.</h2>
-                <p>
-                    Our high-quality SEO services will generate qualified leads, increase conversion rates, and grow your business. Discover the process.
-                </p>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-1"></div>
-                <div class="col-md-2 text-center d-flex justify-content-center">
-                    <div class="processs">
-                        <div class="ProsNumber">
-                        </div>
-                        <span>1</span>
-                        <br><br><br>
-                        <h6>COMPETITERS <br>
-                            ANALYSIS</h6>
-                    </div>
-                </div>
-                <div class="col-md-2 text-center d-flex justify-content-center">
-                    <div class="processs">
-                        <div class="ProsNumber">
-                        </div>
-                        <span>2</span>
-                        <br><br><br>
-                        <h6>
-                            DEEP KEYWORDS <br>
-                            RESEARCH
-                        </h6>
-                    </div>
-                </div>
-                <div class="col-md-2 text-center d-flex justify-content-center">
-                    <div class="processs">
-                        <div class="ProsNumber">
-                        </div>
-                        <span>3</span>
-                        <br><br><br>
-                        <h6>
-                            ON PAGE <br>
-                            OPTIMIZATION
-                        </h6>
-                    </div>
-                </div>
-                <div class="col-md-2 text-center d-flex justify-content-center">
-                    <div class="processs">
-                        <div class="ProsNumber">
-                        </div>
-                        <span>4</span>
-                        <br><br><br>
-                        <h6>
-                            OFF PAGE <br>
-                            OPTIMIZATION
-                        </h6>
-                    </div>
-                </div>
-                <div class="col-md-2 text-center d-flex justify-content-center">
-                    <div class="processs">
-                        <div class="ProsNumber">
-                        </div>
-                        <span>5</span>
-                        <br><br><br>
-                        <h6>
-                            COMPREHENSIVE <br>
-                            REPORTING
-                        </h6>
-                    </div>
-                </div>
-                <div class="col-md-1"></div>
-            </div>
-        </div>
-    </div> -->
-    <!---------------- Process Section End ---------------->
 
     <!---------------- Fourth Section Start ---------------->
     <div class="container py-5">
@@ -206,57 +130,7 @@
         </div>
     </div>
     <!---------------- Fourth Section End ---------------->
-    <!---------------- Testimonials Section Start ---------------->
-    <div class="Testimonial-back d-flex align-items-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h2>What Our Clients Say About Us</h2>
-                    <p>It seemed impossible for many of our clients to survive in the industry until we stepped in and turned things around for them.
-                        That is one reason why they speak so highly of our technical and non-technical services.</p>
-                </div>
-                <div class="col-md-6">
-                    <div class="testimonials d-flex align-items-end justify-content-center">
-                        <div>
-                            <div class="testimonial active">
-                                <p class="testimonial-text">
-                                    If you’re looking for a truly dedicated team of publishers, you’ve come to the right place! Kudos to Web and Seo Experts for keeping up with the constantly changing requirements of the book.
-                                    I couldn’t have covered everything without their professional help and attention to detail. Done and dusted with book one and looking forward to publishing my next installment with the pros!
-                                </p>
-                                <h4 class="testimonial-author">Ameli</h4>
-                                <h5 class="testimonial-designation">Marketing Manager</h5>
-                            </div>
-                            <div class="testimonial">
-                                <p class="testimonial-text">
-                                    1 thing down, 10 more to go! That’s how I began working on publishing my book, until Web and Seo Experts came along.
-                                    Their commitment to winding up all the publishing processes within the time frame deserves all the appreciation. They picked up my slack and got everything in order in a timely manner.
-                                    My book came out at least a couple of months before my original planning for releasing the book and I’d ever considered getting professional help. Thank you guys!
-                                </p>
-                                <h4 class="testimonial-author">John</h4>
-                                <h5 class="testimonial-designation">Business Owner</h5>
-                            </div>
-                            <div class="testimonial">
-                                <p class="testimonial-text">
-                                    When I wanted to publish my first book, I had no idea where to start.
-                                    Thanks to Web and Seo Experts and their team of editors for patiently assisting and guiding me through the entire process.
-                                    They’re now my go-to publication for all my future books.
-                                </p>
-                                <h4 class="testimonial-author">Laura</h4>
-                                <h5 class="testimonial-designation">Fashion Designer</h5>
-                            </div>
-                        </div>
-                        <div class="dots">
-                            <span class="dot active" onclick="showTestimonial(0)"></span>
-                            <span class="dot" onclick="showTestimonial(1)"></span>
-                            <span class="dot" onclick="showTestimonial(2)"></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!---------------- Testimonials Section End ---------------->
-    <!-- <div class="grayy"> -->
+
     <div class="container my-5 py-5">
         <div class="row my-5 py-5">
             <div class="col-md-6 right-side-panel d-flex align-items-center">
@@ -273,119 +147,9 @@
             </div>
             <div class="col-md-6">
                 <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-                <!-- <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU https://www.youtube.com/embed/VIDEO_ID?autoplay=1&mute=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
             </div>
         </div>
     </div>
-    <!-- </div> -->
-
-    <!---------------- Fifth Section Start ---------------->
-    <!-- <div class="container py-5 my-5">
-        <div class="row mb-5">
-            <div class="col-md-12 text-center middle-text">
-                <h2>
-                    Our Online Clients Range From Fledgling Businesses To Fortune 500 Giants
-                </h2>
-                <p>Don’t Miss Out On The Best Chance To Nail The Search Engine </p>
-            </div>
-        </div>
-        <div class="row my-5">
-            <div class="tab d-flex mb-5 mobile-tab">
-                <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpen">
-                    <i class="fa-solid fa-pen-nib"></i></button>
-                <button class="tablinks" onclick="openCity(event, 'Web-Design')"><i class="fa-solid fa-code"></i></button>
-                <button class="tablinks" onclick="openCity(event, 'Web-Development')"><i class="fa-brands fa-codepen"></i></button>
-                <button class="tablinks" onclick="openCity(event, 'Content-Writing')"><i class="fa-solid fa-folder-plus"></i></button>
-            </div>
-            <div class="col-md-3 text-center desk-tab">
-                <div class="tab">
-                    <button class="tablinks" onclick="openCity(event, 'Logo-Design')" id="defaultOpenText">SEO</button>
-                    <button class="tablinks" onclick="openCity(event, 'Web-Design')">Social Media</button>
-                    <button class="tablinks" onclick="openCity(event, 'Web-Development')">Web Design And Development</button>
-                    <button class="tablinks" onclick="openCity(event, 'Content-Writing')">Google Paid Advertisement</button>
-                </div>
-            </div>
-            <div class="col-md-9 d-flex align-items-center">
-                <div id="Logo-Design" class="tabcontent">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/seo-optimize.png" alt="features-logo-tips" class="homeTab">
-                        </div>
-                        <div class="col-md-7 d-flex align-items-center">
-                            <div>
-                                <h3>
-                                    What Makes Web And SEO Experts Different From Other SEO Marketing Companies?
-                                </h3>
-                                <p>At Web and SEO Experts, we have worked with over 200 businesses.
-                                    Our data-driven approach ensures that we eliminate guesswork and develop winning SEO marketing strategies for your business.
-                                    With our wealth of experience and expertise, we can help you achieve top-ranking positions faster than other agencies.
-                                    Since Web and SEO Experts has a team of 90 SEO consultants in-house in the USA, you can trust that your project is in good hands.
-                                    <button class="btns-six" type="submit">START PROJECT</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="Web-Design" class="tabcontent">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/dm-sem.png" class="homeTab" alt="features-logo-tips">
-                        </div>
-                        <div class="col-md-7 d-flex align-items-center">
-                            <div>
-                                <h3>
-                                    Social Media Marketing
-                                </h3>
-                                <p>Want to boost your company's social media presence? Stop right there! Our social media marketing services will help you connect with your audience,
-                                    increase engagement, and ultimately drive more traffic to your website.
-                                    We'll create a killer social media strategy tailored to your brand and target audience, and we'll execute it flawlessly across all platforms. Let's get social!</p>
-                                <button class="btns-six" type="submit">START PROJECT</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="Web-Development" class="tabcontent">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/global-seo-service.png" alt="features-logo-tips" class="homeTab">
-                        </div>
-                        <div class="col-md-7 d-flex align-items-center">
-                            <div>
-                                <h3>
-                                    Web Design And Development
-                                </h3>
-                                <p>
-                                    Your website is the foundation of your online presence, and so you want to make sure it is up to par. At Web and SEO Experts, we'll help you create a website that's both visually stunning and highly functional. We'll work with you to identify your goals and tailor your website to your target audience. Whether you need a simple landing page or a full-blown e-commerce site, we've got you covered. Let's build something amazing together!
-                                </p>
-                                <button class="btns-six" type="submit">START PROJECT</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="Content-Writing" class="tabcontent">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <img src="./Assets/images/image.png" class="homeTab" alt="features-logo-tips">
-                        </div>
-                        <div class="col-md-7 d-flex align-items-center">
-                            <div>
-                                <h3>
-                                    Google Paid Advertisement
-                                </h3>
-                                <p>
-                                    Sometimes, you need a little boost to get your brand in front of the right people. That's where our Google paid advertisement services come in. We'll create eye-catching ads that will appear at the top of Google search results, putting you in front of potential customers at the exact moment they're searching for what you offer. We'll monitor and optimize your campaigns to ensure maximum ROI.
-                                </p>
-                                <button class="btns-six" type="submit">START PROJECT</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!---------------- Fifth Section End ---------------->
 
     <!---------------- Sixth Section Start ---------------->
     <div class="sixth-div my-5 py-5">
@@ -455,7 +219,7 @@
     <div class="container my-5">
         <div class="row">
             <div class="col-md-6 text-center d-flex align-items-center">
-                <img src="./Assets/images/shape-round.png" class="imagessss">
+                <img src="./Assets/images/mid-services.png" class="imagessss">
             </div>
             <div class="col-md-6">
                 <div class="row">
@@ -539,7 +303,7 @@
                         </div>
                         <div class="row pt-5">
                             <div class="col-md-6 text-center">
-                                <img src="./Assets/images/comp-1.png" class="imagesss">
+                                <img src="./Assets/images/Keyword-Research-and-Analysis.png" class="imagesss">
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
                                 <div>
@@ -559,7 +323,7 @@
                             <div class="col-md-8">
                                 <div class="row pt-5">
                                     <div class="col-md-6 text-center">
-                                        <img src="./Assets/images/comp-2.png" class="imagesss">
+                                        <img src="./Assets/images/On-Page-Optimization.jpg" class="imagesss">
                                     </div>
                                     <div class="col-md-6 d-flex align-items-center">
                                         <div>
@@ -575,7 +339,7 @@
                         </div>
                         <div class="row py-5">
                             <div class="col-md-6 text-center">
-                                <img src="./Assets/images/comp-3.png" class="imagesss">
+                                <img src="./Assets/images/Off-Page-Optimization.jpg" class="imagesss">
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
                                 <div>
@@ -594,7 +358,7 @@
                             <div class="col-md-8">
                                 <div class="row py-5">
                                     <div class="col-md-6 text-center">
-                                        <img src="./Assets/images/comp-2.png" class="imagesss">
+                                        <img src="./Assets/images/Content-Creation-and-Optimization.png" class="imagesss">
                                     </div>
                                     <div class="col-md-6 d-flex align-items-center">
                                         <div>
@@ -610,7 +374,7 @@
                         </div>
                         <div class="row py-5">
                             <div class="col-md-6 text-center">
-                                <img src="./Assets/images/comp-3.png" class="imagesss">
+                                <img src="./Assets/images/Reporting-and-Analysis.png" class="imagesss">
                             </div>
                             <div class="col-md-4 d-flex align-items-center">
                                 <div>
@@ -657,14 +421,14 @@
                         <hr>
                         <div class="slimScrollBar">
                             <ul class="price-list">
-                                <li>
+                                <H5>
                                     <b>&nbsp; Prior Analysis</b>
-                                </li>
+                                </H5>
                                 <li>&nbsp; Initial Website Audit</li>
                                 <li>&nbsp; 5 Selected Keywords Targeting</li>
-                                <li>
+                                <H5>
                                     <b>&nbsp; On Page Optimization</b>
-                                </li>
+                                </H5>
                                 <li>&nbsp; Meta tag Optimization</li>
                                 <li>&nbsp; Creation of Sitemap.XML</li>
                                 <li>&nbsp; Header Tags Optimized (Such as H1s)</li>
@@ -674,18 +438,18 @@
                                 <li>&nbsp; Search Console Installation</li>
                                 <li>&nbsp; Page Load Speed Optimization</li>
                                 <li>&nbsp; 1 Monthly On Page Blog Submission</li>
-                                <li>
+                                <H5>
                                     <b>&nbsp; Off Page Optimization</b>
-                                </li>
+                                </H5>
                                 <li>&nbsp; Social Bookmarking</li>
                                 <li>&nbsp; Social Sharing</li>
                                 <li>&nbsp; Directory Submissions</li>
                                 <li>&nbsp; 5 Business Listings Monthly</li>
                                 <li>&nbsp; 5 Profile Creation Monthly</li>
                                 <li>&nbsp; 1 Monthly Blog Submissions / Web 2.0</li>
-                                <li>
+                                <H5>
                                     <b>&nbsp; Reporting</b>
-                                </li>
+                                </H5>
                                 <li>&nbsp; Monthly Reporting</li>
                                 <li>&nbsp; Email Support</li>
                                 <li>&nbsp; Phone Support</li>
@@ -765,26 +529,9 @@
             </div>
         </div>
     </div>
-    <!---------------- Trusted Section End ---------------->
 
-    <!---------------- CTAs Section Start ---------------->
-    <?php include './Includes/ctas.php'; ?>
-    <!---------------- CTAs Section End ---------------->
-    <!---------------- Awards Section Start ---------------->
-    <div class="container my-5">
-        <div class="row text-center">
-            <h2 class="fw-bold">Awards</h2>
-            <p>Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.</p>
-            <div class="col-md-12 d-flex justify-content-evenly text-center flex-wrap Awards">
-                <img src="./Assets/images/Award-1.png" alt="Award-1">
-                <img src="./Assets/images/Award-2.png" alt="Award-2">
-                <img src="./Assets/images/Award-3.png" alt="Award-3">
-                <img src="./Assets/images/Award-4.png" alt="Award-4">
-                <img src="./Assets/images/Award-5.png" alt="Award-5">
-            </div>
-        </div>
-    </div>
-    <!---------------- Awards Section End ---------------->
+    <?php include './Includes/testimonials.php'; ?>
+    <?php include './Includes/awards.php'; ?>
 
     <!---------------- Footer Start ---------------->
     <?php include './Includes/footer.php'; ?>

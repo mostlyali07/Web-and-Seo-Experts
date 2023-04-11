@@ -1,4 +1,4 @@
-<div class="heighs d-flex justify-content-center align-items-center mt-5">
+<div class="heighs d-flex justify-content-center align-items-center mt-3">
     <form class="vert-form">
         <input type="text" placeholder="YOUR NAME" class="input-feilds" required>
 

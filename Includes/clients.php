@@ -1,4 +1,4 @@
-<div class="mt-4 d-flex justify-content-center flex-wrap">
+<div class="mt-3 d-flex justify-content-center flex-wrap">
     <img src="./Assets/images/client01.png" alt="client01">
     <img src="./Assets/images/client02.png" alt="client02">
     <img src="./Assets/images/client03.png" alt="client03">

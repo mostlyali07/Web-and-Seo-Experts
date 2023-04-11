@@ -247,17 +247,15 @@
             </div>
         </div>
     </div>
-    <!---------------- Ninth Section Start ---------------->
-    <div class="container">
-        <div class="row my-5">
-            <div class="col-md-12 text-center">
-                <h2 class="fw-bold">Ready, Set, Social! Select Your Desired Social Media Marketing Package Today</h2>
-                <p>We offer a range of social media marketing packages, so that you can choose the one that's right for you.</p>
-            </div>
-        </div>
-    </div>
-    <?php include './Includes/Pricing.php'; ?>
-    <!---------------- Ninth Section End ---------------->
+
+
+
+
+    <?php include './Includes/testimonials.php'; ?>
+    <?php include './Includes/awards.php'; ?>
+
+
+
     <?php include './Includes/footer.php'; ?>
 
 </body>

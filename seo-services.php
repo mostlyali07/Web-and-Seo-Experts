@@ -251,19 +251,11 @@
             </div>
         </div>
     </div>
-
-    <!---------------- Ninth Section Start ---------------->
-    <div class="container">
-        <div class="row my-5">
-            <div class="col-md-12 text-center">
-                <h2 class="fw-bold">Buy SEO Services Built Specifically For Your Business</h2>
-                <p>Our customized SEO packages cover all aspects of SEO, including keyword research, on-page optimization, link building, and more. We'll analyze your website and make recommendations based on our findings, ensuring that your SEO strategy is optimized for maximum impact.</p>
-
-            </div>
-        </div>
-    </div>
     <?php include './Includes/Pricing.php'; ?>
-    <!---------------- Ninth Section End ---------------->
+
+    <?php include './Includes/testimonials.php'; ?>
+    <?php include './Includes/awards.php'; ?>
+
     <?php include './Includes/footer.php'; ?>
 
 </body>
