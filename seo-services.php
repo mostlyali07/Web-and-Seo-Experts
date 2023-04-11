@@ -251,6 +251,15 @@
             </div>
         </div>
     </div>
+
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-md-12 text-center">
+                <h2 class="fw-bold">Ready, Set, Social! Select Your Desired SEO Services Package Today</h2>
+                <p>We offer a range of SEO Services packages, so that you can choose the one that's right for you.</p>
+            </div>
+        </div>
+    </div>
     <?php include './Includes/Pricing.php'; ?>
 
     <?php include './Includes/testimonials.php'; ?>

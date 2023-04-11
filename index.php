@@ -219,13 +219,13 @@
     <div class="container my-5">
         <div class="row">
             <div class="col-md-6 text-center d-flex align-items-center">
-                <img src="./Assets/images/mid-services.png" class="imagessss">
+                <img src="./Assets/images/mid-services.png" class="imagessss" id="image">
             </div>
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="#">
-                            <div class="campaign p-5 text-center">
+                        <a href="/seo-services">
+                            <div class="campaign p-5 text-center text-div" onmouseover="changeImage('./Assets/images/SEO-1.jpg')" onmouseout="changeImage('./Assets/images/mid-services.png')">
                                 <i class="fa-solid fa-file icons-charts"></i>
                                 <h5 class="text-6">Search Engine Optimization</h5>
 
@@ -237,8 +237,8 @@
                         </a>
                     </div>
                     <div class="col-md-6">
-                        <a href="#">
-                            <div class="campaign p-5 right-one text-center">
+                        <a href="/social-media-services">
+                            <div class="campaign p-5 right-one text-center text-div" onmouseover="changeImage('./Assets/images/seo-media-marketing.png')" onmouseout="changeImage('./Assets/images/mid-services.png')">
                                 <i class="fa-solid fa-chart-simple icons-charts"></i>
                                 <h5 class="text-6">Social Media Marketing</h5>
 
@@ -252,8 +252,8 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <a href="#">
-                            <div class="campaign p-5 text-center">
+                        <a href="/website-design-development-services">
+                            <div class="campaign p-5 text-center text-div" onmouseover="changeImage('./Assets/images/gogle-ads-7.png')" onmouseout="changeImage('./Assets/images/mid-services.png')">
                                 <i class="fa-solid fa-code icons-charts"></i>
                                 <h5 class="text-6">Website Design And Development</h5>
 
@@ -266,8 +266,8 @@
                     </div>
                     <div class="col-md-6">
 
-                        <a href="#">
-                            <div class="campaign p-5 right-one text-center">
+                        <a href="/google-ads-management-services">
+                            <div class="campaign p-5 right-one text-center text-div" onmouseover="changeImage('./Assets/images/gogle-ads-8.webp')" onmouseout="changeImage('./Assets/images/mid-services.png')">
                                 <i class="fa-solid fa-magnifying-glass-dollar icons-charts"></i>
                                 <h5 class="text-6">Google Paid Marketing </h5>
 
