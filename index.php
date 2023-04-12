@@ -20,12 +20,15 @@
                                     Into A Profit Machine</span>
                             </h1>
                             <p>
-                                Don't wait any longer to take your business to the next level - let us help you get there with
-                                our top-notch search engine optimization services! At Web and SEO Experts,
-                                You will receive website analysis, strategy, forecast, and key performance indicators without any strings attached.
+                                Don't wait any longer to take your business to the next level - let
+                                <br> us help you get there with our top-notch search engine
+                                <br> optimization services! At Web and SEO
+                                Experts,
+                                <br> You will receive website analysis, strategy,<br> forecast, and key
+                                performance indicators <br> without any strings attached.
                             </p>
-                            <button class="btns-one" type="submit">START PROJECT</button>
-                            <button class="btns-two" type="submit">CALL NOW</button>
+                            <!-- <button class="btns-one" type="submit">START PROJECT</button>
+                            <button class="btns-two" type="submit">CALL NOW</button> -->
                         </div>
                     </div>
                     <div class="col-md-6 d-flex align-items-center justify-content-center">
@@ -146,7 +149,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <iframe class="youtube" src="https://www.youtube.com/embed/_QmyeFfiZaU?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="youtube" src="https://www.youtube.com/embed/Dm2Ts9dwRNc?autoplay=1&mute=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -225,7 +228,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <a href="/seo-services">
-                            <div class="campaign p-5 text-center text-div" onmouseover="changeImage('./Assets/images/SEO-1.jpg')" onmouseout="changeImage('./Assets/images/mid-services.png')">
+                            <div class="campaign p-5 text-center text-div" onmouseover="changeImage('./Assets/images/SEO-1.jpg')" onmouseout="changeImage(' ')">
                                 <i class="fa-solid fa-file icons-charts"></i>
                                 <h5 class="text-6">Search Engine Optimization</h5>
 

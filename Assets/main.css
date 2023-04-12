@@ -953,18 +953,29 @@ header.scrolled {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
   color: #fff;
 }
 .testimonials {
   width: 100%;
   text-align: center;
   height: 320px;
-  overflow: hidden;
   position: relative;
 }
-
+.testimonials::before {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 94%;
+  height: 100%;
+  content: "";
+  background: #f58b01;
+  -webkit-transform: rotate(-6deg);
+  transform: rotate(353deg);
+  z-index: 0;
+}
 .testimonial {
-  width: 100%;
+  width: 90%;
   height: 320px;
   position: absolute;
   top: 0;
@@ -975,7 +986,6 @@ header.scrolled {
   padding: 26px;
   border-radius: 6px;
 }
-
 .testimonial.active {
   opacity: 1;
 }

@@ -1,25 +1,3 @@
-<!-- <div class="Top-Bar">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-6 d-flex">
-                <a href="#" class="py-2">About Us</a>
-                <a href="#" class="px-4 py-2">FAQ</a>
-                <div class="social-icons px-4 py-2">
-                    <a href="#"><i class="fa-brands fa-twitter"></i></a>&nbsp;&nbsp;
-                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>&nbsp;&nbsp;
-                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>&nbsp;&nbsp;
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                </div>
-            </div>
-            <div class="col-md-6 d-flex flex-row-reverse">
-                <a href="#" class="py-2"><i class="fa-solid fa-envelope"></i> anum_company@gmail.com</a>
-                &nbsp;&nbsp;&nbsp;
-                <a href="#" class="py-2 pl-5"><i class="fa-solid fa-location-dot"></i> 411 University St, Seattle,
-                    USA</a>
-            </div>
-        </div>
-    </div>
-</div> -->
 <header id="header">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">

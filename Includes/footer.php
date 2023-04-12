@@ -25,21 +25,20 @@
                 <img src="./Assets/images/Footer-trusted-img.png" alt="">
             </div>
             <div class="col-md-2 lh-lg">
-                <h6 class="fw-bold mb-4">About Us</h6>
-                <li>Home</li>
-                <li>About Us</li>
-                <li>Services</li>
-                <li>Pricing</li>
-                <li>Portfolio</li>
-                <li>Contatc Us</li>
+                <h6 class="fw-bold mb-4">Quick Links</h6>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about-us">About Us</a></li>
+                <li><a href="/pricing"></a> Pricing</li>
+                <li><a href="/portfolio">Portfolio</a></li>
+                <li><a href="/contact-us">Contatc Us</a></li>
 
             </div>
             <div class="col-md-2 lh-lg">
                 <h6 class="fw-bold mb-4">Services</h6>
-                <li>Custom Illustration</li>
-                <li>Logo Illustration</li>
-                <li>2D Illustration</li>
-                <li>3D Illustration</li>
+                <li><a href="/seo-services">Search Engine Optimization</a></li>
+                <li><a href="/google-ads-management-services">Google Ads Management</a></li>
+                <li><a href="/social-media-services">Social Media marketing</a></li>
+                <li><a href="/website-design-development-services">Website Design & Development</a></li>
             </div>
             <div class="col-md-3 lh-lg">
                 <h6 class="fw-bold mb-4">Contact Us</h6>
@@ -68,8 +67,6 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
 </script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 <script>
     function changeImage(imagePath) {
         document.getElementById("image").src = imagePath;
