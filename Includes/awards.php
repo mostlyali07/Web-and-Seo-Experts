@@ -1,8 +1,8 @@
     <!---------------- Awards Section Start ---------------->
     <div class="container my-5">
         <div class="row text-center">
-            <h2 class="fw-bold">Awards</h2>
-            <div class="col-md-12 d-flex justify-content-evenly text-center flex-wrap Awards">
+            <h2 class="fw-bold fs-2">Awards</h2>
+            <div class="Awards col-md-12 d-flex justify-content-evenly text-center flex-wrap">
                 <img src="./Assets/images/Award-1.png" alt="Award-1">
                 <img src="./Assets/images/Award-2.png" alt="Award-2">
                 <img src="./Assets/images/Award-3.png" alt="Award-3">

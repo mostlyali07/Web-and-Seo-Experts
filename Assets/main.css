@@ -51,7 +51,7 @@ a {
   color: #fff;
 }
 header {
-  height: 100px;
+  height: 90px;
   padding: 10px;
   position: fixed;
   top: 0;
@@ -948,41 +948,37 @@ header.scrolled {
 }
 /************* Testimonial *************/
 .Testimonial-back {
-  height: 55vh;
   background-image: url(./images/testimonial-back.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  overflow: hidden;
   color: #fff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.test-back {
+  background-image: url(./images/back-box.png);
+  background-position: 95%;
+  background-size: 49%;
+  background-repeat: no-repeat;
+  padding: 50px;
 }
 .testimonials {
   width: 100%;
   text-align: center;
   height: 320px;
+  overflow: hidden;
   position: relative;
 }
-.testimonials::before {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 94%;
-  height: 100%;
-  content: "";
-  background: #f58b01;
-  -webkit-transform: rotate(-6deg);
-  transform: rotate(353deg);
-  z-index: 0;
-}
 .testimonial {
-  width: 90%;
+  width: 100%;
   height: 320px;
   position: absolute;
   top: 0;
   left: 0;
   opacity: 0;
   transition: opacity 1s ease-in-out;
-  background-color: #f58b01;
+  background-color: #001b33;
   padding: 26px;
   border-radius: 6px;
 }
@@ -1008,14 +1004,14 @@ header.scrolled {
   width: 20px;
   height: 10px;
   border-radius: 2px;
-  background-color: #02386649;
+  background-color: #f58b0149;
   margin: 0 5px;
   cursor: pointer;
   z-index: 99;
 }
 
 .dot.active {
-  background-color: #023866;
+  background-color: #f58b01;
 }
 
 @keyframes spin {
@@ -1049,7 +1045,6 @@ header.scrolled {
     height: 190vh;
     padding-top: 200px;
     margin-top: -20vh;
-    /* padding-bottom: 300px; */
   }
   .randomOne {
     width: 340px !important;
@@ -1093,7 +1088,7 @@ header.scrolled {
     background-position: 80% 35%;
   }
   .Awards img {
-    width: 80px;
+    width: 126px;
   }
   .main-form {
     width: 85%;
@@ -1170,5 +1165,26 @@ header.scrolled {
   }
   .testimonial {
     height: 450px;
+  }
+  .test-back {
+    background-image: none;
+    padding: 10px;
+  }
+  .gray {
+    background-color: #d2d2d2;
+    background-image: none;
+    padding: 50px 0px;
+  }
+  .merge-one {
+    background-image: none;
+  }
+  .merge-two {
+    background-image: none;
+  }
+  .merge-three {
+    background-image: none;
+  }
+  .merge-four {
+    background-image: none;
   }
 }

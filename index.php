@@ -21,11 +21,9 @@
                             </h1>
                             <p>
                                 Don't wait any longer to take your business to the next level - let
-                                <br> us help you get there with our top-notch search engine
-                                <br> optimization services! At Web and SEO
-                                Experts,
-                                <br> You will receive website analysis, strategy,<br> forecast, and key
-                                performance indicators <br> without any strings attached.
+                                us help you get there with our top-notch search engine optimization services! At Web and SEO Experts,
+                                You will receive website analysis, strategy, forecast, and key
+                                performance indicators without any strings attached.
                             </p>
                             <!-- <button class="btns-one" type="submit">START PROJECT</button>
                             <button class="btns-two" type="submit">CALL NOW</button> -->
@@ -134,8 +132,8 @@
     </div>
     <!---------------- Fourth Section End ---------------->
 
-    <div class="container my-5 py-5">
-        <div class="row my-5 py-5">
+    <div class="container py-5">
+        <div class="row py-5">
             <div class="col-md-6 right-side-panel d-flex align-items-center">
                 <div>
                     <h2> What Makes Web And SEO Experts Different From Other SEO Marketing Companies?</h2>

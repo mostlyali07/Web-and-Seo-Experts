@@ -15,7 +15,7 @@
         <hr style="color: #fff;" />
         <div class="row mt-5">
             <div class="col-md-5">
-                <a class="navbar-brand" href="/Web-and-Seo-Experts/">
+                <a class="navbar-brand" href="/">
                     <img src="./Assets/images/main-logo.png" alt="Web and SEO Experts" width="240">
                 </a>
                 <p class="mt-4">
@@ -52,9 +52,9 @@
             <div class="col-md-12 text-center mt-5">
                 <h6 class="lh-lg">Copyright &copy; 2023 webandseoexperts.com | All rights reserved
                     |
-                    <a href="/Web-and-Seo-Experts/terms-and-conditions"> Terms And Conditions</a>
+                    <a href="/terms-and-conditions"> Terms And Conditions</a>
                     |
-                    <a href="/Web-and-Seo-Experts/privacy-policy">Privacy Policy</a>
+                    <a href="/privacy-policy">Privacy Policy</a>
                 </h6>
             </div>
         </div>
@@ -66,77 +66,89 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous">
 </script>
+<!-- Include jQuery library -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<!-- <script src="../main.js" type="module"></script> -->
+
+
 <script>
+    $(document).ready(function() {
+        // Click event handler for header tabs
+        $(".nav-link").on("click", function() {
+            // Remove active class from all tabs
+            $(".nav-link").removeClass("active");
+            // Add active class to the clicked tab
+            $(this).addClass("active");
+        });
+    });
+
     function changeImage(imagePath) {
         document.getElementById("image").src = imagePath;
     }
 
     /////////Testimonial//////////
-    const testimonials = document.querySelectorAll('.testimonial');
-    const dots = document.querySelectorAll('.dot');
+    const testimonials = document.querySelectorAll(".testimonial");
+    const dots = document.querySelectorAll(".dot");
     let currentTestimonial = 0;
 
     function showTestimonial(n) {
-        testimonials[currentTestimonial].className = 'testimonial';
-        dots[currentTestimonial].className = 'dot';
+        testimonials[currentTestimonial].className = "testimonial";
+        dots[currentTestimonial].className = "dot";
         currentTestimonial = (n + testimonials.length) % testimonials.length;
-        testimonials[currentTestimonial].className = 'testimonial active';
-        dots[currentTestimonial].className = 'dot active';
+        testimonials[currentTestimonial].className = "testimonial active";
+        dots[currentTestimonial].className = "dot active";
     }
 
     function nextTestimonial() {
         showTestimonial(currentTestimonial + 1);
-        testimonials[currentTestimonial].className = 'testimonial next';
-        testimonials[(currentTestimonial + 1) % testimonials.length].className = 'testimonial active';
+        testimonials[currentTestimonial].className = "testimonial next";
+        testimonials[(currentTestimonial + 1) % testimonials.length].className =
+            "testimonial active";
     }
 
     function previousTestimonial() {
         showTestimonial(currentTestimonial - 1);
-        testimonials[currentTestimonial].className = 'testimonial previous';
-        testimonials[(currentTestimonial + 1) % testimonials.length].className = 'testimonial active';
+        testimonials[currentTestimonial].className = "testimonial previous";
+        testimonials[(currentTestimonial + 1) % testimonials.length].className =
+            "testimonial active";
     }
 
     setInterval(nextTestimonial, 3000);
 
+    const tabButtons = document.querySelectorAll(".tab button");
 
-    const tabButtons = document.querySelectorAll('.tab button');
-
-    tabButtons.forEach(button => {
-        button.addEventListener('click', () => {
+    tabButtons.forEach((button) => {
+        button.addEventListener("click", () => {
             const tabContent = button.parentElement.nextElementSibling;
-            tabContent.classList.add('slide-in-left');
+            tabContent.classList.add("slide-in-left");
         });
     });
 
+    const header = document.querySelector("header");
 
-
-
-    const header = document.querySelector('header');
-
-    window.addEventListener('scroll', () => {
+    window.addEventListener("scroll", () => {
         const scrollPos = window.scrollY;
         if (scrollPos > 0) {
-            header.classList.add('scrolled');
+            header.classList.add("scrolled");
         } else {
-            header.classList.remove('scrolled');
+            header.classList.remove("scrolled");
         }
     });
 
-
-
-
-
-    $('.count,.count-2').each(function() {
-        $(this).prop('Counter', 0).animate({
-            Counter: $(this).text()
-        }, {
-            duration: 4000,
-            easing: 'swing',
-            step: function(now) {
-                $(this).text(Math.ceil(now));
-            }
-        });
+    $(".count,.count-2").each(function() {
+        $(this)
+            .prop("Counter", 0)
+            .animate({
+                Counter: $(this).text(),
+            }, {
+                duration: 4000,
+                easing: "swing",
+                step: function(now) {
+                    $(this).text(Math.ceil(now));
+                },
+            });
     });
 
     function openCity(evt, cityName) {
@@ -157,8 +169,6 @@
     document.getElementById("defaultOpen").click();
     document.getElementById("defaultOpenText").click();
 
-
-
     function toggleDivs() {
         var checkbox = document.getElementById("checkbox");
         var div1 = document.getElementById("div1");
@@ -175,11 +185,6 @@
 
     // Hide div2 on page load
     document.getElementById("div1").classList.add("hidden");
-
-
-
-
-
 
     //////////// Pricing
     function openPricing(evt, PricingName) {
